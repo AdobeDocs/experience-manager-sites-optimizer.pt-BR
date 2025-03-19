@@ -1,10 +1,10 @@
 ---
 title: Tipos de oportunidade do Sites Optimizer
 description: Saiba mais sobre os principais tipos de oportunidade no Sites Optimizer e como eles podem ajudar você a melhorar o desempenho do seu site.
-source-git-commit: 383e0431354d8d88838f1319e37b773308dddb6d
+source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 11%
+source-wordcount: '214'
+ht-degree: 9%
 
 ---
 
@@ -13,51 +13,26 @@ ht-degree: 11%
 
 ![Tipos de oportunidade](./assets/overview/hero.png){align="center"}
 
-O AEM Sites Optimizer fornece insights e recomendações valiosos para ajudar você a melhorar o desempenho, a usabilidade e a segurança do seu site. Esses insights estão agrupados nas principais áreas de oportunidade: engajamento, aquisição de tráfego, postura de segurança, integridade do site e otimização de formulários. Cada categoria destaca maneiras específicas de aprimorar o seu site, seja aumentando a interação do visitante, melhorando a descoberta, fortalecendo a segurança, mantendo a estabilidade do site ou otimizando o desempenho do formulário.
+O AEM Sites Optimizer fornece insights e recomendações valiosos para ajudar você a melhorar o desempenho, a usabilidade e a segurança do seu site. Esses insights estão agrupados nas principais áreas de oportunidade: Envolvimento, Aquisição de tráfego, Postura de segurança e Integridade do site. Cada categoria destaca maneiras específicas de aprimorar o site, seja aumentando a interação do visitante, melhorando a descoberta, fortalecendo a segurança ou mantendo a estabilidade do site.
 
-Aproveitar essas oportunidades melhora a experiência do usuário, atrai o público certo e mantém seu site seguro e confiável. Melhorar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade. A otimização de formulários também pode aumentar as conversões. Explore os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
+Aproveitar essas oportunidades melhora a experiência do usuário, atrai o público certo e mantém seu site seguro e confiável. Melhorar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade.  Explore os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
 
 ## Tipos de oportunidades
 
 <!-- CARDS 
 
-* ./traffic-acquisition.md
-   { title = Traffic acquisition }
 * ./engagement.md
    { title = Engagement }
-* ./site-health.md
-   { title = Site health }
 * ./security-posture.md
    { title = Security posture }
-* ./form-optimization.md
-   { title = Form optimization }
+* ./site-health.md
+   { title = Site health }
+* ./traffic-acquisition.md
+   { title = Traffic acquisition }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Traffic acquisition">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./traffic-acquisition.md" title="Aquisição de tráfego" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/traffic-acquisition/hero.png" alt="Aquisição de tráfego"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="Aquisição de tráfego">Aquisição de tráfego</a>
-                    </p>
-                    <p class="is-size-6">Saiba como aumentar a aquisição de tráfego com o Sites Optimizer.</p>
-                </div>
-                <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Engagement">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -76,29 +51,6 @@ Aproveitar essas oportunidades melhora a experiência do usuário, atrai o públ
                     <p class="is-size-6">Saiba como melhorar o engajamento com o Sites Optimizer.</p>
                 </div>
                 <a href="./engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Site health">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="./site-health.md" title="Integridade do site" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/site-health/hero.png" alt="Integridade do site"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./site-health.md" target="_blank" rel="referrer" title="Integridade do site">Integridade do site</a>
-                    </p>
-                    <p class="is-size-6">Saiba como melhorar a integridade do site com o Sites Optimizer.</p>
-                </div>
-                <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>
@@ -127,12 +79,12 @@ Aproveitar essas oportunidades melhora a experiência do usuário, atrai o públ
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Form optimization">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Site health">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./form-optimization.md" title="Otimização de formulários" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="assets/form-optimization/hero.png" alt="Otimização de formulários"
+                    <a href="./site-health.md" title="Integridade do site" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/site-health/hero.png" alt="Integridade do site"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -140,11 +92,34 @@ Aproveitar essas oportunidades melhora a experiência do usuário, atrai o públ
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./form-optimization.md" target="_blank" rel="referrer" title="Otimização de formulários">Otimização do formulário</a>
+                        <a href="./site-health.md" target="_blank" rel="referrer" title="Integridade do site">Integridade do site</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a otimização de formulários com o Sites Optimizer.</p>
+                    <p class="is-size-6">Saiba como melhorar a integridade do site com o Sites Optimizer.</p>
                 </div>
-                <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="./site-health.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Traffic acquisition">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./traffic-acquisition.md" title="Aquisição de tráfego" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/traffic-acquisition/hero.png" alt="Aquisição de tráfego"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./traffic-acquisition.md" target="_blank" rel="referrer" title="Aquisição de tráfego">Aquisição de tráfego</a>
+                    </p>
+                    <p class="is-size-6">Saiba como aumentar a aquisição de tráfego com o Sites Optimizer.</p>
+                </div>
+                <a href="./traffic-acquisition.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>

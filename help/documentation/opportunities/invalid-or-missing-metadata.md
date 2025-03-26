@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de metadados inválida ou ausente
 description: Saiba mais sobre a oportunidade de metadados inválida ou ausente e como usá-la para melhorar a aquisição do tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: 850c1ed49d4ee117ece19c865a329f13b69bc8dc
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 1%
@@ -64,8 +64,9 @@ Você pode optar por ignorar entradas com metadados inválidos ou com falha de d
 
 >[!ENDTABS]
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimização automática sugerida de metadados inválidos ou ausentes](./assets/missing-or-invalid-metadata/auto-optimize.png){align="center"}
 

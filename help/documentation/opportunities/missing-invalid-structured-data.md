@@ -2,7 +2,7 @@
 title: Documentação de dados estruturados ausente ou inválida
 description: Saiba mais sobre a oportunidade de dados estruturados ausente ou inválida e como usá-la para melhorar a aquisição do tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: 0a333a4055e59c49d3266d8c3ed55d7e60771923
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 1%
@@ -41,8 +41,9 @@ A oportunidade de dados estruturados inválidos ou ausentes também fornece suge
 * **Problemas** - Um campo que contém o número de problemas e um menu suspenso que lista todos os problemas.
 * **Campo de sugestão** - Uma descrição gerada por IA e sugestões para atualizações de dados estruturados adequadas. Você pode rolar para baixo para sugestões e problemas adicionais.
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimizar automaticamente dados estruturados ausentes ou inválidos sugeridos](./assets/missing-or-invalid-structured-data/auto-optimize.png){align="center"}
 

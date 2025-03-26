@@ -2,7 +2,7 @@
 title: Documentação de texto ALT ausente
 description: Saiba mais sobre a oportunidade perdida de texto alternativo e como usá-la para melhorar o engajamento no seu site.
 badgeEngagement: label="Envolvimento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Envolvimento"
-source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -57,8 +57,9 @@ Você pode optar por ignorar as entradas na lista de oportunidades. Selecionar o
 
 >[!ENDTABS]
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimizar automaticamente texto alternativo ausente](./assets/missing-alt-text/auto-optimize.png){align="center"}
 

@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de backlinks quebrados
 description: Saiba mais sobre a oportunidade de backlinks quebrados e como usá-la para melhorar a aquisição do tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: d2f8df0515265f6bc983cf906e07e9bf7230becf
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 1%
@@ -60,9 +60,9 @@ Você pode optar por ignorar entradas com o URL de destino corrompido. Seleciona
 
 >[!ENDTABS]
 
+## Otimizar automaticamente
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
-
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimizar automaticamente backlinks corrompidos](./assets/broken-backlinks/auto-optimize.png){align="center"}
 

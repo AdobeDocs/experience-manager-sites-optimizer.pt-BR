@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de script entre sites
 description: Saiba mais sobre a oportunidade de criação de script entre sites e para identificar e corrigir vulnerabilidades de segurança do site.
 badgeSecurityPosture: label="Postura de segurança" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Postura de segurança"
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 4%
@@ -29,8 +29,9 @@ A oportunidade de criação de script entre sites identifica e corrige vulnerabi
 
 * **Correção sugerida** - Uma sugestão gerada por IA sobre como corrigir a vulnerabilidade.
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 >[!BEGINTABS]
 

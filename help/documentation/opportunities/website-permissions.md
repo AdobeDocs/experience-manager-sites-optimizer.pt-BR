@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de permissões do site
 description: Saiba mais sobre a oportunidade de permissões de site e como usá-la para aumentar a segurança do em seu site.
 badgeSecurityPosture: label="Postura de segurança" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Postura de segurança"
-source-git-commit: 5d1ae616ddde74f69b73ba5b44297c14b2dea36b
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 2%
@@ -33,7 +33,9 @@ O recurso **Oportunidade de Permissões do Site** identifica e lista automaticam
 
 A sugestão automática fornece recomendações geradas por IA no campo **Permissões sugeridas**, permitindo que você substitua as permissões sinalizadas por alternativas seguras.
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimizar permissões de sites automaticamente](./assets/website-permissions/auto-optimize.png){align="center"}
 

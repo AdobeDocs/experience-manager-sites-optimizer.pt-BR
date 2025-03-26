@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de problemas do mapa do site
 description: Saiba mais sobre a oportunidade de problemas do mapa de site e como usá-lo para melhorar a aquisição de tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: d812a49e4b49d329717586b9f3c7a235aff3e69a
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 1%
@@ -75,8 +75,9 @@ Cada problema de mapa de site [que atende aos critérios de filtro](#auto-identi
 
 As sugestões normalmente incluem um caminho atualizado do site para corrigir a entrada do mapa de site. Em alguns casos, eles também podem fornecer instruções mais detalhadas, como especificar o público alvo de redirecionamento correto.
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimizar automaticamente problemas do mapa de site](./assets/sitemap-issues/auto-optimize.png){align="center"}
 

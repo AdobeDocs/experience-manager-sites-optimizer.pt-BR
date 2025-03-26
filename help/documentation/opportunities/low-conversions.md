@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de conversões baixas
 description: Saiba mais sobre a oportunidade de baixas conversões e como usá-la para melhorar o engajamento do formulário no seu site.
 badgeFormOptimization: label="Otimização de formulários" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Otimização de formulários"
-source-git-commit: f83926c9136e3d83be56faa403bc9609b2ee09df
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 1%
@@ -50,8 +50,9 @@ Clique em cada variação para visualizá-la no lado direito da tela. Na parte s
 
 >[!ENDTABS]
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimizar automaticamente conversões baixas](./assets/low-conversions/auto-optimize.png){align="center"}
 

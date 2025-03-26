@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de alta taxa de rejeição
 description: Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o envolvimento do formulário no seu site.
 badgeEngagement: label="Envolvimento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Envolvimento"
-source-git-commit: 393feffe477eff99a026b7ad7cad5531c20254ea
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 1%
@@ -50,7 +50,9 @@ Clique em cada variação para visualizá-la no lado direito da tela. Na parte s
 
 >[!ENDTABS]
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
+
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimizar automaticamente alta taxa de rejeição](./assets/high-bounce-rate/auto-optimize.png){align="center"}
 

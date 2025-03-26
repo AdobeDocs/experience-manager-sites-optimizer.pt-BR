@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de links internos quebrados
 description: Saiba mais sobre a oportunidade de links quebrados e como usá-la para melhorar o engajamento no seu site.
 badgeEngagement: label="Envolvimento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Envolvimento"
-source-git-commit: 40ed1b3d60bd4eb1e5410c8c76a7d45856a3d79b
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -61,8 +61,9 @@ Você pode optar por ignorar entradas com os URLs com falha direcionados. Seleci
 >[!ENDTABS]
 
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 <!---![Auto-optimize suggested invalid or missing metadata](./assets/broken-internal-links/auto-optimize.png){align="center"}-->
 

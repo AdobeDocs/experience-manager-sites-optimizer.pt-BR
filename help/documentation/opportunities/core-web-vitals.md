@@ -2,7 +2,7 @@
 title: Documentação de oportunidade dos Componentes principais da Web
 description: Saiba mais sobre as principais oportunidades de vitais para a Web e como usá-las para melhorar a aquisição de tráfego.
 badgeSiteHealth: label="Integridade do site" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Integridade do site"
-source-git-commit: 81343812472477448fd0ee8be89bd6ae784a9e61
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 1%
@@ -42,8 +42,9 @@ A oportunidade de vitais da Web principais fornece sugestões de correção gera
 
 Cada categoria pode conter vários problemas. Portanto, role para baixo para ver a lista completa de problemas e recomendações.  Além disso, há dois medidores de desempenho para dispositivos móveis e desktop para cada métrica.
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimizar automaticamente os principais elementos vitais da Web](./assets/core-web-vitals/auto-optimize.png){align="center"}
 

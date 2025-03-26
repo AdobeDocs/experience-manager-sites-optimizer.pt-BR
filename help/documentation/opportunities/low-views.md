@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de exibições baixas
 description: Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o envolvimento do formulário no seu site.
 badgeFormOptimization: label="Otimização de formulários" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Otimização de formulários"
-source-git-commit: 258024606c732a4f4d4fe21a9ee36e1e2d3572f5
+source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 1%
@@ -50,8 +50,9 @@ Clique em cada variação para visualizá-la no lado direito da tela. Na parte s
 
 >[!ENDTABS]
 
-## Otimizar automaticamente o [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+## Otimizar automaticamente
 
+[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
 ![Otimizar automaticamente modos de exibição baixos](./assets/low-views/auto-optimize.png){align="center"}
 

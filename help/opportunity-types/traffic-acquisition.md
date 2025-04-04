@@ -2,9 +2,9 @@
 title: Otimizar a aquisição de tráfego com o Sites Optimizer
 description: Saiba como aumentar a aquisição de tráfego com o Sites Optimizer.
 source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '237'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 16%
 
 ![Oportunidades de aquisição de tráfego](./assets/traffic-acquisition/hero.png){align="center"}
 
-A aquisição de tráfego é essencial para levar clientes em potencial ao seu site e criar oportunidades para vendas ou geração de leads. Aproveitando estratégias como a SEO (otimização de mecanismo de pesquisa), as empresas podem melhorar a visibilidade da pesquisa e facilitar a descoberta de conteúdo pelos usuários. Um fluxo constante de visitantes não apenas aumenta a percepção e a confiança da marca, mas também fornece informações valiosas sobre o comportamento do usuário, ajudando as equipes a refinar suas ofertas e aprimorar a experiência geral. Aproveitar os insights do AEM Sites Optimizer permite uma otimização contínua, garantindo um crescimento sustentado e taxas de conversão aprimoradas ao longo do tempo.
+A aquisição de tráfego é essencial para levar clientes em potencial ao site e criar oportunidades para vendas ou geração de leads. Aproveitando estratégias como a otimização de mecanismo de pesquisa (SEO), as empresas podem melhorar a visibilidade de pesquisa e facilitar a descoberta do seu conteúdo pelos usuários. Um fluxo constante de visitantes não apenas aumenta a percepção e a confiança da marca, mas também fornece insights valiosos sobre o comportamento do usuário, ajudando as equipes a refinar suas ofertas e aprimorar a experiência geral. Aproveitar os insights do AEM Sites Optimizer permite otimização contínua, garantindo um crescimento sustentado e taxas de conversão aprimoradas ao longo do tempo.
 
 ## Oportunidades
 
@@ -48,13 +48,13 @@ A aquisição de tráfego é essencial para levar clientes em potencial ao seu s
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" title="Backlinks corrompidos">Backlinks desfeitos</a>
+                        <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" title="Backlinks corrompidos">Backlinks corrompidos</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de backlinks quebrados e como usá-la para melhorar a aquisição do tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -73,11 +73,11 @@ A aquisição de tráfego é essencial para levar clientes em potencial ao seu s
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="Metadados inválidos ou ausentes">Metadados inválidos ou ausentes</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de metadados inválida ou ausente e como usá-la para melhorar a aquisição do tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de metadados inválidos ou ausentes e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -96,11 +96,11 @@ A aquisição de tráfego é essencial para levar clientes em potencial ao seu s
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/missing-invalid-structured-data.md" target="_blank" rel="referrer" title="Dados estruturados ausentes ou inválidos">Dados estruturados ausentes ou inválidos</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de dados estruturados ausente ou inválida e como usá-la para melhorar a aquisição do tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de dados estruturados ausentes ou inválidos e como usá-la para melhorar a aquisição do tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/missing-invalid-structured-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -117,13 +117,13 @@ A aquisição de tráfego é essencial para levar clientes em potencial ao seu s
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/sitemap-issues.md" target="_blank" rel="referrer" title="Problemas no mapa do site">Problemas de mapa do site</a>
+                        <a href="../documentation/opportunities/sitemap-issues.md" target="_blank" rel="referrer" title="Problemas no mapa do site">Problemas no mapa do site</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de problemas do mapa de site e como usá-lo para melhorar a aquisição de tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de problemas do mapa do site e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

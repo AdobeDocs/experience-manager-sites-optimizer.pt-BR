@@ -1,10 +1,10 @@
 ---
 title: Documentação do Sites Optimizer
-description: Documentação do Experience Manager Sites Otimizer.
+description: Documentação do Experience Manager Sites Optimizer.
 source-git-commit: a0b7fcae81bee2bce5ed1d3186026f4577708512
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
@@ -13,11 +13,11 @@ ht-degree: 8%
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-Bem-vindo à documentação do Sites Optimizer. Aqui você encontrará informações sobre como usar o Sites Optimizer para otimizar seus sites do AEM.
+Damos as boas-vindas à documentação do Sites Optimizer. Aqui você encontrará informações sobre como usar o Sites Optimizer para otimizar seus sites do AEM.
 
-## Noções básicas do Site Otimizer
+## Noções básicas do Site Optimizer
 
-Explore a documentação do AEM Sites Optimizer para saber mais sobre os principais componentes da interface do usuário, incluindo o painel Página inicial, as configurações e a lista Oportunidades para obter insights de otimização.
+Confira a documentação do AEM Sites Optimizer para saber mais sobre os principais componentes da interface, incluindo o painel Página inicial, Configurações e a lista Oportunidades para obter insights de otimização.
 
 <!-- CARDS 
 
@@ -36,8 +36,8 @@ Explore a documentação do AEM Sites Optimizer para saber mais sobre os princip
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./basics.md" title="Início" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="./assets/basics/card.png" alt="Início"
+                    <a href="./basics.md" title="Página inicial" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="./assets/basics/card.png" alt="Página inicial"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -45,13 +45,13 @@ Explore a documentação do AEM Sites Optimizer para saber mais sobre os princip
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./basics.md" target="_blank" rel="referrer" title="Básico">Noções básicas</a>
+                        <a href="./basics.md" target="_blank" rel="referrer" title="Noções básicas">Noções básicas</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre as noções básicas do Sites Optimizer e como navegá-lo.</p>
+                    <p class="is-size-6">Saiba mais sobre as noções básicas do Sites Optimizer e como usá-lo.</p>
                 </div>
                 <a href="./basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -70,11 +70,11 @@ Explore a documentação do AEM Sites Optimizer para saber mais sobre os princip
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./opportunities/overview.md" target="_blank" rel="referrer" title="Oportunidades">Oportunidades</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre todas as oportunidades disponíveis do Site Otimizer e como usá-las para melhorar o desempenho do seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre todas as oportunidades disponíveis do Site Optimizer e como usá-las para melhorar o desempenho do seu site.</p>
                 </div>
                 <a href="./opportunities/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -96,8 +96,8 @@ Explore a documentação do AEM Sites Optimizer para saber mais sobre os princip
                     <p class="is-size-6">Saiba como definir as configurações do Sites Optimizer e integrar a outras ferramentas.</p>
                 </div>
                 <a href="./settings.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

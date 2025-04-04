@@ -1,10 +1,10 @@
 ---
 title: Documentação de oportunidades do Sites Optimizer
-description: Saiba mais sobre todas as oportunidades disponíveis do Site Otimizer e como usá-las para melhorar o desempenho do seu site.
+description: Saiba mais sobre todas as oportunidades disponíveis do Site Optimizer e como usá-las para melhorar o desempenho do seu site.
 source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
 workflow-type: tm+mt
 source-wordcount: '758'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 8%
 ![Oportunidades do Sites Optimizer](./assets/overview/hero.png){align="center"}
 
 
-O Sites Optimizer é composto por um conjunto cada vez maior de oportunidades viabilizadas pela IA do Adobe, projetado para identificar e sugerir melhorias para seu site. Cada oportunidade oferece insights sobre o valor comercial potencial, destaca áreas que precisam de atenção e fornece recomendações acionáveis para otimização. Clique em cada oportunidade para explorar os problemas identificados, as melhorias sugeridas e a orientação passo a passo sobre como implementar essas alterações para melhorar o desempenho do site e a experiência do usuário.
+O Sites Optimizer é composto por um conjunto cada vez maior de oportunidades viabilizadas pela IA da Adobe, projetado para identificar e sugerir melhorias para seu site. Cada oportunidade oferece insights sobre o valor comercial potencial, destaca áreas que precisam de atenção e fornece recomendações acionáveis para otimização. Clique em cada oportunidade para explorar os problemas identificados, as melhorias sugeridas e a orientação passo a passo sobre como implementar essas alterações para melhorar o desempenho do site e a experiência do usuário.
 
-As oportunidades estão disponíveis através da opção de menu **Oportunidades** na [navegação persistente do Site Otimizer](/help/documentation/basics.md#navigation).
+As oportunidades estão disponíveis através da opção de menu **Oportunidades** na [navegação persistente do Site Optimizer](/help/documentation/basics.md#navigation).
 
 ## Status da oportunidade
 
@@ -34,7 +34,7 @@ Oportunidades pendentes no momento.
 
 ![Oportunidades ignoradas](./assets/overview/ignored.png){align="center"}
 
-Oportunidades ignoradas. As oportunidades ignoradas podem ser restauradas nesta visualização.
+Oportunidades ignoradas. As oportunidades ignoradas podem ser restauradas nesta exibição.
 
 >[!TAB Otimizado]
 
@@ -46,8 +46,8 @@ Uma lista histórica de oportunidades que foram otimizadas.
 
 Com um [status de oportunidade](#opportunity-status) selecionado, você pode exibir uma lista de oportunidades. A lista de oportunidades pode ser filtrada ainda por:
 
-* **Pesquisa** - Pesquisa de oportunidades por **palavras-chave, marcas ou URLs**.
-* **Tipo de oportunidade** - Use a lista suspensa **Tipo** para filtrar oportunidades por [tipo de oportunidade](/help/opportunity-types/overview.md).
+* **Pesquisa**: pesquisa de oportunidades por **palavras-chave, tags ou URLs**.
+* **Tipo de oportunidade**: use a lista suspensa **Tipo** para filtrar oportunidades por [tipo de oportunidade](/help/opportunity-types/overview.md).
 
 ### Detalhes da oportunidade
 
@@ -55,10 +55,10 @@ Com um [status de oportunidade](#opportunity-status) selecionado, você pode exi
 
 Cada oportunidade fornece uma breve descrição do problema, seu impacto potencial no site e um link para detalhes completos. Você também pode ver seu status, indicando se ele foi otimizado ou se ainda está pendente.
 
-* **Título da oportunidade** - Uma breve descrição do problema e seu impacto potencial no desempenho do site.
-* **Última atualização** - A data em que a oportunidade foi atualizada pela última vez pela Sites Optimizer com novos dados.
-* **Contagem de problemas** - O número de instâncias do problema identificadas no site.
-* **Tipo(s) de oportunidade** - O(s) [tipo(s) da oportunidade](/help/opportunity-types/overview.md), esta oportunidade faz parte de — como aquisição de tráfego, envolvimento ou integridade do site.
+* **Título da oportunidade**: uma breve descrição do problema e seu impacto potencial no desempenho do site.
+* **Última atualização**: a data em que a oportunidade foi atualizada pela última vez pelo Sites Optimizer com novos dados.
+* **Contagem de problemas**: o número de instâncias do problema identificadas no site.
+* **Tipo(s) de oportunidade**: o(s) [tipo(s) de oportunidade](/help/opportunity-types/overview.md) que esta oportunidade faz parte, como aquisição de tráfego, engajamento ou integridade do site.
 
 As informações resumidas de cada oportunidade variam de acordo com o tipo e podem incluir detalhes sobre o impacto na receita, tráfego, engajamento do usuário ou ameaças à segurança.
 
@@ -68,7 +68,7 @@ Para excluir uma oportunidade do painel do Sites Optimizer, clique no botão **I
 
 ## Todas as oportunidades
 
-Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
+Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
 
 <!-- CARDS
 
@@ -130,11 +130,11 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="Problemas de acessibilidade">Problemas de acessibilidade</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de problemas de acessibilidade e como usá-la para aumentar a segurança do em seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de problemas de acessibilidade e como usá-la para aumentar a segurança do site.</p>
                 </div>
                 <a href="./accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -151,13 +151,13 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./broken-backlinks.md" target="_blank" rel="referrer" title="Backlinks corrompidos">Backlinks desfeitos</a>
+                        <a href="./broken-backlinks.md" target="_blank" rel="referrer" title="Backlinks corrompidos">Backlinks corrompidos</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de backlinks quebrados e como usá-la para melhorar a aquisição do tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -174,13 +174,13 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./broken-internal-links.md" target="_blank" rel="referrer" title="Links internos corrompidos">Links internos desfeitos</a>
+                        <a href="./broken-internal-links.md" target="_blank" rel="referrer" title="Links internos corrompidos">Links internos corrompidos</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de links quebrados e como usá-la para melhorar o engajamento no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de links corrompidos e como usá-la para melhorar o engajamento no seu site.</p>
                 </div>
                 <a href="./broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -199,11 +199,11 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./cors-configuration.md" target="_blank" rel="referrer" title="Configuração do CORS">Configuração do CORS</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de configuração do CORS e para identificar e corrigir vulnerabilidades de segurança do site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de configuração do CORS e de identificar e corrigir vulnerabilidades de segurança do site.</p>
                 </div>
                 <a href="./cors-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -211,8 +211,8 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./core-web-vitals.md" title="Vídeos da Web principais" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="Vídeos da Web principais"
+                    <a href="./core-web-vitals.md" title="Sinais vitais principais da web" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="Sinais vitais principais da web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -220,13 +220,13 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="Vídeos da Web principais">Vídeos da Web principais</a>
+                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="Sinais vitais principais da web">Sinais vitais principais da web</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre as principais oportunidades de vitais para a Web e como usá-las para melhorar a aquisição de tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre as principais oportunidades de sinais vitais principais e como usá-las para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -243,13 +243,13 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./cross-site-scripting.md" target="_blank" rel="referrer" title="Criação de script entre sites">Script entre sites</a>
+                        <a href="./cross-site-scripting.md" target="_blank" rel="referrer" title="Criação de script entre sites">Criação de script entre sites</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de criação de script entre sites e para identificar e corrigir vulnerabilidades de segurança do site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de criação de script entre sites e como identificar e corrigir vulnerabilidades de segurança do site.</p>
                 </div>
                 <a href="./cross-site-scripting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -257,8 +257,8 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./high-bounce-rate.md" title="Alta taxa de rejeição" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Alta taxa de rejeição"
+                    <a href="./high-bounce-rate.md" title="Taxa de rejeição alta" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Taxa de rejeição alta"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -266,13 +266,13 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./high-bounce-rate.md" target="_blank" rel="referrer" title="Alta taxa de rejeição">Alta taxa de rejeição</a>
+                        <a href="./high-bounce-rate.md" target="_blank" rel="referrer" title="Taxa de rejeição alta">Taxa de rejeição alta</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o envolvimento do formulário no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o engajamento do formulário no site.</p>
                 </div>
                 <a href="./high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -291,11 +291,11 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="Metadados inválidos ou ausentes">Metadados inválidos ou ausentes</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de metadados inválida ou ausente e como usá-la para melhorar a aquisição do tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de metadados inválidos ou ausentes e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -314,11 +314,11 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./missing-alt-text.md" target="_blank" rel="referrer" title="Texto alternativo ausente">Texto alternativo ausente</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade perdida de texto alternativo e como usá-la para melhorar o engajamento no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de texto alternativo ausente e como usá-la para melhorar o engajamento no seu site.</p>
                 </div>
                 <a href="./missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -337,11 +337,11 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" title="Dados estruturados ausentes ou inválidos">Dados estruturados ausentes ou inválidos</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de dados estruturados ausente ou inválida e como usá-la para melhorar a aquisição do tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de dados estruturados ausentes ou inválidos e como usá-la para melhorar a aquisição do tráfego.</p>
                 </div>
                 <a href="./missing-invalid-structured-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -358,13 +358,13 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./sitemap-issues.md" target="_blank" rel="referrer" title="Problemas no mapa do site">Problemas de mapa do site</a>
+                        <a href="./sitemap-issues.md" target="_blank" rel="referrer" title="Problemas no mapa do site">Problemas no mapa do site</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de problemas do mapa de site e como usá-lo para melhorar a aquisição de tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de problemas do mapa do site e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -383,11 +383,11 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./website-permissions.md" target="_blank" rel="referrer" title="Permissões do site">Permissões do site</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de permissões de site e como usá-la para aumentar a segurança do em seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de permissões de site e como usá-la para aumentar a segurança em seu site.</p>
                 </div>
                 <a href="./website-permissions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -406,11 +406,11 @@ Explore todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" title="Vulnerabilidades do site">Vulnerabilidades do site</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de vulnerabilidades do site e como usá-la para aumentar a segurança do em seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de vulnerabilidades do site e como usá-la para aumentar a segurança em seu site.</p>
                 </div>
                 <a href="./website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

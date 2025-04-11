@@ -2,9 +2,9 @@
 title: Tipos de oportunidade do Sites Optimizer
 description: Saiba mais sobre os principais tipos de oportunidade no Sites Optimizer e como eles podem ajudar a melhorar o desempenho do seu site.
 source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '214'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -13,9 +13,9 @@ ht-degree: 71%
 
 ![Tipos de oportunidade](./assets/overview/hero.png){align="center"}
 
-O AEM Sites Optimizer fornece insights e recomendações valiosos para ajudar você a melhorar o desempenho, a usabilidade e a segurança do seu site. Esses insights estão agrupados nas principais áreas de oportunidade: Envolvimento, Aquisição de tráfego, Postura de segurança e Integridade do site. Cada categoria destaca maneiras específicas de aprimorar o site, seja aumentando a interação do visitante, melhorando a descoberta, fortalecendo a segurança ou mantendo a estabilidade do site.
+O AEM Sites Optimizer fornece insights e recomendações valiosos para ajudar você a melhorar o desempenho, a usabilidade e a segurança do seu site. Esses insights estão agrupados nas principais áreas de oportunidade: Engajamento, Aquisição de tráfego, Postura de segurança e Integridade do site. Cada categoria destaca maneiras específicas de aprimorar seu site, seja aumentando a interação do visitante, melhorando a capacidade de descoberta, fortalecendo a segurança ou mantendo a estabilidade.
 
-Aproveitar essas oportunidades melhora a experiência do usuário, atrai o público-alvo certo e mantém seu site seguro e confiável. Melhorar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade.  Confira os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
+Aproveitar essas oportunidades melhora a experiência do usuário, atrai o público-alvo certo e mantém seu site seguro e confiável. Aumentar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade.  Confira os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
 
 ## Tipos de oportunidades
 

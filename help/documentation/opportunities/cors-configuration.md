@@ -3,9 +3,9 @@ title: Documentação de oportunidade da configuração do CORS
 description: Saiba mais sobre a oportunidade de configuração do CORS e de identificar e corrigir vulnerabilidades de segurança do site.
 badgeSecurityPosture: label="Postura de segurança" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Postura de segurança"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '192'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

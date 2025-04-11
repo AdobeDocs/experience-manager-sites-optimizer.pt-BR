@@ -3,9 +3,9 @@ title: Documentação de oportunidade dos Sinais vitais principais da Web
 description: Saiba mais sobre as principais oportunidades de sinais vitais principais e como usá-las para melhorar a aquisição de tráfego.
 badgeSiteHealth: label="Integridade do site" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Integridade do site"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '378'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

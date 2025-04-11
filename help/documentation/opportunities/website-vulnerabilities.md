@@ -3,9 +3,9 @@ title: Documentação de oportunidade de vulnerabilidades do site
 description: Saiba mais sobre a oportunidade de vulnerabilidades do site e como usá-la para aumentar a segurança em seu site.
 badgeSecurityPosture: label="Postura de segurança" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Postura de segurança"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

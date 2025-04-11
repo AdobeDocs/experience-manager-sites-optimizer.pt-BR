@@ -1,10 +1,10 @@
 ---
 title: AEM Sites Optimizer
-description: Aumente o desempenho do seu site com o Sites Optimizer — melhore a velocidade, reduza custos e aprimore a confiabilidade para obter um melhor engajamento.
+description: 'Aumente o desempenho do seu site com o Sites Optimizer: melhore a velocidade, reduza custos e intensifique a confiabilidade para melhorar o engajamento.'
 source-git-commit: 80d1bb016dedcff9b3b6293008b43070ff24867c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 

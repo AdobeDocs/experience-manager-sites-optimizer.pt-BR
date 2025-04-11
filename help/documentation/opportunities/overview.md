@@ -2,7 +2,7 @@
 title: Documentação de oportunidades do Sites Optimizer
 description: Saiba mais sobre todas as oportunidades disponíveis do Site Optimizer e como usá-las para melhorar o desempenho do seu site.
 source-git-commit: fbcd038d52f4761fc328404c410ef25534071f22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '758'
 ht-degree: 100%
 

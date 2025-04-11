@@ -3,9 +3,9 @@ title: Documentação de oportunidade de alta taxa de rejeição
 description: Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o engajamento do formulário no site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
 source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 

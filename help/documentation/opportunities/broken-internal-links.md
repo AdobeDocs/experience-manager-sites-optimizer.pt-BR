@@ -3,14 +3,14 @@ title: Documentação de oportunidade de links internos corrompidos
 description: Saiba mais sobre a oportunidade de links corrompidos e como usá-la para melhorar o engajamento no seu site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
 source-git-commit: c2bd3f7dc998b103ecdd02c239b1ea0312db20f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '447'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# Oportunidade de links internos quebrados
+# Oportunidade de links internos corrompidos
 
 ![Oportunidade de links internos corrompidos](./assets/broken-internal-links/hero.png){align="center"}
 

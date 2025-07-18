@@ -2,10 +2,10 @@
 title: Documentação de oportunidade dos Sinais vitais principais da Web
 description: Saiba mais sobre as principais oportunidades de sinais vitais principais e como usá-las para melhorar a aquisição de tráfego.
 badgeSiteHealth: label="Integridade do site" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Integridade do site"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '378'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '376'
+ht-degree: 86%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![oportunidade de dos sinais vitais principais da web](./assets/core-web-vitals/hero.png){align="center"}
 
-A oportunidade dos sinais vitais principais da Web identifica problemas que podem degradar a experiência do usuário e o desempenho da pesquisa orgânica de suas páginas da Web. Esses problemas surgem de uma grande variedade de fatores, como fontes personalizadas, dependências de javascript não otimizadas, scripts de terceiros e assim por diante. A oportunidade dos sinais vitais principais da Web aponta esses elementos com falha e sugere correções que podem aumentar o desempenho da sua página da Web. Observe que somente as páginas com pelo menos 1000 visualizações podem ser analisadas.
+A oportunidade dos sinais vitais principais da Web identifica problemas que podem degradar a experiência do usuário e o desempenho da pesquisa orgânica de suas páginas da Web. Esses problemas surgem de vários fatores, como fontes personalizadas, dependências não otimizadas do JavaScript, scripts de terceiros e assim por diante. A oportunidade dos sinais vitais principais da Web aponta esses elementos com falha e sugere correções que podem aumentar o desempenho da sua página da Web. Observe que somente as páginas com pelo menos 1000 visualizações podem ser analisadas.
 
 Para começar, a oportunidade dos sinais vitais principais da Web exibe um resumo na parte superior da página, incluindo um resumo do problema e seu impacto no site e na empresa.
 
@@ -32,7 +32,11 @@ Na parte inferior da página, você tem uma lista de todos os problemas atuais a
 
 Cada problema é exibido em uma tabela, com a coluna **Página** identificando a entrada de página afetada.
 
-Além disso, esses problemas também são agrupados pelas métricas de desempenho padrão do relatório dos sinais vitais principais da web: maior elemento de pintura de conteúdo **LCP**, interação com a próxima pintura **INP** e deslocamento de layout cumulativo **CLS**.
+O sistema agrupa esses problemas pelas métricas de desempenho padrão no relatório Web Vitals principais:
+
+* maior pintura contentful **LCP**
+* interação com a próxima pintura **INP**
+* deslocamento de layout cumulativo **CLS**
 
 ## Sugestão automática
 

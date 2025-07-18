@@ -1,10 +1,10 @@
 ---
 title: Otimizar a postura de segurança com o Sites Optimizer
 description: Saiba como melhorar a segurança do site com o Sites Optimizer.
-source-git-commit: ab2d75b1d986d83e3303e29a25d2babd1598394a
-workflow-type: ht
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![Oportunidades de postura de segurança](./assets/security-posture/hero.png){align="center"}
 
-Manter uma postura de segurança robusta no AEM Sites Optimizer é essencial para proteger experiências digitais e dados do usuário. Ao identificar oportunidades de melhoria, como configuração do CORS, criação de script entre sites, permissões de site e vulnerabilidades de site, as equipes podem abordar proativamente riscos potenciais à segurança e garantir a conformidade com as práticas recomendadas. O reforço das medidas de segurança não só protege as informações confidenciais, mas também aumenta a confiança do usuário e a confiabilidade do site. Aproveitar os insights do AEM Sites Optimizer ajuda as organizações a monitorar e melhorar continuamente sua posição de segurança, reduzindo riscos e mantendo um ambiente digital seguro.
+Manter uma postura de segurança robusta no AEM Sites Optimizer é essencial para proteger experiências digitais e dados do usuário. Ao identificar oportunidades de melhoria, como configuração do CORS, criação de script entre sites, permissões de site e vulnerabilidades de site, as equipes podem abordar proativamente riscos potenciais à segurança e garantir a conformidade com as práticas recomendadas. O reforço das medidas de segurança não só protege as informações confidenciais, mas também aumenta a confiança do usuário e a confiabilidade do site. O uso dos insights da AEM Sites Optimizer ajuda as organizações a monitorar e melhorar continuamente sua posição de segurança, reduzindo riscos e mantendo um ambiente digital seguro.
 
 ## Oportunidades
 

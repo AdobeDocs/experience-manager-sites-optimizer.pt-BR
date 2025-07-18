@@ -1,10 +1,10 @@
 ---
 title: Otimização de formulários com o Sites Optimizer
 description: Saiba mais sobre a otimização de formulários com o Sites Optimizer.
-source-git-commit: 84f922b5d0f788c1affe47a9013ed640947d0ec4
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 86%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![Oportunidades de otimização de formulário](./assets/form-optimization/hero.png){align="center"}
 
-A otimização de formulários no AEM Sites Optimizer é essencial para melhorar as interações do usuário e maximizar conversões. Ao identificar áreas para aprimoramento, como exibições baixas e conversões baixas de formulários, as equipes podem refinar o design, o posicionamento e o conteúdo dos formulários para aprimorar o engajamento. Os formulários otimizados garantem uma experiência do usuário perfeita, fazendo com que os visitantes concluam ações e impulsionem os resultados de negócios com mais facilidade. Aproveitar os insights do AEM Sites Optimizer permite que os profissionais de marketing identifiquem continuamente as áreas de aprimoramento, aumentando, em última análise, a eficácia e impulsionando o desempenho geral do site.
+A otimização de formulários no AEM Sites Optimizer é essencial para melhorar as interações do usuário e maximizar conversões. Ao identificar áreas para aprimoramento, como exibições baixas e conversões baixas de formulários, as equipes podem refinar o design, o posicionamento e o conteúdo dos formulários para aprimorar o engajamento. Os formulários otimizados garantem uma experiência do usuário perfeita, fazendo com que os visitantes concluam ações e impulsionem os resultados de negócios com mais facilidade. O uso dos insights do AEM Sites Optimizer permite que os profissionais de marketing identifiquem continuamente áreas de aprimoramento, aumentando a eficácia e impulsionando o desempenho geral do site.
 
 ## Oportunidades
 

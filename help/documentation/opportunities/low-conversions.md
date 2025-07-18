@@ -2,9 +2,9 @@
 title: Documentação de oportunidade de poucas conversões
 description: Saiba mais sobre a oportunidade de poucas conversões e como usá-la para melhorar o engajamento do formulário no seu site.
 badgeFormOptimization: label="Otimização de formulários" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Otimização de formulários"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '343'
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '342'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,7 @@ Cada página da Web com um formulário com poucas conversões está listada como
 
 ![Sugerir poucas conversões automaticamente](./assets/low-conversions/auto-suggest.png){align="center"}
 
-A sugestão automática fornece variações de página da Web geradas por IA projetadas para aumentar as conversões de seus formulários. Cada variação exibe o **aumento da taxa de conversão do projeto** com base em seu potencial para melhorar o engajamento no formulário, ajudando a priorizar as sugestões mais eficazes.
+A sugestão automática fornece variações de página da Web geradas por IA projetadas para aumentar as conversões de seus formulários. Cada variação exibe o **aumento da taxa de conversão do projeto** com base em seu potencial para melhorar o engajamento do formulário, ajudando a priorizar as sugestões mais eficazes.
 
 >[!BEGINTABS]
 

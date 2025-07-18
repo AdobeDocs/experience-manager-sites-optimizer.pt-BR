@@ -1,10 +1,10 @@
 ---
 title: Noções básicas do Sites Optimizer
 description: Saiba mais sobre as noções básicas do Sites Optimizer e como usá-lo.
-source-git-commit: 38e6921ab511b34e54fe97e7317ba1442a4d2121
-workflow-type: ht
-source-wordcount: '520'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 85%
 
 ---
 
@@ -28,7 +28,7 @@ O menu de contexto do gerenciador de domínio permite escolher o site do AEM, po
 A seção Navegação fornece acesso rápido e persistente a áreas principais do Sites Optimizer de qualquer lugar no Sites Optimizer, incluindo:
 
 * **Página inicial**: o painel principal, que fornece uma visão geral de alto nível do desempenho do site e oportunidades de melhoria.
-* **Oportunidades**: visualize e gerencie as oportunidades identificadas pelo Sites Optimizer, incluindo as que foram otimizadas e as que permanecem não otimizadas.
+* **Oportunidades** - Exiba e gerencie as oportunidades identificadas pela Sites Optimizer, incluindo aquelas que foram otimizadas ou permanecem não otimizadas.
 * **Configurações**: defina as configurações do Sites Optimizer, incluindo os sites que você está monitorando e as notificações que você recebe.
 
 ## Resumo do site
@@ -50,7 +50,8 @@ A seção Resumo do site fornece um instantâneo do desempenho do site, como o S
 
 A seção Oportunidades de alto impacto destaca as oportunidades pendentes mais significativas para melhoria, com base em seu impacto potencial no desempenho do site. Essas oportunidades são organizadas por tipo, facilitando a priorização de esforços de otimização.
 
-As oportunidades podem ser filtradas por palavras-chave, tags ou URLs, ou pelo [tipo de oportunidade](../opportunity-types/overview.md) para ajudar você a se concentrar nas áreas mais críticas para melhoria.
+Filtre oportunidades por palavras-chave, tags, URLs ou [tipo de oportunidade](../opportunity-types/overview.md) para se concentrar nas áreas mais críticas para melhoria.
+
 
 ### Detalhes da oportunidade
 
@@ -59,9 +60,9 @@ As oportunidades podem ser filtradas por palavras-chave, tags ou URLs, ou pelo [
 Cada oportunidade fornece uma breve descrição do problema, seu impacto potencial no site e um link para detalhes completos. Você também pode ver seu status, indicando se ele foi otimizado ou se ainda está pendente.
 
 * **Título da oportunidade**: uma breve descrição do problema e seu impacto potencial no desempenho do site.
-* **Última atualização**: a data em que a oportunidade foi atualizada pela última vez pelo Sites Optimizer com novos dados.
+* **Última atualização** - A Sites Optimizer atualizou a oportunidade pela última vez com novos dados nesta data.
 * **Contagem de problemas**: o número de instâncias do problema identificadas no site.
-* **Tipos de oportunidade**: os [tipos da oportunidade](../opportunity-types/overview.md) da qual esta oportunidade faz parte, como aquisição de tráfego, engajamento ou integridade do site.
+* **Tipos de oportunidade** - Os [tipos de oportunidade](../opportunity-types/overview.md) dos quais esta oportunidade faz parte — como aquisição de tráfego, envolvimento ou integridade do site.
 
 As informações resumidas de cada oportunidade variam de acordo com o tipo e podem incluir detalhes sobre o impacto na receita, tráfego, engajamento do usuário ou ameaças à segurança.
 

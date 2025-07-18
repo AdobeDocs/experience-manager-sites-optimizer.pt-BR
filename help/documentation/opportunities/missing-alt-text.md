@@ -2,10 +2,10 @@
 title: Documentação de texto alternativo ausente
 description: Saiba mais sobre a oportunidade de texto alternativo ausente e como usá-la para melhorar o engajamento no seu site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '461'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 81%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![Oportunidade de texto alternativo ausente](./assets/missing-alt-text/hero.png){align="center"}
 
-A oportunidade de texto alternativo ausente identifica imagens sem texto alternativo descritivo no seu site. Os mecanismos de pesquisa não podem indexar ou entender imagens corretamente sem texto alternativo, reduzindo significativamente a capacidade de descoberta do conteúdo e a classificação de pesquisa potencial, limitando, em última análise, o alcance do público-alvo. Além disso, não ter texto alternativo para imagens exclui as pessoas com deficiências visuais que dependem dos leitores de tela para entender o conteúdo da Web, criando barreiras ao acesso às informações.
+A oportunidade de texto alternativo ausente identifica imagens sem texto alternativo descritivo no seu site. Os mecanismos de pesquisa não podem indexar ou compreender imagens corretamente sem texto alternativo. Essa funcionalidade reduz significativamente a descoberta e a classificação de pesquisa do conteúdo, limitando, em última análise, o alcance do público-alvo. Além disso, não ter texto alternativo para imagens exclui as pessoas com deficiências visuais que dependem dos leitores de tela para entender o conteúdo da Web, criando barreiras ao acesso às informações.
 
 A oportunidade de texto alternativo ausente exibe um resumo na parte superior da página, incluindo um resumo do problema e seu impacto no site e na empresa.
 
@@ -37,7 +37,7 @@ A oportunidade de texto alternativo ausente lista todas as imagens em seu site q
 
 ![Sugestão automática de texto alternativo ausente](./assets/missing-alt-text/auto-suggest.png){align="center"}
 
-A sugestão automática fornece sugestões geradas pela IA para o texto alternativo das imagens. As sugestões geradas pela IA foram projetadas para ajudar a adicionar rapidamente texto alternativo a imagens, sem precisar analisar manualmente cada imagem.
+A sugestão automática fornece sugestões geradas pela IA para o texto alternativo das imagens. As sugestões geradas pela IA foram projetadas para ajudá-lo a adicionar rapidamente texto alternativo a imagens, sem precisar analisar cada imagem manualmente.
 
 >[!BEGINTABS]
 
@@ -45,15 +45,15 @@ A sugestão automática fornece sugestões geradas pela IA para o texto alternat
 
 ![Editar texto alternativo ausente](./assets/missing-alt-text/edit-alt-text-value.png){align="center"}
 
-Se você discordar da sugestão gerada pela IA, poderá editar o texto alternativo sugerido clicando no **ícone de edição**. Isso permite ajustar manualmente o texto que você acha que é a melhor opção para a imagem. A janela de edição contém o seguinte:
+Se você discordar da sugestão gerada pela IA, poderá editar o texto alternativo sugerido clicando no **ícone de edição**. Essa capacidade permite ajustar manualmente o texto que você acredita ser o melhor ajuste para a imagem. A janela de edição contém o seguinte:
 
 * **Caminho da página**: um campo somente leitura que exibe o caminho para a página onde ocorre o problema de texto alternativo ausente. Clique na seta ao lado do caminho para abrir a página correspondente.
 * **Imagem**: uma visualização de somente leitura da imagem que requer texto alternativo.
-* **Texto alternativo de destino**: um campo editável onde você pode inserir manualmente um texto alternativo descritivo para a imagem. Verifique se o texto alternativo transmite claramente o conteúdo e a finalidade da imagem. Quando pertinente, inclua palavras-chave naturalmente sem sobrecarregá-las.
+* **Texto alternativo de destino**: um campo editável onde você pode inserir manualmente um texto alternativo descritivo para a imagem. Certifique-se de que o texto alternativo transmita claramente o conteúdo e a finalidade da imagem de forma concisa. Quando pertinente, inclua palavras-chave naturalmente sem sobrecarregá-las.
 
 >[!TAB Ignorar entradas]
 
-Você pode optar por ignorar as entradas na lista de oportunidades. Clicar no **ícone de ignorar** remove a entrada da lista. As entradas ignoradas podem ser engajadas novamente na guia **Ignoradas**, na parte superior da página de oportunidade.
+Você pode optar por ignorar as entradas na lista de oportunidades. Selecionar ![Excluir ícone](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) remove a entrada da lista. As entradas ignoradas podem ser engajadas novamente na guia **Ignoradas**, na parte superior da página de oportunidade.
 
 >[!ENDTABS]
 

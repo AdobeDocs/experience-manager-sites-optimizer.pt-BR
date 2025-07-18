@@ -2,10 +2,10 @@
 title: Documentação de oportunidade de permissões do site
 description: Saiba mais sobre a oportunidade de permissões de site e como usá-la para aumentar a segurança em seu site.
 badgeSecurityPosture: label="Postura de segurança" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Postura de segurança"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '218'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '220'
+ht-degree: 79%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![Oportunidade de permissões de site](./assets/website-permissions/hero.png){align="center"}
 
-A oportunidade de permissões de site otimiza as permissões do site, essenciais para manter um ambiente seguro e gerenciável do AEM. Esta oportunidade permite que você refine os controles de acesso removendo permissões muito amplas, como `jcr:all` em caminhos genéricos como `/` ou `/content`, e alinhando o acesso do usuário com o princípio do privilégio mínimo. Ao simplificar as permissões e eliminar redundâncias, você pode reduzir os riscos de segurança, melhorar a capacidade de manutenção e evitar futuras configurações incorretas. Tome medidas revisando e atualizando permissões no console de Permissões de segurança do AEM ou no repositório de códigos, garantindo que os usuários de serviço tenham somente o acesso de que realmente precisam.
+A oportunidade de permissões de site otimiza as permissões do site, essenciais para manter um ambiente seguro e gerenciável do AEM. Esta oportunidade permite que você refine os controles de acesso removendo permissões muito amplas, como `jcr:all` em caminhos genéricos como `/` ou `/content`, e alinhando o acesso do usuário com o princípio do privilégio mínimo. Ao simplificar as permissões e eliminar redundâncias, você pode reduzir os riscos de segurança, melhorar a capacidade de manutenção e evitar futuras configurações incorretas. Revise e atualize permissões no console Permissões de segurança do AEM ou no repositório de códigos. Isso garante que os usuários de serviço tenham somente o acesso de que realmente precisam.
 
 ## Identificação automática
 
@@ -23,8 +23,8 @@ A oportunidade de permissões de site otimiza as permissões do site, essenciais
 O recurso **Oportunidade de permissões de site** identifica e lista automaticamente
 
 * **Usuário**: a conta de usuário com a permissão suspeita.
-* **Caminho**: o caminho no AEM afetado pela permissão.
-* **Permissão**: a permissão suspeita.
+* **Caminho** - Use as guias na parte superior para organizar e filtrar oportunidades por status.
+* **Permissão** - A permissão suspeita.
 * **Problema**: indica o tipo de problema que afeta a permissão.
 
 ## Sugestão automática

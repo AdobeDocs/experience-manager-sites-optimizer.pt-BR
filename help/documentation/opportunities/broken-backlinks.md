@@ -2,10 +2,10 @@
 title: Documentação de oportunidade de backlinks corrompidos
 description: Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: c99bd0ab418c1eb0693f39ea16ee41f8a1263099
-workflow-type: ht
-source-wordcount: '542'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '547'
+ht-degree: 71%
 
 ---
 
@@ -44,19 +44,19 @@ A oportunidade de backlinks corrompidos também fornece sugestões geradas por I
 
 ![Lógica de IA sobre sugestão automática de backlinks corrompidos](./assets/broken-backlinks/auto-suggest-ai-rationale.png){align="center"}
 
-Clique no ícone **informações** para exibir a lógica de IA para o URL sugerido. A lógica explica por que a IA acredita que o URL sugerido é a melhor opção para o link corrompido. Isso pode ajudar a entender o processo de tomada de decisões da IA e tomar uma decisão informada sobre aceitar ou rejeitar a sugestão.
+Clique no ícone **informações** para exibir a lógica de IA para o URL sugerido. A lógica explica por que a IA acredita que o URL sugerido é a melhor opção para o link corrompido. Ele pode ajudá-lo a entender o processo de tomada de decisões da IA e tomar uma decisão informada sobre aceitar ou rejeitar a sugestão.
 
 >[!TAB Editar URL de destino]
 
 ![Editar URL sugerido de backlinks corrompidos](./assets/broken-backlinks/edit-target-url.png){align="center"}
 
-Se você discordar da sugestão gerada pela IA, poderá editar o URL sugerido clicando no **ícone de edição**. Isso permite inserir manualmente o URL que você acha que é a melhor opção para o link corrompido. O Sites Optimizer também listará outros URLs em seu site que ele acredita que possam ser uma boa opção para o link corrompido.
+Se você discordar da sugestão gerada pela IA, poderá editar o URL sugerido clicando no **ícone de edição**. A edição permite inserir manualmente o URL que você acha que é o melhor ajuste para o link quebrado. O Sites Optimizer também lista todos os outros URLs do site que ele acha que podem ser adequados para o link quebrado.
 
 >[!TAB Ignorar entradas]
 
 ![Ignorar backlinks corrompidos](./assets/broken-backlinks/ignore.png){align="center"}
 
-Você pode optar por ignorar entradas com o URL de destino corrompido. Clicar no **ícone de ignorar** remove o backlink corrompido da lista de oportunidades. Os backlinks corrompidos ignorados podem ser engajados novamente na guia **Ignorados**, na parte superior da página de oportunidade.
+Você pode optar por ignorar entradas com o URL de destino corrompido. Selecionar ![Excluir ícone ou ignorar ícone](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) remove o backlink corrompido da lista de oportunidades. Os backlinks corrompidos ignorados podem ser engajados novamente na guia **Ignorados**, na parte superior da página de oportunidade.
 
 >[!ENDTABS]
 
@@ -66,7 +66,7 @@ Você pode optar por ignorar entradas com o URL de destino corrompido. Clicar no
 
 ![Otimizar automaticamente backlinks corrompidos](./assets/broken-backlinks/auto-optimize.png){align="center"}
 
-O Sites Optimizer Ultimate adiciona a capacidade de implantar a otimização automática para backlinks corrompidos. Clicar no botão **Otimização automática** atualiza automaticamente as regras de redirecionamento do AEM Sites para mapear o **URL de destino corrompido** para o **URL sugerido**. Isso garante que os visitantes do site e os bots de pesquisa que seguem os links corrompidos nas **páginas de referência** sejam redirecionados para a página correta no seu site, melhorando a SEO e a experiência do usuário.
+O Sites Optimizer Ultimate adiciona a capacidade de implantar a otimização automática para backlinks corrompidos. Clicar no botão **Otimização automática** atualiza automaticamente as regras de redirecionamento do AEM Sites para mapear o **URL de destino corrompido** para o **URL sugerido**. Essa funcionalidade garante que os visitantes do site e os bots de pesquisa que seguem os links com falha nas **páginas de referência** sejam redirecionados para a página correta no seu site, melhorando o SEO e a experiência do usuário.
 
 >[!BEGINTABS]
 
@@ -74,7 +74,7 @@ O Sites Optimizer Ultimate adiciona a capacidade de implantar a otimização aut
 
 ![Implantar otimização de backlinks corrompidos](./assets/broken-backlinks/deploy-optimization.png){align="center"}
 
-Selecionar **Implantar otimização** atualizará as regras de redirecionamento do AEM Sites para mapear o **URL de destino corrompido** para o **URL sugerido**. Isso garante que os visitantes do site e os bots de pesquisa que seguem os links corrompidos nas **páginas de referência** sejam redirecionados para a página correta no seu site, melhorando a SEO e a experiência do usuário.
+Selecionar **Implantar otimização** atualiza as regras de redirecionamento do Site do AEM para mapear a **URL de destino corrompida** para a **URL sugerida**. Essa funcionalidade garante que os visitantes do site e os bots de pesquisa que seguem os links com falha nas **páginas de referência** sejam redirecionados para a página correta no seu site, melhorando o SEO e a experiência do usuário.
 
 >[!TAB Solicitar aprovação]
 

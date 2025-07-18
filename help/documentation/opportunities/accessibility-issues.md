@@ -2,10 +2,10 @@
 title: Documentação de oportunidade de problemas de acessibilidade
 description: Saiba mais sobre a oportunidade de problemas de acessibilidade e como usá-la para aumentar a segurança do site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
-source-git-commit: c52b60fb483009856cb6976eddbf86141d0846fc
-workflow-type: ht
-source-wordcount: '253'
-ht-degree: 100%
+source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 73%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ![Oportunidade de problemas de acessibilidade](./assets/accessibility-issues/hero.png){align="center"}
 
-A oportunidade de problemas de acessibilidade identifica como o seu site está em conformidade com as necessidades das pessoas com deficiência e se ele segue as [Diretrizes de Acessibilidade de Conteúdo da Web (WCAG)](https://www.w3.org/TR/WCAG21/). Ao avaliar a conformidade do seu site com a WCAG, você ajuda a criar uma experiência online inclusiva, permitindo que indivíduos com deficiências visuais, auditivas, cognitivas e motoras naveguem, interajam e se beneficiem do seu conteúdo. Isso não é essencial apenas por motivos éticos, mas também promove a conformidade com os requisitos legais, melhora a SEO e pode aumentar o alcance do público-alvo, melhorando a experiência do usuário e o desempenho empresarial.
+A oportunidade de problemas de acessibilidade identifica como o seu site está em conformidade com as necessidades das pessoas com deficiência e se ele segue as [Diretrizes de Acessibilidade de Conteúdo da Web (WCAG)](https://www.w3.org/TR/WCAG21/). Ao avaliar a conformidade do seu site com a WCAG, você ajuda a criar uma experiência online inclusiva. Por sua vez, permite que indivíduos com deficiências visuais, auditivas, cognitivas e motoras naveguem, interajam e se beneficiem do seu conteúdo. Essa funcionalidade não só é essencial por motivos éticos, como também promove a conformidade com os requisitos legais, melhora o SEO e pode aumentar o alcance do público-alvo, melhorando a experiência do usuário e o desempenho da empresa.
 
 ## Identificação automática
 

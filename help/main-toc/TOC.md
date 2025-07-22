@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Esta é uma descrição do guia do usuário que será exibida na página de destino.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 83%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 100%
    + [Engajamento](/help/opportunity-types/engagement.md)
    + [Integridade do site](/help/opportunity-types/site-health.md)
    + [Postura de segurança](/help/opportunity-types/security-posture.md)
+   + [Otimização do Forms](/help/opportunity-types/form-optimization.md)
+   + [Acessibilidade do Forms](/help/opportunity-types/form-accesibility.md)
 + Documentação{#documentation}
    + [Visão geral](/help/documentation/overview.md)
    + [Noções básicas](/help/documentation/basics.md)
@@ -34,6 +36,10 @@ ht-degree: 100%
       + [Metadados inválidos ou ausentes](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [Dados estruturados ausentes ou inválidos](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [Texto alternativo ausente](/help/documentation/opportunities/missing-alt-text.md)
+      + [Conversões baixas do Forms](/help/documentation/opportunities/low-conversions.md)
+      + [Visualizações baixas do Forms](/help/documentation/opportunities/low-views.md)
+      + [Navegação baixa do Forms](/help/documentation/opportunities/low-navigation.md)
+      + [Problema de acessibilidade do Forms](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [Problemas no mapa do site](/help/documentation/opportunities/sitemap-issues.md)
       + [Permissões do site](/help/documentation/opportunities/website-permissions.md)
       + [Vulnerabilidades do site](/help/documentation/opportunities/website-vulnerabilities.md)

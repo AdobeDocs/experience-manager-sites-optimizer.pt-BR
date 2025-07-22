@@ -1,10 +1,10 @@
 ---
 title: Documentação de oportunidades do Sites Optimizer
 description: Saiba mais sobre todas as oportunidades disponíveis do Site Optimizer e como usá-las para melhorar o desempenho do seu site.
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 92%
+source-wordcount: '885'
+ht-degree: 78%
 
 ---
 
@@ -57,9 +57,8 @@ Cada oportunidade fornece uma breve descrição do problema, seu impacto potenci
 
 * **Título da oportunidade**: uma breve descrição do problema e seu impacto potencial no desempenho do site.
 * **Última atualização** - A Sites Optimizer atualizou a oportunidade pela última vez com novos dados nesta data.
-
 * **Contagem de problemas**: o número de instâncias do problema identificadas no site.
-* **Tipos de oportunidade** - Os [tipos de oportunidade](/help/opportunity-types/overview.md) dos quais esta oportunidade faz parte — como aquisição de tráfego, envolvimento ou integridade do site.
+* **Tipos de oportunidade** - Os [tipos de oportunidade](/help/opportunity-types/overview.md) dos quais esta oportunidade faz parte — como aquisição de tráfego, envolvimento, conversão ou integridade do site.
 
 As informações resumidas de cada oportunidade variam de acordo com o tipo e podem incluir detalhes sobre o impacto na receita, tráfego, engajamento do usuário ou ameaças à segurança.
 
@@ -97,6 +96,12 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
 * ./invalid-or-missing-metadata.md
   {title=Invalid or missing metadata}
   {image=../../assets/common/card-code.png}
+* ./low-conversions.md
+  {title=Low conversions}
+  {image=../../assets/common/card-bag.png}
+* ./low-views.md
+  {title=Low views}
+  {image=../../assets/common/card-bag.png} 
 * ./missing-alt-text.md
   {title=Missing alt text}
   {image=../../assets/common/card-arrows.png}
@@ -269,7 +274,7 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./high-bounce-rate.md" target="_blank" rel="referrer" title="Taxa de rejeição alta">Taxa de rejeição alta</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o engajamento do formulário no site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o engajamento de formulários no seu site.</p>
                 </div>
                 <a href="./high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -295,6 +300,98 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="is-size-6">Saiba mais sobre a oportunidade de metadados inválidos ou ausentes e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
+            </div>
+        </div>
+    </div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms low conversions">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./low-conversions.md" title="Conversões baixas do Forms" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Conversões baixas do Forms"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./low-conversions.md" target="_blank" rel="referrer" title="Conversões baixas do Forms">Conversões baixas de Forms</a>
+                    </p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de baixas conversões e como usá-la para melhorar o envolvimento de formulários no seu site.</p>
+                </div>
+                <a href="./low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms low views">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./low-views.md" title="Visualizações baixas do Forms" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Exibições baixas"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./low-views.md" target="_blank" rel="referrer" title="Exibições baixas">Poucas visualizações do Forms</a>
+                    </p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de exibições baixas de formulários e como usá-la para melhorar o envolvimento do formulário no seu site.</p>
+                </div>
+                <a href="./low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms low navigation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./low-navigation.md" title="Navegação baixa do Forms" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Navegação baixa do Forms"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./low-navigation.md" target="_blank" rel="referrer" title="Navegação baixa do Forms">Navegação baixa do Forms</a>
+                    </p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de navegação baixa dos formulários e como usá-los para melhorar o envolvimento com os formulários no seu site.</p>
+                </div>
+                <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Forms low navigation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./forms-accessibility-issues.md" title="Problemas de acessibilidade do Forms" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Problemas de acessibilidade do Forms"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Problemas de acessibilidade do Forms">problemas de acessibilidade do Forms</a>
+                    </p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de problemas de acessibilidade de formulários e como usá-la para melhorar o engajamento no seu site.</p>
+                </div>
+                <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>

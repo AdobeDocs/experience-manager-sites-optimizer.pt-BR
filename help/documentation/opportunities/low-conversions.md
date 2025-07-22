@@ -1,32 +1,36 @@
 ---
 title: Documentação de oportunidade de poucas conversões
-description: Saiba mais sobre a oportunidade de poucas conversões e como usá-la para melhorar o engajamento do formulário no seu site.
-badgeFormOptimization: label="Otimização de formulários" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Otimização de formulários"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+description: Saiba mais sobre a oportunidade de baixas conversões e como usá-la para melhorar o envolvimento de formulários no seu site.
+badgeFormOptimization: label="Forms Otimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Otimizer"
+hide: true
+hidefromtoc: true
+source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 27%
 
 ---
 
 
-# Oportunidade de poucas conversões
+# Oportunidade de baixas conversões do Forms
+
+<span class="preview"> O recurso Forms Otimizer está disponível no programa de acesso antecipado. Você pode enviar um email para aem-forms-ea@adobe.com a partir de sua ID de email oficial para participar do programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 ![Oportunidade de poucas conversões](./assets/low-conversions/hero.png){align="center"}
 
-A oportunidade de poucas conversões identifica formulários no seu site que têm baixas taxas de conversão. Essa oportunidade ajuda a entender quais formulários não estão apresentando um bom desempenho e fornece sugestões sobre como melhorar suas taxas de engajamento. Ao otimizar as conversões de seus formulários, você pode aumentar o número de envios de formulários e melhorar o desempenho geral do seu site.
+A oportunidade de baixas conversões identifica formulários em seu site que têm baixas taxas de conversão. Esse tipo de oportunidade ajuda você a entender quais formulários não estão apresentando um bom desempenho e fornece sugestões sobre como melhorar suas taxas de engajamento.
 
 ## Identificação automática
 
 ![Identificar automaticamente poucas conversões](./assets/low-conversions/auto-identify.png){align="center"}
 
-Cada página da Web com um formulário com poucas conversões está listada como sua própria oportunidade de **Poucas conversões**. Um breve resumo da oportunidade e da lógica de IA é exibido na parte superior da página da oportunidade.
+Cada página da Web com formulários com baixas conversões é listada como sua própria oportunidade **Baixas conversões**. Um breve resumo da oportunidade e do motivo é exibido na parte superior da página de oportunidade.
 
 ## Sugestão automática
 
 ![Sugerir poucas conversões automaticamente](./assets/low-conversions/auto-suggest.png){align="center"}
 
-A sugestão automática fornece variações de página da Web geradas por IA projetadas para aumentar as conversões de seus formulários. Cada variação exibe o **aumento da taxa de conversão do projeto** com base em seu potencial para melhorar o engajamento do formulário, ajudando a priorizar as sugestões mais eficazes.
+A Sugestão automática fornece variações de formulários geradas por IA projetadas para aumentar as conversões de seus formulários. Cada variação exibe o **aumento projetado da taxa de conversão** com base em seu potencial para melhorar o envolvimento de formulários, ajudando você a priorizar as sugestões mais eficazes.
 
 >[!BEGINTABS]
 
@@ -34,41 +38,47 @@ A sugestão automática fornece variações de página da Web geradas por IA pro
 
 ![Variações de controle](./assets/low-conversions/control-variation.png){align="center"}
 
-A variação de controle é o formulário original que está atualmente disponível no site. Essa variação é usada como uma base de referência para comparar o desempenho das variações sugeridas.
+A variação de controle são os formulários originais que estão atualmente no site. Essa variação é usada como uma base de referência para comparar o desempenho das variações sugeridas.
 
 >[!TAB Variações sugeridas]
 
 ![Variações sugeridas](./assets/low-conversions/suggested-variations.png){align="center"}
 
-As variações sugeridas são variações de página da Web geradas por IA projetadas para aumentar as conversões de seus formulários. Cada variação exibe a **projeção de aumento da taxa de conversão** com base em seu potencial para melhorar o engajamento do formulário, ajudando a priorizar as sugestões mais eficazes.
+As variações sugeridas são variações de formulários geradas por IA projetadas para aumentar as conversões de seus formulários. Cada variação exibe o **aumento projetado da taxa de conversão** com base em seu potencial para melhorar o envolvimento de formulários, ajudando você a priorizar as sugestões mais eficazes.
 
 Clique em cada variação para visualizá-la no lado direito da tela. Na parte superior da visualização, as seguintes ações e informações estão disponíveis:
 
 * **Alterações**: Um breve resumo do que foi alterado nesta variação em relação à variação de **controle**.
-* **Aumento projetado da taxa de conversão**: O aumento estimado no engajamento do formulário se esta variação for implementada.
+* **Aumento projetado da taxa de conversão** - O aumento estimado na participação de formulários se essa variação for implementada.
 * **Editar**: Clique para editar a variação na criação do AEM.
 
 >[!ENDTABS]
 
-## Otimizar automaticamente
+
+<!-- 
+
+## Auto-optimize
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![Otimizar automaticamente poucas conversões](./assets/low-conversions/auto-optimize.png){align="center"}
+![Auto-optimize low conversions](./assets/low-conversions/auto-optimize.png){align="center"}
 
-O Sites Optimizer Ultimate adiciona a capacidade de implantar otimização automática para os problemas encontrados pela oportunidade de poucas conversões.
+Sites Optimizer Ultimate adds the ability to deploy auto-optimization for the issues found by the low conversions opportunity.
 
 >[!BEGINTABS]
 
->[!TAB Testar vários]
+>[!TAB Test multiple]
 
 
->[!TAB Publicar selecionado(s)]
+>[!TAB Publish selected]
 
 {{auto-optimize-deploy-optimization-slack}}
 
->[!TAB Solicitar aprovação]
+>[!TAB Request approval]
 
 {{auto-optimize-request-approval}}
 
 >[!ENDTABS]
+
+
+-->

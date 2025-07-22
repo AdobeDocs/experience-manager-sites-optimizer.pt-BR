@@ -1,11 +1,11 @@
 ---
 title: Documentação de oportunidade de alta taxa de rejeição
-description: Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o engajamento do formulário no site.
+description: Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o engajamento de formulários no seu site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
-source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
+source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 100%
+ht-degree: 61%
 
 ---
 
@@ -14,19 +14,19 @@ ht-degree: 100%
 
 ![Oportunidade de alta taxa de rejeição](./assets/high-bounce-rate/hero.png){align="center"}
 
-A oportunidade de alta taxa de rejeição identifica formulários em seu site que têm uma alta taxa de rejeição. Essa oportunidade ajuda a entender quais formulários não estão apresentando um bom desempenho e fornece sugestões sobre como melhorar suas taxas de engajamento. Ao otimizar as exibições de formulários, é possível aumentar o número de envios de formulários e melhorar o desempenho geral do site.
+A oportunidade de alta taxa de rejeição identifica formulários em seu site que têm uma alta taxa de rejeição. Esse tipo de oportunidade ajuda você a entender quais formulários não estão apresentando um bom desempenho e fornece sugestões sobre como melhorar suas taxas de engajamento. Ao otimizar as exibições de formulários, é possível aumentar o número de envios de formulários e melhorar o desempenho geral do site.
 
 ## Identificação automática
 
 ![Identificar automaticamente alta taxa de rejeição](./assets/high-bounce-rate/auto-identify.png){align="center"}
 
-Cada página da Web com um formulário com poucas exibições é listada como sua própria oportunidade de **alta taxa de rejeição**. Um breve resumo da oportunidade e da lógica de IA é exibido na parte superior da página da oportunidade.
+Cada página da Web com formulários com exibições baixas é listada como sua própria oportunidade **taxa de rejeição alta**. Um breve resumo da oportunidade e da lógica de IA é exibido na parte superior da página da oportunidade.
 
 ## Sugestão automática
 
 ![Sugerir automaticamente alta taxa de rejeição](./assets/high-bounce-rate/auto-suggest.png){align="center"}
 
-A Sugestão automática fornece variações da página da web geradas por IA projetadas para aumentar as exibições dos seus formulários. Cada variação exibe o **aumento da taxa de conversão do projeto** com base em seu potencial para melhorar o engajamento do formulário, ajudando a priorizar as sugestões mais eficazes.
+A Sugestão automática fornece variações da página da web geradas por IA projetadas para aumentar as exibições dos seus formulários. Cada variação exibe o **aumento da taxa de conversão do projeto** com base em seu potencial para melhorar o envolvimento de formulários, ajudando você a priorizar as sugestões mais eficazes.
 
 >[!BEGINTABS]
 
@@ -34,13 +34,13 @@ A Sugestão automática fornece variações da página da web geradas por IA pro
 
 ![Variações originais](./assets/high-bounce-rate/original-variation.png){align="center"}
 
-A variação de controle é o formulário original que está atualmente disponível no site. Essa variação é usada como uma base de referência para comparar o desempenho das variações sugeridas.
+A variação de controle são os formulários originais que estão atualmente no site. Essa variação é usada como uma base de referência para comparar o desempenho das variações sugeridas.
 
 >[!TAB Variações sugeridas]
 
 ![Variações sugeridas](./assets/high-bounce-rate/suggested-variations.png){align="center"}
 
-As variações sugeridas são variações de página da Web geradas por IA projetadas para diminuir a taxa de rejeição do formulário. Cada variação exibe o **aumento projetado da taxa de cliques** com base em seu potencial para melhorar o engajamento no formulário, ajudando você a priorizar as sugestões mais eficazes.
+As variações sugeridas são variações de página da Web geradas por IA projetadas para diminuir a taxa de rejeição dos formulários. Cada variação exibe o **aumento projetado da taxa de cliques** com base em seu potencial para melhorar o envolvimento de formulários, ajudando você a priorizar as sugestões mais eficazes.
 
 Clique em cada variação para visualizá-la no lado direito da tela. Na parte superior da visualização, as seguintes ações e informações estão disponíveis:
 

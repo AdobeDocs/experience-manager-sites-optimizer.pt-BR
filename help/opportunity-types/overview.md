@@ -1,7 +1,7 @@
 ---
 title: Tipos de oportunidade do Sites Optimizer
 description: Saiba mais sobre os principais tipos de oportunidade no Sites Optimizer e como eles podem ajudar a melhorar o desempenho do seu site.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
+source-git-commit: e103b37bbc0bdae7554bdc1f058083c64143a235
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 62%

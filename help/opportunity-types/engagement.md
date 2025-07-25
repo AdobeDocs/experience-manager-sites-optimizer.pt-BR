@@ -4,7 +4,7 @@ description: Saiba como melhorar o engajamento com o Sites Optimizer.
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 84%
+ht-degree: 92%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 84%
 
 ![Oportunidades de engajamento](./assets/engagement/hero.png){align="center"}
 
-As Oportunidades de engajamento no AEM Sites Optimizer são cruciais para melhorar as experiências digitais, fornecendo insights acionáveis sobre como os usuários interagem com páginas da web. Ao identificar áreas para aprimoramento, como problemas de acessibilidade, links internos corrompidos, altas taxas de rejeição e texto alternativo ausente, os profissionais de marketing e autores de conteúdo podem otimizar seus sites para obter melhor desempenho e engajamento do usuário. Essas oportunidades ajudam a garantir que o conteúdo seja eficaz, detectável e atraente, gerando mais conversões e uma jornada mais fluida para o cliente. O uso das recomendações da AEM Sites Optimizer permite que as equipes refinem continuamente sua estratégia digital e ofereçam experiências de alto impacto em escala.
+As Oportunidades de engajamento no AEM Sites Optimizer são cruciais para melhorar as experiências digitais, fornecendo insights acionáveis sobre como os usuários interagem com páginas da web. Ao identificar áreas para aprimoramento, como problemas de acessibilidade, links internos corrompidos, altas taxas de rejeição e texto alternativo ausente, os profissionais de marketing e autores de conteúdo podem otimizar seus sites para obter melhor desempenho e engajamento do usuário. Essas oportunidades ajudam a garantir que o conteúdo seja eficaz, detectável e atraente, gerando mais conversões e uma jornada mais fluida para o cliente. O uso das recomendações do AEM Sites Optimizer permite que as equipes refinem continuamente sua estratégia digital e ofereçam experiências de alto impacto em grande escala.
 
 
 ## Oportunidades

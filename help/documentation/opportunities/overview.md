@@ -4,7 +4,7 @@ description: Saiba mais sobre todas as oportunidades disponíveis do Site Optimi
 source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
 workflow-type: tm+mt
 source-wordcount: '885'
-ht-degree: 78%
+ht-degree: 82%
 
 ---
 
@@ -56,7 +56,7 @@ Com um [status de oportunidade](#opportunity-status) selecionado, você pode exi
 Cada oportunidade fornece uma breve descrição do problema, seu impacto potencial no site e um link para detalhes completos. Você também pode ver seu status, indicando se ele foi otimizado ou se ainda está pendente.
 
 * **Título da oportunidade**: uma breve descrição do problema e seu impacto potencial no desempenho do site.
-* **Última atualização** - A Sites Optimizer atualizou a oportunidade pela última vez com novos dados nesta data.
+* **Última atualização**: o Sites Optimizer atualizou a oportunidade pela última vez com novos dados nesta data.
 * **Contagem de problemas**: o número de instâncias do problema identificadas no site.
 * **Tipos de oportunidade** - Os [tipos de oportunidade](/help/opportunity-types/overview.md) dos quais esta oportunidade faz parte — como aquisição de tráfego, envolvimento, conversão ou integridade do site.
 

@@ -1,9 +1,9 @@
 ---
-title: Forms Otimizer com Sites Optimizer
-description: Saiba mais sobre o Forms Otimizer com o Sites Optimizer.
+title: Otimização do Forms com o Sites Optimizer
+description: Saiba mais sobre a Otimização do Forms com o Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Oportunidades de acessibilidade do Forms
 
-<span class="preview"> O recurso Forms Otimizer está disponível no programa de acesso antecipado. Você pode enviar um email para aem-forms-ea@adobe.com a partir de sua ID de email oficial para participar do programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso Otimização do Forms está disponível no programa de acesso antecipado. Você pode enviar um email para aem-forms-ea@adobe.com a partir de sua ID de email oficial para participar do programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 ![Oportunidades de acessibilidade do Forms](./assets/form-accesibility/hero.png){align="center"}
 

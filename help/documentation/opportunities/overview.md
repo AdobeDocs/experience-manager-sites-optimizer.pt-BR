@@ -1,7 +1,7 @@
 ---
 title: Documentação de oportunidades do Sites Optimizer
 description: Saiba mais sobre todas as oportunidades disponíveis do Site Optimizer e como usá-las para melhorar o desempenho do seu site.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
 workflow-type: tm+mt
 source-wordcount: '885'
 ht-degree: 78%
@@ -310,7 +310,7 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-conversions.md" title="Conversões baixas do Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Conversões baixas do Forms"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Conversões baixas do Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -333,7 +333,7 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-views.md" title="Visualizações baixas do Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Exibições baixas"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Exibições baixas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -356,7 +356,7 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./low-navigation.md" title="Navegação baixa do Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Navegação baixa do Forms"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-conversion.png" alt="Navegação baixa do Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -379,7 +379,7 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./forms-accessibility-issues.md" title="Problemas de acessibilidade do Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../../assets/common/card-bag.png" alt="Problemas de acessibilidade do Forms"
+                        <img class="is-bordered-r-small" src="../../assets/common/card-arrows.png" alt="Problemas de acessibilidade do Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

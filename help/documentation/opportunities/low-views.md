@@ -1,10 +1,10 @@
 ---
 title: Documentação da oportunidade de exibições baixas
 description: Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o engajamento de formulários no seu site.
-badgeFormOptimization: label="Forms Otimizer" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Forms Otimizer"
+badgeFormOptimization: label="Otimização do Forms" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Otimização do Forms"
 hide: true
 hidefromtoc: true
-source-git-commit: 1666ab8c7946e4ba68ce6e1af5dda2e7ec1be9dd
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 32%
@@ -14,7 +14,7 @@ ht-degree: 32%
 
 # Oportunidade de visualizações baixas do Forms
 
-<span class="preview"> O recurso Forms Otimizer está disponível no programa de acesso antecipado. Você pode enviar um email para aem-forms-ea@adobe.com a partir de sua ID de email oficial para participar do programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso Otimização do Forms está disponível no programa de acesso antecipado. Você pode enviar um email para aem-forms-ea@adobe.com a partir de sua ID de email oficial para participar do programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 ![Oportunidade de exibições baixas](./assets/low-views/hero.png){align="center"}
 

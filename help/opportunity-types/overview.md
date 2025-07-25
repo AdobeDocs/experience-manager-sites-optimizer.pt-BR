@@ -1,7 +1,7 @@
 ---
 title: Tipos de oportunidade do Sites Optimizer
 description: Saiba mais sobre os principais tipos de oportunidade no Sites Optimizer e como eles podem ajudar a melhorar o desempenho do seu site.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
+source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 48%
@@ -38,7 +38,7 @@ Usar essas oportunidades melhora a experiência do usuário, atrai o público-al
 * ./traffic-acquisition.md
    { title = Traffic acquisition }
 * ./form-optimization.md
-   { title = Forms Optimizer }
+   { title = Forms Optimization }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -150,7 +150,7 @@ Usar essas oportunidades melhora a experiência do usuário, atrai o público-al
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Otimização do Forms">Otimização do Forms</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre como melhorar a conversão de formulários com o Forms Otimizer.</p>
+                    <p class="is-size-6">Saiba mais sobre como melhorar a conversão de formulários com a Otimização do Forms.</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -173,7 +173,7 @@ Usar essas oportunidades melhora a experiência do usuário, atrai o público-al
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./form-optimization.md" target="_blank" rel="referrer" title="Acessibilidade do Forms">Acessibilidade Forms</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre como melhorar a acessibilidade de formulários com o Forms Otimizer.</p>
+                    <p class="is-size-6">Saiba mais sobre como melhorar a acessibilidade de formulários com o Forms Otimization.</p>
                 </div>
                 <a href="./form-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

@@ -3,9 +3,9 @@ title: Documentação de oportunidade de problemas do mapa do site
 description: Saiba mais sobre a oportunidade de problemas do mapa do site e como usá-la para melhorar a aquisição de tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 88%
 
 ![Oportunidade de problemas do mapa do site](./assets/sitemap-issues/hero.png){align="center"}
 
-Um mapa do site completo e correto ajuda os mecanismos de pesquisa a rastrearem e indexarem as páginas do site com eficiência, garantindo uma melhor visibilidade dos resultados da pesquisa. A oportunidade do mapa do site identifica possíveis problemas com seu mapa do site. A correção desses problemas pode melhorar muito a indexação do mecanismo de pesquisa e a descoberta de conteúdo no site.
+Um mapa do site completo e correto ajuda os mecanismos de pesquisa a rastrearem e indexarem as páginas do site com eficiência, garantindo uma melhor visibilidade dos resultados da pesquisa. A oportunidade do mapa do site identifica possíveis problemas com seu mapa do site. A correção desses problemas pode melhorar muito a indexação do mecanismo de pesquisa e a capacidade de descoberta de conteúdo no seu site.
 
 Um resumo é exibido na parte superior da página, incluindo um resumo do problema e seu impacto no site e na empresa.
 
@@ -36,11 +36,11 @@ Os problemas do mapa do site podem ser filtrados usando os seguintes critérios:
 
 ![Identificar automaticamente erros de cliente do mapa do site](./assets/sitemap-issues/auto-identify-client-errors.png){align="center"}
 
-Se os URLs no mapa de site retornarem esses erros, os mecanismos de pesquisa poderão assumir que o mapa de site está desatualizado ou que as páginas foram removidas por engano. O cliente indica que a solicitação do cliente (navegador ou rastreador) era inválida. Os comuns incluem:
+Se os URLs no seu mapa do site retornarem esses erros, os mecanismos de pesquisa poderão supor que o seu mapa do site está desatualizado ou que as páginas foram removidas por engano. O cliente indica que a solicitação do cliente (navegador ou rastreador) era inválida. Os comuns incluem:
 
-* **404 Não encontrado** - A página solicitada não existe.
+* **404 Não encontrado**: a página solicitada não existe.
 * **403 Proibido**: o servidor nega acesso à página solicitada.
-* **410 Sumiu** - A página foi intencionalmente removida e não é retornada.
+* **410 Removido**: a página foi removida intencionalmente e não está sendo retornada.
 * **401 Não autorizado**: a autenticação é necessária, mas não foi fornecida.
 
 Esses erros podem prejudicar a SEO, especialmente se páginas importantes retornarem um erro **404 ou 410**, já que os mecanismos de pesquisa podem desindexá-los.

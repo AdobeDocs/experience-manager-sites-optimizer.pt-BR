@@ -2,9 +2,9 @@
 title: Otimizar a aquisição de tráfego com o Sites Optimizer
 description: Saiba como aumentar a aquisição de tráfego com o Sites Optimizer.
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 63%
 
 ![Oportunidades de aquisição de tráfego](./assets/traffic-acquisition/hero.png){align="center"}
 
-A aquisição de tráfego direciona clientes em potencial para seu site e cria oportunidades de vendas ou de leads. Ao usar estratégias como a SEO (otimização de mecanismo de pesquisa), as empresas podem melhorar a visibilidade da pesquisa e facilitar a descoberta de conteúdo pelos usuários. Um fluxo constante de visitantes aumenta a percepção da marca e cria confiança. Ele também fornece insights valiosos sobre o comportamento do usuário. Esses insights ajudam as equipes a refinar suas ofertas e aprimorar a experiência geral. O uso dos insights do AEM Sites Optimizer permite uma otimização contínua, garantindo um crescimento sustentado e taxas de conversão aprimoradas ao longo do tempo.
+A aquisição de tráfego direciona clientes em potencial ao seu site e cria oportunidades de vendas ou de lead. O uso de estratégias como a otimização para mecanismos de pesquisa (SEO), as empresas podem melhorar a visibilidade das pesquisas e facilitar a descoberta do seu conteúdo pelos usuários. Um fluxo constante de visitantes aumenta a percepção da marca e gera confiança. Ele também fornece insights valiosos sobre o comportamento dos usuários. Esses insights ajudam as equipes a refinarem suas ofertas e aprimorarem a experiência geral. O uso dos insights do AEM Sites Optimizer permite uma otimização contínua, garantindo um crescimento sustentado e taxas de conversão aprimoradas ao longo do tempo.
 
 ## Oportunidades
 

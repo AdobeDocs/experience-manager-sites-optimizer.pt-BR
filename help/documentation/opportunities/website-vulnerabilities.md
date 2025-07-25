@@ -3,9 +3,9 @@ title: Documentação de oportunidade de vulnerabilidades do site
 description: Saiba mais sobre a oportunidade de vulnerabilidades do site e como usá-la para aumentar a segurança em seu site.
 badgeSecurityPosture: label="Postura de segurança" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Postura de segurança"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '366'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 77%
 
 ![Oportunidade de vulnerabilidades do site](./assets/website-vulnerabilities/hero.png){align="center"}
 
-A oportunidade de vulnerabilidades do site identifica vulnerabilidades de segurança nas bibliotecas de terceiros usadas pelo código do aplicativo. Ataques mal-intencionados exploram essas vulnerabilidades, aumentando o risco e diminuindo a postura de segurança do seu site.
+A oportunidade de vulnerabilidades do site identifica vulnerabilidades de segurança nas bibliotecas de terceiros usadas pelo código do seu aplicativo. Ataques maliciosos exploram essas vulnerabilidades, aumentando o risco e diminuindo a postura de segurança do seu site.
 
 A oportunidade de vulnerabilidades do site exibe um resumo na parte superior da página, incluindo o seguinte:
 
@@ -37,17 +37,17 @@ O recurso **Oportunidade de vulnerabilidades do site** identifica e lista automa
 
 ![Sugerir vulnerabilidades de site automaticamente](./assets/website-vulnerabilities/auto-suggest.png){align="center"}
 
-A sugestão automática fornece sugestões geradas por IA para a **Versão recomendada** de uma biblioteca vulnerável para a qual você deve atualizar. Cada entrada tem uma **Pontuação** indicando sua severidade geral, ajudando a priorizar as vulnerabilidades mais críticas.
+A sugestão automática fornece sugestões geradas por IA referentes à **Versão recomendada** da biblioteca de vulnerabilidades para a qual você deve fazer o upgrade. Cada entrada tem uma **Pontuação** indicando sua severidade geral, ajudando a priorizar as vulnerabilidades mais críticas.
 
 >[!BEGINTABS]
 
 >[!TAB Detalhes da vulnerabilidade]
 
-Cada vulnerabilidade contém um link que direciona para as informações detalhadas no [Banco de Dados Nacional de Vulnerabilidades (NVD)](https://nvd.nist.gov/). Ao clicar no identificador de vulnerabilidade ou no item de link à direita da descrição, você será direcionado para a página NVD dessa vulnerabilidade.
+Cada vulnerabilidade contém um link que direciona para as informações detalhadas no [Banco de Dados Nacional de Vulnerabilidades (NVD)](https://nvd.nist.gov/). Ao clicar no identificador de vulnerabilidades ou no item de link à direita da descrição, o usuário é direcionado à página do NVD dessa vulnerabilidade.
 
 >[!TAB Ignorar entradas]
 
-Você pode optar por ignorar as entradas da lista de vulnerabilidades. Selecionar ![Excluir ícone](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) remove a entrada da lista. As entradas ignoradas podem ser engajadas novamente na guia **Ignoradas**, na parte superior da página de oportunidade.<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
+Você pode optar por ignorar as entradas da lista de vulnerabilidades. Clicar no ![ícone de excluir](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) remove a entrada da lista. As entradas ignoradas podem ser engajadas novamente na guia **Ignoradas**, na parte superior da página de oportunidade.<!---right now it does not seem to be implemented, but the page description mentions this functionality-->
 
 >[!ENDTABS]
 

@@ -3,9 +3,9 @@ title: Documentação de oportunidade da configuração do CORS
 description: Saiba mais sobre a oportunidade de configuração do CORS e de identificar e corrigir vulnerabilidades de segurança do site.
 badgeSecurityPosture: label="Postura de segurança" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Postura de segurança"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '193'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 87%
 
 ![Oportunidade de configuração do CORS](./assets/cors-configuration/hero.png){align="center"}
 
-A configuração correta do CORS (Cross-Origin Resource Sharing, Compartilhamento de recursos entre origens) é essencial para proteger aplicativos da Web contra o acesso não autorizado aos dados. Quando o cabeçalho `Access-Control-Allow-Origin` é definido como `*`, qualquer domínio pode solicitar e receber respostas, potencialmente expondo informações confidenciais a invasores. Essa funcionalidade oferece uma oportunidade de fortalecer a segurança implementando uma inclui na lista de permissões controlada de domínios confiáveis ou desabilitando o CORS quando não é necessária. Garantir uma configuração segura do CORS ajuda a proteger o conteúdo privado, mantendo o acesso ininterrupto para usuários autorizados.
+A configuração correta do CORS (Cross-Origin Resource Sharing, Compartilhamento de recursos entre origens) é essencial para proteger aplicativos da Web contra o acesso não autorizado aos dados. Quando o cabeçalho `Access-Control-Allow-Origin` é definido como `*`, qualquer domínio pode solicitar e receber respostas, potencialmente expondo informações confidenciais a invasores. Essa funcionalidade oferece uma oportunidade de fortalecer a segurança, implementando-se uma lista de permissões controlada de domínios confiáveis ou desabilitando-se o CORS quando desnecessário. Garantir uma configuração segura do CORS ajuda a proteger o conteúdo privado, mantendo o acesso ininterrupto para usuários autorizados.
 
 ## Identificação automática
 

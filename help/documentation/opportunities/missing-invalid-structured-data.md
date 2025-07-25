@@ -3,9 +3,9 @@ title: Documentação de dados estruturados ausentes ou inválidos
 description: Saiba mais sobre a oportunidade de dados estruturados ausentes ou inválidos e como usá-la para melhorar a aquisição do tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '360'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ A oportunidade de dados estruturados ausentes ou inválidos exibe um resumo na p
 
 A oportunidade de dados estruturados ausentes ou inválidos lista todos os problemas detectados em suas páginas e contém as seguintes categorias:
 
-* **Página com problemas** - A página que contém dados estruturados inválidos ou ausentes.
+* **Página com problemas**: a página que possui dados estruturados inválidos ou ausentes.
 * **Problema e correção proposta por IA**: indica o tipo de problema com dados estruturados que afeta a página.
 * **Sugestão**: uma sugestão gerada por IA para atualizações de dados estruturados adequadas. Consulte a seção abaixo para obter mais detalhes.
 

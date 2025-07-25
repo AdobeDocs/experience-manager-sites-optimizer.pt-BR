@@ -3,9 +3,9 @@ title: Documentação de oportunidade de criação de script entre sites
 description: Saiba mais sobre a oportunidade de criação de script entre sites e como identificar e corrigir vulnerabilidades de segurança do site.
 badgeSecurityPosture: label="Postura de segurança" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Postura de segurança"
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 78%
 
 ![Oportunidade entre sites](./assets/cross-site-scripting/hero.png){align="center"}
 
-A oportunidade de criação de script entre sites identifica vulnerabilidades no código do site. Em seguida, corrige problemas que os invasores poderiam explorar para injetar scripts mal-intencionados em páginas da Web visualizadas por outros usuários. Esses scripts podem roubar informações confidenciais, como cookies de sessão, ou executar ações em nome do usuário, como alterar sua senha.
+A oportunidade de criação de script entre sites identifica vulnerabilidades no código do seu site. Em seguida, ela corrige problemas que os invasores poderiam explorar para injetar scripts maliciosos em páginas da web visualizadas por outros usuários. Esses scripts podem roubar informações confidenciais, como cookies de sessão, ou executar ações em nome do usuário, como alterar sua senha.
 
 ## Identificação automática
 

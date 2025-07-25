@@ -2,9 +2,9 @@
 title: Otimizar a integridade do site com o Sites Optimizer
 description: Saiba como melhorar a integridade do site com o Sites Optimizer.
 source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 72%
 
 ![Oportunidades de integridade do site](./assets/site-health/hero.png){align="center"}
 
-Manter a integridade do site no AEM Sites Optimizer é essencial para fornecer experiências digitais rápidas, confiáveis e de alto desempenho. Ao identificar oportunidades para aprimoramento, como os Sinais vitais principais da web, as equipes podem otimizar a velocidade de páginas, a interatividade e a estabilidade visual para aprimorar a experiência do usuário e as classificações em mecanismos de pesquisa. Um site com boa manutenção garante uma navegação mais suave, melhor engajamento e desempenho geral. O uso dos insights do AEM Sites Optimizer permite o monitoramento e o refinamento contínuos, garantindo que o site permaneça eficiente e eficaz ao longo do tempo.
+Manter a integridade do site no AEM Sites Optimizer é essencial para fornecer experiências digitais rápidas, confiáveis e de alto desempenho. Ao identificar oportunidades para aprimoramento, como os Sinais vitais principais da web, as equipes podem otimizar a velocidade de páginas, a interatividade e a estabilidade visual para aprimorar a experiência do usuário e as classificações em mecanismos de pesquisa. Um site com boa manutenção garante uma navegação mais suave, melhor engajamento e desempenho geral. O uso dos insights do AEM Sites Optimizer permite um monitoramento e um refinamento contínuos, garantindo que o site permaneça eficiente e eficaz ao longo do tempo.
 
 ## Oportunidades
 
@@ -41,7 +41,7 @@ Manter a integridade do site no AEM Sites Optimizer é essencial para fornecer e
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Sinais vitais principais da web">Sinais vitais principais da web</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade Core Web Vitals e como usá-la para melhorar a aquisição de tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de principais sinais vitais e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

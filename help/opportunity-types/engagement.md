@@ -2,9 +2,9 @@
 title: Otimizar o engajamento com o Sites Optimizer
 description: Saiba como melhorar o engajamento com o Sites Optimizer.
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '237'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -98,7 +98,7 @@ As Oportunidades de engajamento no AEM Sites Optimizer são cruciais para melhor
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" title="Taxa de rejeição alta">Taxa de rejeição alta</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o engajamento de formulários no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade com visualizações baixas e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

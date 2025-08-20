@@ -3,9 +3,9 @@ title: Documentação de oportunidade de problemas de acessibilidade
 description: Saiba mais sobre a oportunidade de problemas de acessibilidade e como usá-la para aumentar a segurança do site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
 source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -56,4 +56,4 @@ O Sites Optimizer Ultimate adiciona a capacidade de implantar a otimização aut
 
 ## Consulte também
 
-[Oportunidade de problemas de acessibilidade do Forms](/help/documentation/opportunities/forms-accessibility-issues.md)
+[Oportunidade de problemas de acessibilidade de formulários](/help/documentation/opportunities/forms-accessibility-issues.md)

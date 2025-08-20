@@ -1,25 +1,25 @@
 ---
-title: Otimização do Forms com o Sites Optimizer
-description: Saiba mais sobre a Otimização do Forms com o Sites Optimizer.
+title: Otimização de formulários com o Sites Optimizer
+description: Saiba mais sobre a otimização de formulários com o Sites Optimizer.
 hide: true
 hidefromtoc: true
 source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 
-# Oportunidades de otimização da Forms
+# Oportunidades de otimização de formulários
 
-<span class="preview"> O recurso Otimização do Forms está disponível no programa de acesso antecipado. Você pode enviar um email para aem-forms-ea@adobe.com a partir de sua ID de email oficial para participar do programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso de otimização de formulários está disponível no programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
-![Oportunidades de otimização da Forms](./assets/form-optimization/hero.png){align="center"}
+![Oportunidades de otimização de formulários](./assets/form-optimization/hero.png){align="center"}
 
-As oportunidades de otimização do Forms permitem que as organizações melhorem sistematicamente as interações do usuário e aumentem as conversões de formulários. Ao detectar problemas como exibições baixas, conversões baixas e taxas de navegação baixas, as equipes podem fazer ajustes orientados por dados para o design, posicionamento e conteúdo do formulário. Essas otimizações ajudam a simplificar a experiência do usuário, facilitando que os visitantes preencham os formulários e alcancem os resultados desejados. O uso de insights da Otimização do Forms permite a identificação e a resolução contínuas de lacunas de desempenho, resultando em formulários mais eficazes e melhores resultados de negócios.
+As oportunidades de otimização de formulários permitem que as organizações melhorem sistematicamente as interações dos usuários e aumentem as conversões de formulários. Ao detectar problemas como visualizações baixas, conversões baixas e taxas de navegação baixas, as equipes podem fazer ajustes orientados por dados no design, posicionamento e conteúdo dos formulários. Essas otimizações ajudam a simplificar a experiência do usuário, ajudando os visitantes a preencherem os formulários e atingirem os resultados desejados. O uso de insights da otimização de formulários permite a identificação e a resolução contínuas de lacunas de desempenho, resultando em formulários mais eficazes e melhores resultados comerciais.
 
 ## Oportunidades
 
@@ -50,7 +50,7 @@ As oportunidades de otimização do Forms permitem que as organizações melhore
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" title="Exibições baixas">Poucas exibições</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de exibições baixas e como usá-la para melhorar o engajamento de formulários no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade com visualizações baixas e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -73,7 +73,7 @@ As oportunidades de otimização do Forms permitem que as organizações melhore
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" title="Baixas conversões">Poucas conversões</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de baixas conversões e como usá-la para melhorar o envolvimento de formulários no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de conversões baixas e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -96,7 +96,7 @@ As oportunidades de otimização do Forms permitem que as organizações melhore
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" title="Problemas de acessibilidade">Navegação baixa</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a baixa oportunidade de navegação e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade com conversões baixas e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

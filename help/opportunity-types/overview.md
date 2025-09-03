@@ -1,10 +1,10 @@
 ---
 title: Tipos de oportunidade do Sites Optimizer
 description: Saiba mais sobre os principais tipos de oportunidade no Sites Optimizer e como eles podem ajudar a melhorar o desempenho do seu site.
-source-git-commit: 8645876161e475b0e8c641ba8f5fa2ff7906d3cb
-workflow-type: ht
-source-wordcount: '300'
-ht-degree: 100%
+source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
+workflow-type: tm+mt
+source-wordcount: '343'
+ht-degree: 80%
 
 ---
 
@@ -20,10 +20,11 @@ O AEM Sites Optimizer fornece insights e recomendações valiosos para ajudar vo
 * Aquisição de tráfego
 * Postura de segurança
 * Integridade do site
+* Simulação
 
-Cada categoria destaca uma maneira diferente de aprimorar o seu site. Uma categoria pode aumentar a interação dos visitantes. Outra pode melhorar a capacidade de descoberta. Outras concentram-se no fortalecimento da segurança ou na manutenção da estabilidade do site.
+Cada categoria destaca uma maneira diferente de aprimorar o seu site. Uma categoria pode aumentar a interação dos visitantes. Outra pode melhorar a capacidade de descoberta. Outros se concentram no fortalecimento da segurança ou na manutenção da estabilidade do local. A comprovação ajuda a analisar e otimizar as páginas antes de serem publicadas.
 
-O uso dessas oportunidades melhora a experiência do usuário, atrai o público-alvo certo e mantém o seu site seguro e confiável. Melhorar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade.  Confira os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
+O uso dessas oportunidades melhora a experiência do usuário, atrai o público-alvo certo e mantém o seu site seguro e confiável. Melhorar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade. A análise de comprovação garante que o conteúdo seja otimizado antes de entrar em vigor. Confira os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
 
 ## Tipos de oportunidades
 
@@ -39,6 +40,8 @@ O uso dessas oportunidades melhora a experiência do usuário, atrai o público-
    { title = Traffic acquisition }
 * ./form-optimization.md
    { title = Forms Optimization }
+* ./preflight.md
+   { title = Preflight }
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -181,7 +184,30 @@ O uso dessas oportunidades melhora a experiência do usuário, atrai o público-
             </div>
         </div>
     </div>
-
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Preflight">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./preflight.md" title="Simulação" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="assets/preflight/hero.png" alt="Simulação"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./preflight.md" target="_blank" rel="referrer" title="Simulação">Comprovação</a>
+                    </p>
+                    <p class="is-size-6">Saiba mais sobre a análise de comprovação e como configurar oportunidades de comprovação no Sites Optimizer.</p>
+                </div>
+                <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
+            </div>
+        </div>
+    </div>
+ </br>   
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 

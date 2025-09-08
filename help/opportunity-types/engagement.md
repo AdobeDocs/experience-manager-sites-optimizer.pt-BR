@@ -1,10 +1,10 @@
 ---
 title: Otimizar o engajamento com o Sites Optimizer
 description: Saiba como melhorar o engajamento com o Sites Optimizer.
-source-git-commit: 48bba918b5b822091ca28bfb5342277207d780ed
-workflow-type: ht
-source-wordcount: '237'
-ht-degree: 100%
+source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+workflow-type: tm+mt
+source-wordcount: '285'
+ht-degree: 83%
 
 ---
 
@@ -15,9 +15,7 @@ ht-degree: 100%
 
 As Oportunidades de engajamento no AEM Sites Optimizer são cruciais para melhorar as experiências digitais, fornecendo insights acionáveis sobre como os usuários interagem com páginas da web. Ao identificar áreas para aprimoramento, como problemas de acessibilidade, links internos corrompidos, altas taxas de rejeição e texto alternativo ausente, os profissionais de marketing e autores de conteúdo podem otimizar seus sites para obter melhor desempenho e engajamento do usuário. Essas oportunidades ajudam a garantir que o conteúdo seja eficaz, detectável e atraente, gerando mais conversões e uma jornada mais fluida para o cliente. O uso das recomendações do AEM Sites Optimizer permite que as equipes refinem continuamente sua estratégia digital e ofereçam experiências de alto impacto em grande escala.
 
-
 ## Oportunidades
-
 
 <!-- CARDS
 
@@ -30,6 +28,9 @@ As Oportunidades de engajamento no AEM Sites Optimizer são cruciais para melhor
 * ../documentation/opportunities//high-bounce-rate.md
   {title=High bounce rate}
   {image=../assets/common/card-arrows.png}
+* ../documentation/opportunities/high-traffic-page-has-low-ctr.md
+  {title=High traffic page has low CTR}
+  {image=../assets/common/card-browser.png}
 * ../documentation/opportunities/missing-alt-text.md  
   {title=Missing alt text}
   {image=../assets/common/card-arrows.png}
@@ -101,6 +102,29 @@ As Oportunidades de engajamento no AEM Sites Optimizer são cruciais para melhor
                     <p class="is-size-6">Saiba mais sobre a oportunidade com visualizações baixas e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities//high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="High traffic page has low CTR">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="A página de alto tráfego tem CTR baixo" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="A página de alto tráfego tem CTR baixo"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="A página de alto tráfego tem CTR baixo">A página de alto tráfego tem CTR baixo</a>
+                    </p>
+                    <p class="is-size-6">Saiba mais sobre a página de alto tráfego que tem baixa oportunidade de CTR e como usá-la para aumentar o engajamento no seu site.</p>
+                </div>
+                <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>

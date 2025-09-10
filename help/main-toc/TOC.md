@@ -5,7 +5,7 @@ user-guide-description: Esta é uma descrição do guia do usuário que será ex
 source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 92%
    + [Postura de segurança](/help/opportunity-types/security-posture.md)
    + [Otimização de formulários](/help/opportunity-types/form-optimization.md)
    + [Acessibilidade de formulários](/help/opportunity-types/form-accesibility.md)
-   + [Oportunidades de comprovação](/help/opportunity-types/preflight.md)
+   + [Oportunidades do Preflight](/help/opportunity-types/preflight.md)
 + Documentação{#documentation}
    + [Visão geral](/help/documentation/overview.md)
    + [Noções básicas](/help/documentation/basics.md)

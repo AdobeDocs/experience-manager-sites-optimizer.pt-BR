@@ -1,19 +1,19 @@
 ---
-title: AEM Sites Optimizer - Guia de integração de comprovação
-description: Saiba mais sobre as oportunidades de simulação e como configurar a análise de simulação no AEM Sites Optimizer.
+title: 'AEM Sites Optimizer: guia de integração do Preflight'
+description: Saiba mais sobre as oportunidades do Preflight e como configurar a análise de simulação no AEM Sites Optimizer.
 source-git-commit: 0a6ddcdfd369253500067b31617facfb7f38b656
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '488'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
 
-# Oportunidades de comprovação
+# Oportunidades do Preflight
 
-![Oportunidades de simulação](./assets/preflight/hero.png){align="center"}
+![Oportunidades do Preflight](./assets/preflight/hero.png){align="center"}
 
-<span class="preview">A Comprovação do AEM Sites Optimizer analisa os dados técnicos e de desempenho da sua página e antecipa e detecta oportunidades antes de publicá-las. Ele usa IA gerativa para sugerir otimizações.</span>
+<span class="preview">O AEM Sites Optimizer Preflight analisa os dados técnicos e de desempenho da sua página, e antecipa e detecta oportunidades antes de publicá-la. Ele usa a IA generativa para sugerir otimizações.</span>
 
 ## Oportunidades
 
@@ -53,7 +53,7 @@ ht-degree: 6%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="Canônico">Canônico</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade canônica e como usá-la para melhorar o SEO e evitar problemas de conteúdo duplicado.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade canônica e como usá-la para melhorar a SEO e evitar problemas de conteúdo duplicado.</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -74,9 +74,9 @@ ht-degree: 6%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" title="Links internos corrompidos">Links Internos Desfeitos</a>
+                        <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" title="Links internos corrompidos">Links internos corrompidos</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de links internos corrompidos e como usá-la para identificar e corrigir links corrompidos ou problemáticos em seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de links internos corrompidos e como usá-la para identificar e corrigir links corrompidos ou problemáticos no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -99,7 +99,7 @@ ht-degree: 6%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="Metatags">Metatags</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de metatags e como usá-la para otimizar os metadados da página, a fim de melhorar o desempenho do SEO.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de metatags e como usá-la para otimizar os metadados da página a fim de melhorar o desempenho da SEO.</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -122,7 +122,7 @@ ht-degree: 6%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" title="Contagem H1">Contagem H1</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de contagem H1 e como usá-la para garantir a estrutura de cabeçalho adequada e a otimização de SEO.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de contagem H1 e como usá-la para garantir a estrutura de cabeçalho adequada e a otimização da SEO.</p>
                 </div>
                 <a href="../documentation/opportunities/invalid-or-missing-metadata.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -145,7 +145,7 @@ ht-degree: 6%
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" title="Acessibilidade">Acessibilidade</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de acessibilidade e como usá-la para garantir que seu site seja acessível a todos os usuários.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de acessibilidade e como usá-la para garantir que o seu site fique acessível para todos os usuários.</p>
                 </div>
                 <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -162,17 +162,17 @@ ht-degree: 6%
 ### Configuração do editor universal
 
 1. Acesse o Extension Manager pelo URL: https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor
-2. Selecione a extensão e a solicitação do AEM Sites Optimizer Preflight para ativar o
-3. A equipe da AEM habilitará a extensão para sua organização
-4. Depois disso, abra uma página no Universal Editor, como: https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html
-5. A extensão Comprovação estará visível no painel lateral
-6. Clicar na extensão Comprovação no painel lateral iniciará a Auditoria de comprovação da página atual
+2. Selecione a extensão do AEM Sites Optimizer Preflight e peça para habilitá-la
+3. A equipe do AEM habilitará a extensão para a sua organização
+4. Em seguida, abra uma página no editor universal, como: https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/site/subscription.html
+5. A extensão Preflight estará visível no painel lateral
+6. Clicar na extensão Preflight no painel lateral iniciará a auditoria do Preflight da página atual
 
-### Configuração de Visualização Baseada em Documento
+### Configuração de prévia baseada no documento
 
-#### Etapa 1: ativar o Sidekick com o botão de comprovação
+#### Etapa 1: habilitar o Sidekick com o botão Preflight
 
-Adicione a seguinte configuração a `/tools/sidekick/config.json` em seu repositório GitHub:
+Adicione a seguinte configuração a `/tools/sidekick/config.json` no seu repositório do GitHub:
 
 ```json
 {
@@ -191,7 +191,7 @@ Adicione a seguinte configuração a `/tools/sidekick/config.json` em seu reposi
 
 #### Etapa 2: criar o script de integração do Sidekick
 
-Criar `/tools/sidekick/aem-sites-optimizer-preflight.js` com o seguinte conteúdo:
+Crie `/tools/sidekick/aem-sites-optimizer-preflight.js` com o seguinte conteúdo:
 
 ```javascript
 (function () {
@@ -238,7 +238,7 @@ Criar `/tools/sidekick/aem-sites-optimizer-preflight.js` com o seguinte conteúd
 }());
 ```
 
-#### Etapa 3: Atualizar Arquivo de Scripts
+#### Etapa 3: atualizar o arquivo de scripts
 
 Adicione a seguinte instrução de importação à função `loadLazy()` em `/scripts/scripts.js` para URLs de visualização, conforme mostrado abaixo:
 
@@ -248,37 +248,37 @@ if (window.location.href.includes('.aem.page')) {
 }
 ```
 
-Agora, o botão Comprovação deve estar visível no Sidekick.
+Agora, o botão Preflight deve estar visível no Sidekick.
 
-#### Etapa 4: Execução da auditoria
+#### Etapa 4: execução da auditoria
 
-Abra o URL de visualização (*.aem.page) da página auditada. Clique no botão Comprovação no Sidekick.
+Abra o URL de visualização (*.aem.page) da página auditada. Clique no botão Preflight no Sidekick.
 
 ### Configuração do AEM Cloud Service
 
-Você pode usar a opção de bookmarklet para testar a Comprovação em editores de página e ambientes de sandbox do AEM Cloud Service.
+Você pode usar a opção de bookmarklet para testar o Preflight em editores de página e ambientes de sandbox do AEM Cloud Service.
 
 <!-- Drag the button below to your Bookmarks Bar to get started. -->
 
-Pressione **Ctrl+Shift+B** (Windows) ou **Cmd+Shift+B** (Mac) para mostrar a Barra de Marcadores. Clique com o botão direito do mouse na barra de favoritos e selecione &quot;Nova página&quot; ou &quot;Adicionar favorito&quot;. No campo de endereço, copie o código abaixo.
+Pressione **Ctrl+Shift+B** (Windows) ou **Cmd+Shift+B** (Mac) para mostrar a barra de marcadores. Clique com o botão direito do mouse na barra de marcadores e selecione “Nova página” ou “Adicionar marcador”. No campo de endereço, copie o código abaixo.
 
 <!-- **Drag this link to your Bookmarks Bar:**
 
 <a href="javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();">Preflight</a> -->
 
-**Copiar este código e criar um novo indicador:**
+**Copie este código e crie um novo marcador:**
 
 ```
 javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
 ```
 
-Depois que o Bookmarklet for adicionado, abra o URL de visualização (*.aem.page) da página auditada. Clique no marcador Comprovação para iniciar a Auditoria de comprovação.
+Depois que o Bookmarklet for adicionado, abra o URL de prévia (*.aem.page) da página auditada. Clique no marcador Preflight para iniciar a auditoria do Preflight.
 
 ## Práticas recomendadas
 
-Ao usar a comprovação, esteja ciente do seguinte:
+Ao usar o Preflight, observe que:
 
-* Execute auditorias de Comprovação em todas as páginas de preparo/visualização antes de publicar.
-* Resolva os problemas de alto impacto primeiro (links quebrados, tags H1 ausentes, links inseguros).
-* Ativar autenticação para ambientes de preparo protegidos.
-* Revise e implemente sugestões de meta tags para melhorar o desempenho da SEO.
+* Execute auditorias do Preflight em todas as páginas de preparo/prévia antes de publicar.
+* Resolva os problemas de alto impacto primeiro (links corrompidos, tags H1 ausentes, links inseguros).
+* Habilite a autenticação para ambientes de preparo protegidos.
+* Revise e implemente sugestões de metatags para melhorar o desempenho da SEO.

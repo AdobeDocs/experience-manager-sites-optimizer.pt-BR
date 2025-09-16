@@ -2,7 +2,7 @@
 title: Página de alto tráfego tem baixa documentação de oportunidade de CTR
 description: Saiba mais sobre a página de alto tráfego que tem baixa oportunidade de CTR e como usá-la para aumentar o engajamento no seu site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
-source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
+source-git-commit: 5c3b4eb9941c82273c017602202b74d7911f7cc5
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 4%
@@ -10,7 +10,7 @@ ht-degree: 4%
 ---
 
 
-# Página de alto tráfego tem baixa oportunidade de CTR
+# A página de alto tráfego tem baixa oportunidade de CTR
 
 ![A página de alto tráfego tem baixa oportunidade de CTR](./assets/high-traffic-page-has-low-ctr/hero.png){align="center"}
 
@@ -20,7 +20,7 @@ A página de alto tráfego tem baixa oportunidade de CTR. Ela identifica página
 
 ![A página de identificação automática de alto tráfego tem poucos problemas de CTR](./assets/high-traffic-page-has-low-ctr/auto-identify.png){align="center"}
 
-A **Página de alto tráfego Tem baixa oportunidade de CTR** identifica páginas de alto tráfego com baixo CTR em seu site e inclui o seguinte:
+A **página Tráfego alto tem baixa oportunidade de CTR** identifica páginas de tráfego alto com baixo CTR em seu site e inclui o seguinte:
 
 * **Recomendação** - Ação sugerida para melhorar o CTR da página.
 * **Insight** - Explicação do motivo pelo qual a página tem um CTR baixo.

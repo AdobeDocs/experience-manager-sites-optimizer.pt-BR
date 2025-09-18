@@ -1,7 +1,7 @@
 ---
 title: Otimizações de comprovação com o AEM Sites Optimizer
 description: Saiba mais sobre as oportunidades de comprovação com o AEM Sites Optimizer.
-source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
+source-git-commit: cae186f8a953fd9d4e9d68653dd5eb2a4bd14152
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 22%
@@ -161,14 +161,14 @@ As oportunidades de comprovação do AEM Sites Optimizer ajudam a garantir que s
 
 A identificação da oportunidade de Comprovação do AEM Sites Optimizer exige a configuração da extensão de Comprovação no Universal Editor, na Visualização baseada em documentos ou no AEM Cloud Service para executar auditorias de Comprovação em suas páginas antes que elas sejam publicadas.
 
-## Habilitar acesso do usuário
+### Habilitar acesso do usuário
 
 Para usar a extensão Comprovação, verifique se o usuário está atribuído a pelo menos um dos seguintes perfis de produto do AEM Sites Optimizer no [Adobe Admin Console](https://adminconsole.adobe.com):
 
 * AEM Sites Optimizer - Sugestão automática de usuário
 * AEM Sites Optimizer - Otimizar usuário automaticamente
 
-## Ativar a extensão Comprovação
+### Ativar a extensão Comprovação
 
 >[!BEGINTABS]
 

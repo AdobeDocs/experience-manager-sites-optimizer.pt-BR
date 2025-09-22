@@ -2,9 +2,9 @@
 title: Otimizar o engajamento com o Sites Optimizer
 description: Saiba como melhorar o engajamento com o Sites Optimizer.
 source-git-commit: b471cb120d456805d5195cd990bdc9b8d3967d15
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -111,8 +111,8 @@ As Oportunidades de engajamento no AEM Sites Optimizer são cruciais para melhor
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="A página de alto tráfego tem CTR baixo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="A página de alto tráfego tem CTR baixo"
+                    <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" title="A página de alto tráfego tem uma taxa de cliques baixa" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="../assets/common/card-browser.png" alt="A página de alto tráfego tem uma taxa de cliques baixa"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -120,9 +120,9 @@ As Oportunidades de engajamento no AEM Sites Optimizer são cruciais para melhor
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="A página de alto tráfego tem CTR baixo">A página de alto tráfego tem CTR baixo</a>
+                        <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" title="A página de alto tráfego tem uma taxa de cliques baixa">A página de alto tráfego tem uma taxa de cliques baixa</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a página de alto tráfego que tem baixa oportunidade de CTR e como usá-la para aumentar o engajamento no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade “a página de alto tráfego tem uma baixa taxa de cliques” e como usá-la para aumentar o engajamento no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

@@ -5,7 +5,7 @@ user-guide-description: Esta é uma descrição do guia do usuário que será ex
 source-git-commit: 214a9d7d4c7e498a8c2f39009e93c4c1f8f772b1
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 94%
       + [Configuração do CORS](/help/documentation/opportunities/cors-configuration.md)
       + [Criação de script entre sites](/help/documentation/opportunities/cross-site-scripting.md)
       + [Taxa de rejeição alta](/help/documentation/opportunities/high-bounce-rate.md)
-      + [A página de alto tráfego tem CTR baixo](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
+      + [A página de alto tráfego tem uma taxa de cliques baixa](/help/documentation/opportunities/high-traffic-page-has-low-ctr.md)
       + [Metadados inválidos ou ausentes](/help/documentation/opportunities/invalid-or-missing-metadata.md)
       + [Dados estruturados ausentes ou inválidos](/help/documentation/opportunities/missing-invalid-structured-data.md)
       + [Texto alternativo ausente](/help/documentation/opportunities/missing-alt-text.md)

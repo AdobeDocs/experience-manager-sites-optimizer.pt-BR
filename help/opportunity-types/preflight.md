@@ -2,18 +2,18 @@
 title: Otimizações de simulação com o AEM Sites Optimizer
 description: Saiba mais sobre as oportunidades de simulação com o AEM Sites Optimizer.
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
 
-# Oportunidades do Preflight
+# Oportunidades de pré-verificação
 
 ![Oportunidades do Preflight](./assets/preflight/hero.png){align="center"}
 
-As [oportunidades de comprovação](../documentation/preflight/overview.md) do AEM Sites Optimizer ajudam a garantir que suas páginas da Web estejam otimizadas para desempenho, SEO e experiência do usuário antes de serem ativadas. Ao identificar possíveis problemas, como links corrompidos, metatags ausentes e questões de acessibilidade, as verificações de simulação permitem que os criadores de conteúdo e profissionais de marketing resolvam esses problemas antecipadamente no processo de publicação. Essa abordagem proativa minimiza o risco de publicar conteúdo não ideal, melhora a qualidade do site e melhora a presença digital em geral. O uso das oportunidades de simulação permite um fluxo de trabalho mais fluido, reduz as correções pós-publicação e contribui para melhorar as classificações dos mecanismos de pesquisa e a satisfação do usuário.
+As [oportunidades do Preflight](../documentation/preflight/overview.md) do AEM Sites Optimizer ajudam a garantir que as páginas da web sejam otimizadas em termos de desempenho, SEO e experiência do usuário antes de sua exibição ao público. Ao identificar possíveis problemas, como links corrompidos, metatags ausentes e questões de acessibilidade, as verificações de simulação permitem que os criadores de conteúdo e profissionais de marketing resolvam esses problemas antecipadamente no processo de publicação. Essa abordagem proativa minimiza o risco de publicar conteúdo não ideal, melhora a qualidade do site e melhora a presença digital em geral. O uso das oportunidades de simulação permite um fluxo de trabalho mais fluido, reduz as correções pós-publicação e contribui para melhorar as classificações dos mecanismos de pesquisa e a satisfação do usuário.
 
 ## Oportunidades
 
@@ -53,7 +53,7 @@ As [oportunidades de comprovação](../documentation/preflight/overview.md) do A
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" title="Acessibilidade">Acessibilidade</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade Acessibilidade de comprovação no Sites Optimizer.</p>
+                    <p class="is-size-6">Saiba mais sobre a Oportunidade de simulação de acessibilidade no Sites Optimizer.</p>
                 </div>
                 <a href="../documentation/preflight/accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -76,7 +76,7 @@ As [oportunidades de comprovação](../documentation/preflight/overview.md) do A
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" title="Contagem H1">Contagem H1</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade Acessibilidade de comprovação no Sites Optimizer.</p>
+                    <p class="is-size-6">Saiba mais sobre a Oportunidade de simulação de acessibilidade no Sites Optimizer.</p>
                 </div>
                 <a href="../documentation/preflight/h1-count.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -99,7 +99,7 @@ As [oportunidades de comprovação](../documentation/preflight/overview.md) do A
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" title="Links">Links</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade Links de comprovação no Sites Optimizer.</p>
+                    <p class="is-size-6">Saiba mais sobre a Oportunidade de simulação de links no Sites Optimizer.</p>
                 </div>
                 <a href="../documentation/preflight/links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -122,7 +122,7 @@ As [oportunidades de comprovação](../documentation/preflight/overview.md) do A
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" title="Metadados">Metadados</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de metadados de comprovação no Sites Optimizer.</p>
+                    <p class="is-size-6">Saiba mais sobre a Oportunidade de simulação de metadados no Sites Optimizer.</p>
                 </div>
                 <a href="../documentation/preflight/meta-data.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -145,7 +145,7 @@ As [oportunidades de comprovação](../documentation/preflight/overview.md) do A
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" title="Legibilidade">Legibilidade</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de legibilidade de comprovação no Sites Optimizer.</p>
+                    <p class="is-size-6">Saiba mais sobre a Oportunidade de simulação de legibilidade no Sites Optimizer.</p>
                 </div>
                 <a href="../documentation/preflight/readability.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

@@ -1,16 +1,16 @@
 ---
-title: Oportunidade de acessibilidade de comprovação
-description: Saiba mais sobre a oportunidade Acessibilidade de comprovação no Sites Optimizer.
+title: Oportunidade de simulação de acessibilidade
+description: Saiba mais sobre a Oportunidade de simulação de acessibilidade no Sites Optimizer.
 source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Oportunidade de acessibilidade de comprovação
+# Oportunidade de simulação de acessibilidade
 
-![Oportunidade de acessibilidade de comprovação](./assets/accessibility/hero.png){align="center"}
+![Oportunidade de simulação de acessibilidade](./assets/accessibility/hero.png){align="center"}
 
-A oportunidade Acessibilidade de comprovação no Sites Optimizer ajuda você a identificar e resolver problemas de acessibilidade em seu site para garantir que ele possa ser usado por todos os indivíduos, incluindo aqueles com deficiência. Essa oportunidade se concentra na avaliação da conformidade do seu site com os padrões de acessibilidade e fornece recomendações acionáveis para melhorias.
+A Oportunidade de simulação de acessibilidade no Sites Optimizer ajuda a identificar e resolver problemas de acessibilidade no site para garantir que ele possa ser usado por todas as pessoas, incluindo as que possuem deficiências. Essa oportunidade se concentra na avaliação da conformidade do site com os padrões de acessibilidade e fornece recomendações práticas para melhorias.

@@ -1,8 +1,8 @@
 ---
 title: Configurações de simulação
 description: Saiba como configurar a extensão do Preflight para o AEM Sites Optimizer.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: ht
+source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
+workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 100%
 
@@ -124,14 +124,14 @@ Para usar a simulação no editor de páginas do AEM Sites, você pode criar um 
 
    * Pressione **Ctrl+Shift+B** (Windows) ou **Cmd+Shift+B** (Mac).
 
-!. Crie um novo marcador no seu navegador:
+1. Crie um novo marcador no seu navegador:
 
-* Clique com o botão direito do mouse na barra de marcadores e selecione **Nova página** ou **Adicionar marcador**.
-* No campo **Endereço (URL)**, cole o seguinte código:
+   * Clique com o botão direito do mouse na barra de marcadores e selecione **Nova página** ou **Adicionar marcador**.
+   * No campo **Endereço (URL)**, cole o seguinte código:
 
-```javascript
-javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
-```
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=aem-cloud-service';document.head.appendChild(script);})();
+   ```
 
 1. Nomeie o marcador **Simulação** (ou qualquer nome que preferir).
 1. Abra o URL de pré-visualização (`*.aem.page`) da página que deseja auditar no **Editor de páginas do AEM Sites**.

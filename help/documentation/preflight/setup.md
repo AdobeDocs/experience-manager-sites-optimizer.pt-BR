@@ -1,21 +1,21 @@
 ---
 title: Configurações de simulação
 description: Saiba como configurar a extensão do Preflight para o AEM Sites Optimizer.
-source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 100%
+source-wordcount: '430'
+ht-degree: 67%
 
 ---
 
 
 # Configurações de simulação
 
-A identificação da oportunidade de simulação do AEM Sites Optimizer exige a configuração da extensão de simulação no Universal Editor, na visualização baseada em documentos ou no AEM Cloud Service para executar auditorias de simulação das suas páginas antes que elas sejam publicadas.
+A identificação da oportunidade de Comprovação do AEM Sites Optimizer exige a configuração da extensão Comprovação. Você pode configurá-lo no Universal Editor, na Visualização baseada em documento ou no AEM Cloud Service para que seja possível executar auditorias de Comprovação em suas páginas antes que elas sejam publicadas.
 
 ## Habilitar acesso do usuário
 
-Para usar a extensão de simulação, certifique-se de que o usuário tenha sido atribuído a pelo menos um dos seguintes perfis de produtos do AEM Sites Optimizer no [Adobe Admin Console](https://adminconsole.adobe.com):
+Para usar a extensão Comprovação, verifique se o usuário está atribuído a pelo menos um dos seguintes perfis de produto do AEM Sites Optimizer no [Adobe Admin Console](https://adminconsole.adobe.com):
 
 * AEM Sites Optimizer: sugerir usuário automaticamente
 * AEM Sites Optimizer: otimizar usuário automaticamente
@@ -31,10 +31,10 @@ Para configurar a simulação no Universal Editor, siga estas etapas:
 1. Abra o **Extension Manager** em:
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
 1. Localize a **Extensão de simulação do AEM Sites Optimizer** e envie uma solicitação para habilitá-la.
-1. A **equipe do Adobe AEM** analisará e habilitará a extensão para a sua organização.
+1. A **equipe do Adobe AEM** analisa e habilita a extensão para sua organização.
 1. Após habilitar a extensão, abra uma página no **Universal Editor**, como, por exemplo:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
-1. A **Extensão de simulação** aparecerá no **painel lateral**.
+1. A **Extensão de Comprovação** aparece no **painel lateral**.
 1. Selecione a **Extensão de simulação** no painel lateral para iniciar a **Auditoria de simulação** da página atual.
 
 >[!TAB Criação baseada em documentos]
@@ -113,14 +113,14 @@ Para configurar a simulação para criação baseada em documentos, siga estas e
    }
    ```
 
-1. Abra o URL de pré-visualização (`*.aem.page`) da página que deseja auditar.
+1. Abra a URL de visualização (`*.aem.page`) da página que deseja auditar.
 1. No **Sidekick**, clique no botão **Simulação** para iniciar a auditoria da página atual.
 
 >[!TAB Editor de páginas do AEM Sites]
 
 Para usar a simulação no editor de páginas do AEM Sites, você pode criar um marcador no seu navegador da web. Siga estas etapas:
 
-1. Exiba a **Barra de marcadores** do seu navegador da web:
+1. Mostre sua **Barra de Indicadores** em seu navegador da Web:
 
    * Pressione **Ctrl+Shift+B** (Windows) ou **Cmd+Shift+B** (Mac).
 
@@ -134,7 +134,7 @@ Para usar a simulação no editor de páginas do AEM Sites, você pode criar um 
    ```
 
 1. Nomeie o marcador **Simulação** (ou qualquer nome que preferir).
-1. Abra o URL de pré-visualização (`*.aem.page`) da página que deseja auditar no **Editor de páginas do AEM Sites**.
+1. Abra a URL de visualização (`*.aem.page`) da página que você deseja auditar no **Editor de Páginas do AEM Sites**.
 1. Clique no marcador **Simulação**, na barra de marcadores, para iniciar a auditoria da página atual.
 
 >[!ENDTABS]

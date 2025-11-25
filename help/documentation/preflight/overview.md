@@ -1,10 +1,10 @@
 ---
 title: Oportunidades de pré-verificação
-description: Documentação sobre as oportunidades do Preflight no Sites Optimizer.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: ht
+description: Documentação sobre as oportunidades de comprovação no Sites Optimizer.
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 100%
+ht-degree: 81%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![Oportunidades do Preflight](./assets/overview/hero.png){align="center"}
 
-As oportunidades do Preflight do Sites Optimizer são compostas por um conjunto de avaliações que analisam diferentes aspectos do conteúdo e da estrutura do site antes da publicação da página da web. Essas avaliações ajudam a identificar possíveis problemas e fornecem recomendações acionáveis para melhorar a qualidade e o desempenho gerais do site.
+As Oportunidades de comprovação do Sites Optimizer são compostas por um conjunto de avaliações que analisam diferentes aspectos do conteúdo e da estrutura do site antes da publicação da página da Web. Essas avaliações ajudam a identificar possíveis problemas e fornecem recomendações acionáveis para melhorar a qualidade e o desempenho gerais do site.
 
 ## Configurações de simulação
 

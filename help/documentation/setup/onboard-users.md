@@ -1,9 +1,9 @@
 ---
 title: Integração de usuários ao Sites Optimizer
 description: Saiba como integrar usuários ao AEM Sites Optimizer.
-source-git-commit: 210acc5337796707ced10f2b84d473503fc06088
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '36'
 ht-degree: 2%
 
 ---

@@ -3,22 +3,22 @@ title: Otimização de formulários com o Sites Optimizer
 description: Saiba mais sobre a otimização de formulários com o Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
-workflow-type: ht
-source-wordcount: '149'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '151'
+ht-degree: 59%
 
 ---
 
 
-# Oportunidades de acessibilidade de formulários
+# Oportunidades de acessibilidade do Forms
 
-<span class="preview"> O recurso de otimização de formulários está disponível no programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso Otimização do Forms está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 ![Oportunidades de acessibilidade de formulários](./assets/form-accesibility/hero.png){align="center"}
 
 
-As oportunidades de acessibilidade de formulários são essenciais para melhorar as interações dos usuários e aumentar as conversões. A avaliação da conformidade dos seus formulários com as diretrizes de acessibilidade de conteúdo da web (WCAG, na sigla em inglês) ajuda a garantir uma experiência inclusiva para usuários com deficiências visuais, auditivas, cognitivas e motoras. Além de atender aos requisitos éticos e legais, isso também melhora as taxas de conclusão de formulários e amplia o seu público-alvo, resultando em uma melhor experiência do usuário e em resultados comerciais mais sólidos.
+As oportunidades de acessibilidade de formulários são essenciais para melhorar as interações dos usuários e aumentar as conversões. A avaliação da conformidade dos seus formulários com as diretrizes de acessibilidade de conteúdo da web (WCAG, na sigla em inglês) ajuda a garantir uma experiência inclusiva para usuários com deficiências visuais, auditivas, cognitivas e motoras. Essa funcionalidade não só atende aos requisitos éticos e legais, como também melhora as taxas de conclusão de formulário e amplia seu público-alvo, resultando em uma melhor experiência do usuário e em resultados comerciais mais sólidos.
 
 ## Oportunidades
 
@@ -52,8 +52,8 @@ As oportunidades de acessibilidade de formulários são essenciais para melhorar
                     <p class="is-size-6">Saiba mais sobre os problemas de acessibilidade de formulários e como usá-los para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

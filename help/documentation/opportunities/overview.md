@@ -1,10 +1,10 @@
 ---
 title: Documentação de oportunidades do Sites Optimizer
 description: Saiba mais sobre todas as oportunidades disponíveis do Site Optimizer e como usá-las para melhorar o desempenho do seu site.
-source-git-commit: bac5199a6082a2070080cef9421d39f8b22dc697
-workflow-type: ht
-source-wordcount: '885'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '883'
+ht-degree: 96%
 
 ---
 
@@ -277,8 +277,8 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="is-size-6">Saiba mais sobre a oportunidade com visualizações baixas e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="./high-bounce-rate.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -366,7 +366,7 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-navigation.md" target="_blank" rel="referrer" title="Navegação por formulários baixa">Navegação por formulários baixa</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade com navegação baixa e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a baixa oportunidade de navegação e como usá-la para melhorar o engajamento do formulário no seu site.</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -389,7 +389,7 @@ Confira todas as oportunidades possíveis disponíveis no Sites Optimizer:
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Problemas de acessibilidade de formulários">Problemas de acessibilidade de formulários</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade com problemas de acessibilidade e como usá-la para melhorar o engajamento no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre os problemas de acessibilidade do Forms e como usá-lo para melhorar o engajamento no seu site.</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

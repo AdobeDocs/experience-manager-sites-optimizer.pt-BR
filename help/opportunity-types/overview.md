@@ -1,10 +1,10 @@
 ---
 title: Tipos de oportunidade do Sites Optimizer
 description: Saiba mais sobre os principais tipos de oportunidade no Sites Optimizer e como eles podem ajudar a melhorar o desempenho do seu site.
-source-git-commit: 469370cfcb19e25bf8da5f7f9e08b8b0da52dbb9
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 92%
 
 ---
 
@@ -24,7 +24,7 @@ O AEM Sites Optimizer fornece insights e recomendações valiosos para ajudar vo
 
 Cada categoria destaca uma maneira diferente de aprimorar o seu site. Uma categoria pode aumentar a interação dos visitantes. Outra pode melhorar a capacidade de descoberta. Outras concentram-se no fortalecimento da segurança ou na manutenção da estabilidade do site. O Preflight ajuda a analisar e otimizar as páginas antes de serem publicadas.
 
-O uso dessas oportunidades melhora a experiência do usuário, atrai o público-alvo certo e mantém o seu site seguro e confiável. Melhorar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade. A análise do Preflight garante que o conteúdo seja otimizado antes de entrar no ar. Confira os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
+O uso dessas oportunidades melhora a experiência do usuário, atrai o público-alvo certo e mantém o seu site seguro e confiável. Melhorar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade. A análise de comprovação garante que o conteúdo seja otimizado antes de entrar em vigor. Confira os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
 
 ## Tipos de oportunidades
 
@@ -202,8 +202,8 @@ O uso dessas oportunidades melhora a experiência do usuário, atrai o público-
                     <p class="is-size-6">Saiba mais sobre a análise de simulação e como configurar oportunidades de simulação no Sites Optimizer.</p>
                 </div>
                 <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -211,4 +211,4 @@ O uso dessas oportunidades melhora a experiência do usuário, atrai o público-
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview"> Os recursos de otimização de formulários e de acessibilidade de formulários estão disponíveis no programa de acesso antecipado. Você pode escrever ao endereço aem-forms-ea@adobe.com com o seu ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> Os recursos de Otimização do Forms e Acessibilidade do Forms estão disponíveis no programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>

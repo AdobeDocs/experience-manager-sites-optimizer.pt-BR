@@ -1,10 +1,10 @@
 ---
 title: Otimizações de simulação com o AEM Sites Optimizer
 description: Saiba mais sobre as oportunidades de simulação com o AEM Sites Optimizer.
-source-git-commit: 6e177ef6b9d121ac7484ae118037c7e542f981d8
-workflow-type: ht
-source-wordcount: '189'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '190'
+ht-degree: 79%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 ![Oportunidades do Preflight](./assets/preflight/hero.png){align="center"}
 
-As [oportunidades do Preflight](../documentation/preflight/overview.md) do AEM Sites Optimizer ajudam a garantir que as páginas da web sejam otimizadas em termos de desempenho, SEO e experiência do usuário antes de sua exibição ao público. Ao identificar possíveis problemas, como links corrompidos, metatags ausentes e questões de acessibilidade, as verificações de simulação permitem que os criadores de conteúdo e profissionais de marketing resolvam esses problemas antecipadamente no processo de publicação. Essa abordagem proativa minimiza o risco de publicar conteúdo não ideal, melhora a qualidade do site e melhora a presença digital em geral. O uso das oportunidades de simulação permite um fluxo de trabalho mais fluido, reduz as correções pós-publicação e contribui para melhorar as classificações dos mecanismos de pesquisa e a satisfação do usuário.
+As [oportunidades do Preflight](../documentation/preflight/overview.md) do AEM Sites Optimizer ajudam a garantir que as páginas da web sejam otimizadas em termos de desempenho, SEO e experiência do usuário antes de sua exibição ao público. Ao identificar possíveis problemas, como links corrompidos, metatags ausentes e questões de acessibilidade, as verificações de simulação permitem que os criadores de conteúdo e profissionais de marketing resolvam esses problemas antecipadamente no processo de publicação. Essa abordagem proativa minimiza o risco de publicar conteúdo não ideal, melhora a qualidade do site e melhora a presença digital geral. O uso de oportunidades de comprovação oferece suporte a um fluxo de trabalho mais suave, reduz as correções pós-publicação e contribui para melhorar as classificações dos mecanismos de pesquisa e a satisfação do usuário.
 
 ## Oportunidades
 

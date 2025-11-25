@@ -4,17 +4,17 @@ description: Saiba mais sobre a oportunidade com visualizações baixas e como u
 badgeFormOptimization: label="Otimização de formulários" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Otimização de formulários"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
-workflow-type: ht
-source-wordcount: '323'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '322'
+ht-degree: 96%
 
 ---
 
 
 # Oportunidade com visualizações de formulários baixas
 
-<span class="preview"> O recurso de otimização de formulários está disponível no programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso Otimização do Forms está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 ![Oportunidade de exibições baixas](./assets/low-views/hero.png){align="center"}
 

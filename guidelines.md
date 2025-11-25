@@ -1,17 +1,17 @@
 ---
-source-git-commit: 505238dcbe7fa9c1ee22dd174d6641e7df10394f
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 59%
+source-wordcount: '710'
+ht-degree: 77%
 
 ---
 # Diretrizes para colaboração na documentação do Adobe Experience Manager
 
 ## Filosofia da documentação
 
-Os usuários do Adobe Experience Manager trabalham em ambientes extremamente competitivos, esforçando-se para criar experiências digitais que as destaquem das de seus concorrentes. Portanto, é crucial que, ao oferecer novas ferramentas avançadas no AEM, a Adobe as complemente com documentação precisa e transparente para permitir que o cliente use imediatamente seu investimento no AEM e potencialize o ROI.
+Os usuários do Adobe Experience Manager trabalham em ambientes extremamente competitivos, esforçando-se para criar experiências digitais para se destacar de seus concorrentes. Portanto, quando a Adobe fornece ferramentas avançadas no AEM, essas ferramentas são complementadas com documentação clara e precisa. Ela permite que os clientes aproveitem imediatamente seu investimento no AEM e maximizem o retorno do investimento.
 
-O objetivo é disponibilizar a documentação do AEM aos usuários o quanto antes. Portanto, a equipe de documentação do AEM prioriza uma documentação precisa e utilizável, e se esforça para atualizá-la e aprimorá-la continuamente.
+O objetivo é disponibilizar a documentação do AEM aos usuários o quanto antes. Portanto, a Adobe prioriza uma documentação precisa e utilizável, e busca atualizá-la e aprimorá-la continuamente.
 
 ## Contribuições à documentação
 
@@ -19,33 +19,33 @@ Para melhorar continuamente a documentação do AEM, toda a comunidade de usuár
 
 ## Padrões de documentação
 
-Embora a equipe de documentação do Experience Manager receba contribuições para a documentação do Adobe, qualquer contribuição para a documentação do AEM — na forma de um pull request ou um problema — deve estar em conformidade com os padrões de contribuição e de documentação da equipe.
+Embora a Adobe aceite contribuições para a documentação do AEM, sejam na forma de solicitações de pull ou tópicos, elas precisam estar em conformidade com os padrões de contribuição e documentação.
 
 As contribuições que não cumprirem esses padrões poderão ser rejeitadas.
 
-### A equipe de documentação do Experience Manager documenta casos de uso padrão.
+### Os casos de uso padrão estão documentados no Adobe
 
 A documentação do AEM abrange casos de uso padrão. Casos de uso que não se enquadrarem no escopo de instalação e de uso padrão do produto não farão parte da documentação do AEM.
 
-### A equipe de documentação do Experience Manager geralmente não documenta bugs e suas soluções.
+### O Adobe geralmente não documenta bugs e suas soluções
 
 A documentação do AEM abrange casos de uso padrão. Por esse motivo, os bugs, seus efeitos e soluções alternativas não são documentados,
 
-As exceções a essa regra aplicam-se às notas de versão, nas quais problemas conhecidos podem ser listados com possíveis soluções que foram aprovadas pelo Gerenciamento de produtos do AEM.
+As exceções a essa regra aplicam-se às notas de versão, nas quais problemas conhecidos podem ser listados com possíveis soluções aprovadas pelo Gerenciamento de produtos.
 
 ### As contribuições à documentação não se destinam a responder perguntas técnicas.
 
-Quaisquer ideias para melhorar a documentação do AEM são bem-vindas como contribuições. No entanto, comentários, problemas e pull requests destinam-se somente a *contribuições*, não para responder suas perguntas sobre como usar o AEM, implementar seu projeto do AEM ou resolver problemas técnicos.
+Quaisquer ideias para melhorar a documentação do AEM são bem-vindas como contribuições. No entanto, comentários, tópicos e solicitações de pull devem ser realizados apenas como *contribuições*. Eles não devem envolver perguntas sobre como usar o AEM, implementar o projeto do AEM ou resolver problemas técnicos.
 
-Quaisquer dúvidas sobre o uso do AEM ou erros técnicos devem ser notificados por meio do processo normal de suporte no [portal de suporte do Experience Manager](https://experienceleague.adobe.com/pt-br?support-solution=Experience+Manager&lang=pt-BR#home) ou discutidos na [comunidade do Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=pt).
+Você pode relatar qualquer dúvida sobre o uso do AEM ou erros técnicos. Use o processo normal de suporte por meio do [Portal de suporte corporativo da Experience Cloud](https://experienceleague.adobe.com/pt-br?support-solution=General#support) ou o processo discutido na [comunidade do Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=pt).
 
 ***As contribuições à documentação do AEM não substituem o Suporte ao cliente da Adobe***. Logo, qualquer contribuição que buscar respostas a perguntas relacionadas a suporte será rejeitada.
 
 ### As contribuições devem mencionar claramente as páginas pertinentes à documentação.
 
-Se você criar um problema para sugerir melhorias na documentação, deverá incluir links para as páginas afetadas. Caso crie um problema usando o link **Editar esta página** em uma página de documentação, o problema será criado automaticamente com um link para a página.
+Se você criar um problema para sugerir melhorias na documentação, deverá incluir links para as páginas afetadas. Caso crie um tópico por meio de um link **Editar esta página** na documentação, o tópico será criado automaticamente com um link para a página.
 
-Isso não se aplica a pull requests, que já fazem referência às páginas afetadas.
+Esse processo não se aplica a solicitações de pull, uma vez que, por sua natureza, fazem referência às páginas afetadas.
 
 ## Diretrizes de documentação
 
@@ -83,10 +83,10 @@ Não use marcadores ou outras anotações em capturas de tela (como quadros verm
 
 ### Referências específicas à versão
 
-Evite referências diretas a uma versão específica em todo o conteúdo da documentação, sempre que possível. Isso torna a documentação mais flexível e extensível para versões futuras.
+Evite referências diretas a uma versão específica em todo o conteúdo da documentação, sempre que possível. Esta recomendação torna a documentação mais flexível e extensível para versões futuras.
 
 ### Uso do Day, AEM, CQ, CRX
 
-O produto sempre deve ser chamado pelo seu nome completo **Adobe Experience Manager** na primeira vez em um artigo e pode ser referido como **AEM**.
+Em um artigo, sempre use o nome completo do produto **Adobe Experience Manager** na primeira vez em que for utilizado. Posteriormente, pode ser referido como **AEM**.
 
 Não use Day, Day Software, CQ e CRX, exceto quando inevitável, como em nomes de classe ou em referência ao histórico do AEM.

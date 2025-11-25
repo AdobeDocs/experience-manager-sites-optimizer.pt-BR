@@ -4,21 +4,22 @@ description: Saiba mais sobre a oportunidade com conversões baixas e como usá-
 badgeFormOptimization: label="Otimização de formulários" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Otimização de formulários"
 hide: true
 hidefromtoc: true
-source-git-commit: 954409fb1ad41b016ddc4dd2058e69db98ca6654
-workflow-type: ht
-source-wordcount: '330'
-ht-degree: 100%
+source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+workflow-type: tm+mt
+source-wordcount: '323'
+ht-degree: 90%
 
 ---
 
 
 # Oportunidade de navegação por formulários baixa
 
-<span class="preview"> O recurso de otimização de formulários está disponível no programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso Otimização do Forms está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 ![Oportunidade com navegação baixa](./assets/low-navigation/hero.png){align="center"}
 
-A oportunidade com navegação baixa identifica formulários no site que têm taxas de navegação baixas. Este tipo de oportunidade ajuda a entender quais formulários não estão sendo descobertos ou acessados pelos usuários, e fornece sugestões sobre como melhorar sua taxa de descoberta.
+A oportunidade com navegação baixa identifica formulários no site que têm taxas de navegação baixas. Esse tipo de oportunidade identifica formulários que os usuários não descobrem ou acessam e sugere maneiras de melhorar sua capacidade de descoberta.
+
 
 ## Identificação automática
 

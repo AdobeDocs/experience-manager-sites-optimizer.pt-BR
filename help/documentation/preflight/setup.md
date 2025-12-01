@@ -1,10 +1,10 @@
 ---
 title: Configurações de simulação
 description: Saiba como configurar a extensão do Preflight para o AEM Sites Optimizer.
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: e39930ebe2213dcca17209934173a7b521b34dbc
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 67%
+source-wordcount: '573'
+ht-degree: 63%
 
 ---
 
@@ -135,6 +135,31 @@ Para usar a simulação no editor de páginas do AEM Sites, você pode criar um 
 
 1. Nomeie o marcador **Simulação** (ou qualquer nome que preferir).
 1. Abra a URL de visualização (`*.aem.page`) da página que você deseja auditar no **Editor de Páginas do AEM Sites**.
+1. Clique no marcador **Simulação**, na barra de marcadores, para iniciar a auditoria da página atual.
+
+>[!TAB Adobe Managed Services]
+
+>[!IMPORTANT]
+>
+>Somente os ambientes do Adobe Managed Services (AMS) que usam o Provedor de identidade (IMS) da Adobe para autenticação no AEM Author são compatíveis. A comprovação não funcionará se sua organização usar qualquer outro provedor de identidade para autenticação AMS.
+
+Para usar a opção Comprovação no Editor de páginas do AEM Sites em um ambiente do AMS, crie um bookmarklet no navegador da Web, seguindo estas etapas:
+
+1. Exiba a **Barra de marcadores** do seu navegador da web:
+
+   * Pressione **Ctrl+Shift+B** (Windows) ou **Cmd+Shift+B** (Mac).
+
+1. Crie um novo marcador no seu navegador:
+
+   * Clique com o botão direito do mouse na barra de marcadores e selecione **Nova página** ou **Adicionar marcador**.
+   * No campo **Endereço (URL)**, cole o seguinte código:
+
+   ```javascript
+   javascript:(function(){const script=document.createElement('script');script.src='https://experience.adobe.com/solutions/OneAdobe-aem-sites-optimizer-preflight-mfe/static-assets/resources/sidekick/client.js?source=bookmarklet&target-source=ams';document.head.appendChild(script);})();
+   ```
+
+1. Nomeie o marcador **Simulação** (ou qualquer nome que preferir).
+1. Abra a página que deseja auditar no **Editor de Páginas do AEM Sites**.
 1. Clique no marcador **Simulação**, na barra de marcadores, para iniciar a auditoria da página atual.
 
 >[!ENDTABS]

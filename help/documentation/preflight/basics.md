@@ -1,9 +1,9 @@
 ---
 title: Noções básicas de comprovação
 description: Saiba mais sobre as noções básicas de Comprovação e como usar sua interface.
-source-git-commit: b73458e4d575547ccb9220105a5f72090431221c
+source-git-commit: d669706909eeed61c6d0803e2b37df81ece987e1
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,8 @@ Para executar a simulação:
 ## Resultados da auditoria
 
 Quando a auditoria for concluída, a Comprovação exibirá as oportunidades encontradas. Cada oportunidade é organizada por tipo e inclui detalhes sobre como resolver o problema.
+
+Na parte superior da caixa de diálogo Comprovação do AEM, há uma barra de Progresso do usuário que reflete os resultados gerais da auditoria. Ela mostra a porcentagem de oportunidades que passaram sem problemas e o número total de problemas encontrados em todas as oportunidades. A barra de progresso do usuário ajuda os autores a medir a integridade geral da página rapidamente.
 
 ## Sobre as oportunidades de comprovação
 

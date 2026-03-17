@@ -6,7 +6,7 @@ landing-page-breadcrumb-title: AEM
 type: Documentation
 description: Documentação do AEM Sites Optimizer.
 index: true
-git-repo: https://github.com/AdobeDocs/experience-manager-sites-optimizer.en
+git-repo: https://github.com/AdobeDocs/experience-manager-sites-optimizer.pt-BR
 feature-set: Experience Manager Assets,Experience Manager Sites,Experience Manager, Experience Manager Forms, Experience Manager Cloud Manager
 cloud: Experience Cloud
 recommendations: noDisplay

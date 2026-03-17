@@ -1,8 +1,8 @@
 ---
 title: Documentação do Sites Optimizer
 description: Documentação do Experience Manager Sites Optimizer.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -19,7 +19,8 @@ Damos as boas-vindas à documentação do Sites Optimizer. Você encontrará aqu
 
 Confira a documentação do AEM Sites Optimizer para saber mais sobre os principais componentes da interface, incluindo o painel Página inicial, Configurações e a lista Oportunidades para obter insights de otimização.
 
-<!-- CARDS 
+<!--
+CARDS 
 
 * ./basics.md
   {title = Basics}
@@ -45,7 +46,7 @@ Confira a documentação do AEM Sites Optimizer para saber mais sobre os princip
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./basics.md" target="_blank" rel="referrer" title="Noções básicas">Noções básicas</a>
+                        <a href="./basics.md" target="_blank" rel="referrer" title="Básico">Noções básicas</a>
                     </p>
                     <p class="is-size-6">Saiba mais sobre as noções básicas do Sites Optimizer e como usá-lo.</p>
                 </div>
@@ -96,8 +97,8 @@ Confira a documentação do AEM Sites Optimizer para saber mais sobre os princip
                     <p class="is-size-6">Saiba como definir as configurações do Sites Optimizer e integrar a outras ferramentas.</p>
                 </div>
                 <a href="./settings.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

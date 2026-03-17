@@ -1,9 +1,9 @@
 ---
 title: Otimizar a integridade do site com o Sites Optimizer
 description: Saiba como melhorar a integridade do site com o Sites Optimizer.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '126'
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+workflow-type: tm+mt
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
@@ -17,7 +17,9 @@ Manter a integridade do site no AEM Sites Optimizer é essencial para fornecer e
 
 ## Oportunidades
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/opportunities/core-web-vitals.md
   {title=Core web vitals}
@@ -44,8 +46,8 @@ Manter a integridade do site no AEM Sites Optimizer é essencial para fornecer e
                     <p class="is-size-6">Saiba mais sobre a oportunidade de principais sinais vitais e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

@@ -1,9 +1,9 @@
 ---
 title: Otimizar a postura de segurança com o Sites Optimizer
 description: Saiba como melhorar a segurança do site com o Sites Optimizer.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '212'
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+workflow-type: tm+mt
+source-wordcount: '220'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,9 @@ Manter uma postura de segurança robusta no AEM Sites Optimizer é essencial par
 ## Oportunidades
 
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/opportunities/cors-configuration.md
   {title=CORS configuration}
@@ -123,8 +125,8 @@ Manter uma postura de segurança robusta no AEM Sites Optimizer é essencial par
                     <p class="is-size-6">Saiba mais sobre a oportunidade de vulnerabilidades do site e como usá-la para aumentar a segurança em seu site.</p>
                 </div>
                 <a href="../documentation/opportunities//website-vulnerabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

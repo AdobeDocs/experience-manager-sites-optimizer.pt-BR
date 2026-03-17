@@ -1,9 +1,9 @@
 ---
 title: Otimizações de simulação com o AEM Sites Optimizer
 description: Saiba mais sobre as oportunidades de simulação com o AEM Sites Optimizer.
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 79%
 
 ---
@@ -17,7 +17,9 @@ As [oportunidades do Preflight](../documentation/preflight/overview.md) do AEM S
 
 ## Oportunidades
 
-<!-- CARDS
+<!--
+CARDS
+
 
 * ../documentation/preflight/accessibility.md
   {title=Accessibility}

@@ -1,8 +1,8 @@
 ---
 title: Otimizar a aquisição de tráfego com o Sites Optimizer
 description: Saiba como aumentar a aquisição de tráfego com o Sites Optimizer.
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -17,7 +17,9 @@ A aquisição de tráfego direciona clientes em potencial ao seu site e cria opo
 
 ## Oportunidades
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/broken-backlinks.md
   {title=Broken backlinks}
@@ -32,7 +34,7 @@ A aquisição de tráfego direciona clientes em potencial ao seu site e cria opo
   {title=Sitemap issues}
   {image=../assets/common/card-relationship.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Broken backlinks">
@@ -53,8 +55,8 @@ A aquisição de tráfego direciona clientes em potencial ao seu site e cria opo
                     <p class="is-size-6">Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -122,8 +124,8 @@ A aquisição de tráfego direciona clientes em potencial ao seu site e cria opo
                     <p class="is-size-6">Saiba mais sobre a oportunidade de problemas do mapa do site e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/sitemap-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

@@ -3,10 +3,10 @@ title: Otimização de formulários com o Sites Optimizer
 description: Saiba mais sobre a otimização de formulários com o Sites Optimizer.
 hide: true
 hidefromtoc: true
-source-git-commit: 2f4ef1c6f44d602bfe365a52eb692fe7faa7f05f
+source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 66%
+source-wordcount: '219'
+ht-degree: 67%
 
 ---
 
@@ -23,7 +23,9 @@ As oportunidades de otimização do Forms permitem que as organizações melhore
 
 ## Oportunidades
 
-<!-- CARDS
+<!--
+CARDS
+
  
 * ../documentation/opportunities/low-views.md
   {title=Low views}
@@ -32,7 +34,7 @@ As oportunidades de otimização do Forms permitem que as organizações melhore
   {title=Low conversions}
   {image=../assets/common/card-bag.png}
 
---->
+-->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Low views">
@@ -99,8 +101,8 @@ As oportunidades de otimização do Forms permitem que as organizações melhore
                     <p class="is-size-6">Saiba mais sobre a oportunidade com conversões baixas e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

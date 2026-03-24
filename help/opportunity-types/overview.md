@@ -1,7 +1,7 @@
 ---
 title: Tipos de oportunidade do Sites Optimizer
 description: Saiba mais sobre os principais tipos de oportunidade no Sites Optimizer e como eles podem ajudar a melhorar o desempenho do seu site.
-source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 92%
@@ -41,7 +41,7 @@ CARDS
    { title = Traffic acquisition }
 * ./form-optimization.md
    { title = Forms Optimization }
-* ./preflight.md
+* ../documentation/preflight/overview.md
    { title = Preflight }
 
 -->
@@ -189,7 +189,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./preflight.md" title="Preflight" target="_blank" rel="referrer">
+                    <a href="../documentation/preflight/overview.md" title="Preflight" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="assets/preflight/hero.png" alt="Preflight"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -198,11 +198,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./preflight.md" target="_blank" rel="referrer" title="Preflight">Preflight</a>
+                        <a href="../documentation/preflight/overview.md" target="_blank" rel="referrer" title="Preflight">Preflight</a>
                     </p>
                     <p class="is-size-6">Saiba mais sobre a análise de simulação e como configurar oportunidades de simulação no Sites Optimizer.</p>
                 </div>
-                <a href="./preflight.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="../documentation/preflight/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
                 </a>
             </div>

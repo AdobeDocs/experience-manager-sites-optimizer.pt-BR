@@ -2,10 +2,10 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Esta é uma descrição do guia do usuário que será exibida na página de destino.
-source-git-commit: b73458e4d575547ccb9220105a5f72090431221c
+source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 98%
+source-wordcount: '123'
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,6 @@ ht-degree: 98%
    + [Postura de segurança](/help/opportunity-types/security-posture.md)
    + [Otimização de formulários](/help/opportunity-types/form-optimization.md)
    + [Acessibilidade de formulários](/help/opportunity-types/form-accesibility.md)
-   + [Preflight](/help/opportunity-types/preflight.md)
 + Documentação{#documentation}
    + [Visão geral](/help/documentation/overview.md)
    + [Básico](/help/documentation/basics.md)
@@ -47,13 +46,16 @@ ht-degree: 98%
       + [Problemas no mapa do site](/help/documentation/opportunities/sitemap-issues.md)
       + [Permissões do site](/help/documentation/opportunities/website-permissions.md)
       + [Vulnerabilidades do site](/help/documentation/opportunities/website-vulnerabilities.md)
-   + Oportunidades de pré-verificação{#preflight-opportunities}
+   + Preflight{#preflight}
       + [Visão geral](/help/documentation/preflight/overview.md)
-      + [Básico](/help/documentation/preflight/basics.md)
       + [Configurar](/help/documentation/preflight/setup.md)
-      + [Acessibilidade](/help/documentation/preflight/accessibility.md)
-      + [Contagem H1](/help/documentation/preflight/h1-count.md)
-      + [Links](/help/documentation/preflight/links.md)
-      + [Metadados](/help/documentation/preflight/meta-data.md)
-      + [Legibilidade](/help/documentation/preflight/readability.md)
+      + [Comprovação de acesso](/help/documentation/preflight/access-preflight.md)
+      + [Auditorias](/help/documentation/preflight/audits.md)
+      + [Resultados da auditoria](/help/documentation/preflight/audit-results.md)
+      + Oportunidades{#preflight-opportunities}
+         + [Acessibilidade](/help/documentation/preflight/opportunities/accessibility.md)
+         + [Contagem H1](/help/documentation/preflight/opportunities/h1-count.md)
+         + [Links](/help/documentation/preflight/opportunities/links.md)
+         + [Metadados](/help/documentation/preflight/opportunities/meta-data.md)
+         + [Legibilidade](/help/documentation/preflight/opportunities/readability.md)
    + [Configurações](/help/documentation/settings.md)

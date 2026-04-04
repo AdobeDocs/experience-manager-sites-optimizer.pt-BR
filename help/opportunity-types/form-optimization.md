@@ -2,11 +2,10 @@
 title: Otimização de formulários com o Sites Optimizer
 description: Saiba mais sobre a otimização de formulários com o Sites Optimizer.
 hide: true
-hidefromtoc: true
-source-git-commit: fe5da3da1f08d061829b21f367a1bbc3a9be1714
+source-git-commit: c05518af996465226105421a8ea8dc3aaf04b8e3
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 67%
+ht-degree: 64%
 
 ---
 
@@ -78,8 +77,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre a oportunidade de conversões baixas e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/low-conversions.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

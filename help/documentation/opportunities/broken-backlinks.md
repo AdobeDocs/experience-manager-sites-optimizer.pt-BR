@@ -2,10 +2,10 @@
 title: Documentação de oportunidade de backlinks corrompidos
 description: Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '547'
-ht-degree: 100%
+source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+workflow-type: tm+mt
+source-wordcount: '684'
+ht-degree: 33%
 
 ---
 
@@ -14,29 +14,31 @@ ht-degree: 100%
 
 ![Oportunidade de backlinks corrompidos](./assets/broken-backlinks/hero.png){align="center"}
 
-A oportunidade de backlinks corrompidos identifica links de outros sites para o seu que resultam em um erro 404. Como os mecanismos de pesquisa usam backlinks para determinar a relevância da pesquisa, os links corrompidos podem afetar negativamente a SEO e a capacidade de descoberta do site. Esses problemas podem surgir de fatores como alterações de URL ou a remoção da página vinculada.
-
-A oportunidade de backlinks corrompidos exibe um resumo na parte superior da página, incluindo um resumo do problema e seu impacto no site e na empresa.
-
-* **Tráfego projetado perdido**: a perda de tráfego estimada devido a backlinks corrompidos.
-* **Valor de tráfego projetado**: o valor estimado do tráfego perdido.
+A oportunidade de links retroativos quebrados identifica links externos que apontam para páginas inexistentes (404) no site. Esses links resultam em perda de tráfego de referência e redução do valor da SEO, já que os mecanismos de pesquisa dependem de links retroativos para avaliar a relevância e a autoridade. Esses problemas ocorrem quando os URLs são alterados, o conteúdo é removido ou as páginas não estão mais disponíveis sem os redirecionamentos adequados. O AEM Sites Optimizer identifica todos os backlinks com falha, fornece recomendações específicas de IA e permite a implantação com um clique para corrigi-los, tudo em uma única visualização centralizada.
 
 ## Identificação automática
 
 ![Identificar automaticamente backlinks corrompidos](./assets/broken-backlinks/auto-identify.png){align="center"}
 
-A oportunidade de backlinks corrompidos lista todos os backlinks corrompidos do site, incluindo:
+O AEM Sites Optimizer verifica continuamente as fontes de dados externas para detectar backlinks que apontam para páginas 404 inexistentes no site. Os dados são agregados de várias fontes, incluindo o Google Search Console, [Telemetria operacional](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) e plataformas SEO de terceiros. A oportunidade de identificação automática identifica domínios externos vinculados a URLs quebrados e os prioriza com base no impacto, incluindo a autoridade do domínio e o tráfego esperado e as perdas de patrimônio do link.
 
-* **Página de referência**: o domínio do site que contém o link corrompido.
-* **Prioridade**: alta, média ou baixa, indicando o impacto que o link corrompido tem na SEO baseado em TODO.
-* **URL de destino corrompido**: o URL inexistente no site que está sendo vinculado.
+Esta oportunidade lista todos os problemas identificados, incluindo os seguintes detalhes:
+
+* **Página e domínio referenciadores** - A página externa ou o domínio que contém o link corrompido.
+* **Prioridade** - Alta, média ou baixa indicando o impacto que o link quebrado tem no processo de SEO.
+* **URL de destino corrompida** - A URL inexistente no site que está sendo vinculado.
 
 ## Sugestão automática
 
 ![Sugestão automática de backlinks corrompidos](./assets/broken-backlinks/auto-suggest.png){align="center"}
 
-A oportunidade de backlinks corrompidos também fornece sugestões geradas por IA sobre para qual página do seu site o URL corrompido deve redirecionar. As sugestões são baseadas no texto que compreende o URL corrompido e o conteúdo da página sugerida.
+Para cada backlink corrompido identificado, a AEM Sites Optimizer recomenda o destino mais apropriado para restaurar o tráfego e o valor da SEO. Ela determina a intenção do backlink analisando:
 
+* Estrutura e tokens do URL
+* Texto de âncora
+* Título e contexto da página de referência
+
+Essa intenção é comparada com o conteúdo existente no site para identificar a página de destino mais relevante. Cada URL corrompido é mapeado para uma página de substituição exata ou para a mais próxima página relevante. Se nenhum destino adequado puder ser determinado, o problema será exposto para revisão manual.
 
 >[!BEGINTABS]
 
@@ -56,7 +58,7 @@ Se você discordar da sugestão gerada pela IA, poderá editar o URL sugerido cl
 
 ![Ignorar backlinks corrompidos](./assets/broken-backlinks/ignore.png){align="center"}
 
-Você pode optar por ignorar entradas com o URL de destino corrompido. Clicar ![no ícone de excluir ou no ícone de ignorar](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) remove o backlink corrompido da lista de oportunidades. Os backlinks corrompidos ignorados podem ser engajados novamente na guia **Ignorados**, na parte superior da página de oportunidade.
+Você pode optar por ignorar entradas com os URLs corrompidos direcionados. Clicar ![no ícone de excluir ou no ícone de ignorar](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) remove o backlink corrompido da lista de oportunidades. Os backlinks corrompidos ignorados podem ser engajados novamente na guia **Ignorados**, na parte superior da página de oportunidade.
 
 >[!ENDTABS]
 
@@ -64,22 +66,12 @@ Você pode optar por ignorar entradas com o URL de destino corrompido. Clicar ![
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![Otimizar automaticamente backlinks corrompidos](./assets/broken-backlinks/auto-optimize.png){align="center"}
+Depois que as sugestões forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer aplica as correções no ambiente de criação, com base em como os redirecionamentos são gerenciados na implementação. O autor do AEM pode então publicar as alterações no Sistema de gerenciamento de conteúdo (CMS).
 
-O Sites Optimizer Ultimate adiciona a capacidade de implantar a otimização automática para backlinks corrompidos. Clicar no botão **Otimização automática** atualiza automaticamente as regras de redirecionamento do AEM Sites para mapear o **URL de destino corrompido** para o **URL sugerido**. Essa funcionalidade garante que os visitantes do site e os bots de pesquisa que seguem os links corrompidos nas **páginas de referência** sejam redirecionados à página correta do seu site, melhorando a SEO e a experiência do usuário.
+Dependendo da configuração, as correções são aplicadas como alterações de conteúdo ou código nos workflows de implantação existentes. O processo de otimização inclui as seguintes etapas:
 
->[!BEGINTABS]
+* **Validação** - Garante que as alterações funcionem conforme esperado e não introduz regressões antes da implantação.
+* **Implantação** - Aplica as alterações feitas por meio de processos existentes, como atualizações de conteúdo no AEM ou implantação de código por meio de pipelines de CI/CD.
+* **Verificação de permissões** - Verifica se o usuário tem as permissões apropriadas para implantar alterações. Caso contrário, saídas alternativas, como listas de redirecionamento para download ou patches de código serão fornecidas.
 
->[!TAB Implantar otimização]
-
-![Implantar otimização de backlinks corrompidos](./assets/broken-backlinks/deploy-optimization.png){align="center"}
-
-Selecionar **Implantar otimização** atualiza as regras de redirecionamento do AEM Sites para mapear o **URL de destino corrompido** para o **URL sugerido**. Essa funcionalidade garante que os visitantes do site e os bots de pesquisa que seguem os links corrompidos nas **páginas de referência** sejam redirecionados à página correta do seu site, melhorando a SEO e a experiência do usuário.
-
->[!TAB Solicitar aprovação]
-
-![Solicitar aprovação de backlinks corrompidos](./assets/broken-backlinks/request-approval.png){align="center"}
-
-{{auto-optimize-request-approval}}
-
->[!ENDTABS]
+Esse processo garante que os redirecionamentos sejam implementados com precisão, validados antes do lançamento e alinhados às configurações e aos processos de controle existentes.

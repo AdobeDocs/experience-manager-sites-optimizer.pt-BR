@@ -2,10 +2,10 @@
 title: Documentação de oportunidade dos Sinais vitais principais da Web
 description: Saiba mais sobre as principais oportunidades de sinais vitais principais e como usá-las para melhorar a aquisição de tráfego.
 badgeSiteHealth: label="Integridade do site" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Integridade do site"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '376'
-ht-degree: 100%
+source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+workflow-type: tm+mt
+source-wordcount: '556'
+ht-degree: 10%
 
 ---
 
@@ -14,37 +14,25 @@ ht-degree: 100%
 
 ![oportunidade de dos sinais vitais principais da web](./assets/core-web-vitals/hero.png){align="center"}
 
-A oportunidade dos sinais vitais principais da Web identifica problemas que podem degradar a experiência do usuário e o desempenho da pesquisa orgânica de suas páginas da Web. Esses problemas surgem de uma grande variedade de fatores, como fontes personalizadas, dependências de JavaScript não otimizadas, scripts de terceiros e assim por diante. A oportunidade dos sinais vitais principais da Web aponta esses elementos com falha e sugere correções que podem aumentar o desempenho da sua página da Web. Observe que somente as páginas com pelo menos 1000 visualizações podem ser analisadas.
+A oportunidade Core Web Vitals identifica páginas em seu site que têm baixo desempenho e afetam a experiência do usuário e o desempenho da pesquisa orgânica. Esses problemas podem surgir de fatores como fontes personalizadas, dependências não otimizadas do JavaScript e scripts de terceiros. O Core Web Vitals mede a velocidade de carregamento do conteúdo, a estabilidade do layout da página e a capacidade de resposta da página às interações do usuário.
 
-Para começar, a oportunidade dos sinais vitais principais da Web exibe um resumo na parte superior da página, incluindo um resumo do problema e seu impacto no site e na empresa.
-
-* **Perda de tráfego projetada**: a perda de tráfego estimada devido aos sinais vitais principais que estão abaixo dos limites de desempenho.
-* **Valor de tráfego projetado**: o valor estimado do tráfego perdido.
+O AEM Sites Optimizer detecta páginas afetadas por esses problemas, fornece recomendações específicas de IA no nível do código e aplica correções por meio de workflows de desenvolvimento existentes. Observe que somente páginas com pelo menos 1000 visualizações de página podem ser analisadas.
 
 ## Identificação automática
 
 ![Identificação automática dos sinais vitais principais da Web](./assets/core-web-vitals/auto-identify.png){align="center"}
 
-Na parte inferior da página, você tem uma lista de todos os problemas atuais agrupados como:
+O AEM Sites Optimizer monitora continuamente o desempenho do site usando a [Telemetria Operacional](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) para detectar regressões nas métricas do Core Web Vitals, como LCP (Largest Contentful Paint), CLS (Cumulative Layout Shift) e INP (Interaction to Next Paint). Ele usa dados reais do usuário para identificar regressões de desempenho e prioriza problemas com base em seu impacto na experiência do usuário.
 
-* **Problemas em dispositivos móveis**: uma lista de problemas que afetam a versão para dispositivos móveis da página.
-* **Problemas de desktop**: uma lista de problemas que afetam a versão de desktop da página.
-
-Cada problema é exibido em uma tabela, com a coluna **Página** identificando a entrada de página afetada.
-
-O sistema agrupa esses problemas pelas métricas de desempenho padrão no relatório de principais sinais vitais da web:
-
-* largest contentful paint **LCP**
-* interaction to next paint **INP**
-* cumulative layout shift **CLS**
+O AEM Sites Optimizer exibe a lista de todos os problemas atuais, detalhados por dispositivos móveis e desktop. A coluna **Página** indica a entrada de página afetada e os problemas são categorizados por LCP, INP e CLS.
 
 ## Sugestão automática
 
 ![Sugerir automaticamente a oportunidade dos sinais vitais principais da web](./assets/core-web-vitals/auto-suggest.png){align="center"}
 
-A oportunidade dos sinais vitais principais da Web fornece sugestões de correção geradas por IA. Ao clicar no botão de sugestões, uma nova janela é exibida contendo as métricas de desempenho **LCP**, **INP** e **CLS** como categorias. Você pode alternar entre essas categorias para ver uma lista de problemas específicos.
+Para cada problema identificado, o AEM Sites Optimizer gera recomendações prescritivas de nível de código para melhorar o desempenho do Core Web Vitals. Ele avalia a implementação subjacente acessando o repositório de códigos. Isso permite que o sistema analise como os componentes, scripts e estilos são implementados e identifique a causa básica dos problemas de desempenho. Com base nessa análise, o sistema fornece recomendações direcionadas e gera patches de código que especificam as alterações necessárias para melhorar o desempenho. Cada recomendação pode ser revisada antes de ser aplicada.
 
-Cada categoria pode conter vários problemas. Portanto, role a tela para baixo para ver a lista completa de problemas e recomendações.  Além disso, há dois medidores de desempenho, para dispositivos móveis e desktop, para cada métrica.
+Ao clicar no botão de sugestão, uma nova janela é exibida contendo as métricas de desempenho LCP, INP e CLS como categorias. É possível alternar entre essas categorias para ver a lista de problemas específicos. Cada categoria pode conter vários problemas, portanto, role para baixo para ver a lista completa de problemas e recomendações. Além disso, há dois medidores de desempenho para dispositivos móveis e desktop para cada métrica.
 
 ## Otimizar automaticamente
 
@@ -52,17 +40,12 @@ Cada categoria pode conter vários problemas. Portanto, role a tela para baixo p
 
 ![Otimizar automaticamente os sinais vitais principais da Web](./assets/core-web-vitals/auto-optimize.png){align="center"}
 
-O Sites Optimizer Ultimate adiciona a capacidade de implantar a otimização automática para os problemas encontrados pela oportunidade dos sinais vitais principais da Web. <!--- TBD-need more in-depth and opportunity specific information here. What does the auto-optimization do?-->
+Depois que as recomendações forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer gera patches de código com base nos problemas identificados e os disponibiliza por meio de processos de controle de versão. O processo de otimização inclui as seguintes etapas:
 
->[!BEGINTABS]
+* **Criação de problema** - Cria um problema do GitHub rotulado para cada correção, incluindo uma descrição clara e a URL afetada para visibilidade.
+* **Entrega de solicitação de pull** - Abre automaticamente uma solicitação de pull vinculada com a correção de código exata, pronta para revisão, teste e mesclagem.
+* **Rastreamento de status** - Rastreia cada correção até a conclusão, sinalizando tentativas parciais ou com falha para acompanhamento.
 
->[!TAB Implantar otimização]
+Antes de disponibilizar essas atualizações, o AEM Sites Optimizer executa a validação para garantir que as correções resolvam o problema subjacente e não introduzam regressões. Todas as atualizações seguem práticas padrão de desenvolvimento, exigindo análise e aprovação antes de serem mescladas com a produção.
 
-{{auto-optimize-deploy-optimization-slack}}
-
->[!TAB Solicitar aprovação]
-
-{{auto-optimize-request-approval}}
-
->[!ENDTABS]
-
+Isso garante que as otimizações de desempenho sejam precisas, validadas e integradas aos processos existentes de desenvolvimento e governança.

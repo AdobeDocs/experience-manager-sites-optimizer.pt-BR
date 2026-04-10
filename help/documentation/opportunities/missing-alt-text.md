@@ -2,9 +2,9 @@
 title: Documentação de texto alternativo ausente
 description: Saiba mais sobre a oportunidade de texto alternativo ausente e como usá-la para melhorar o engajamento no seu site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: ba3f15903a3f551bd64351a3bb002b43cf5cb2cd
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '694'
 ht-degree: 36%
 
 ---
@@ -67,8 +67,20 @@ Dependendo da configuração, as atualizações podem ser aplicadas diretamente 
 
 As atualizações recebem controle de versão onde há suporte, fornecendo visibilidade e capacidade de reversão. Isso garante que as atualizações de texto alternativo sejam aplicadas com precisão, alinhadas com as implementações existentes e consistentes com os padrões de governança e acessibilidade.
 
-O AEM Sites Optimizer aplica automaticamente atualizações de texto alternativo com base em sua configuração:
+O AEM Sites Optimizer aplica automaticamente atualizações de texto alternativo com base na sua configuração, da seguinte maneira:
 
-* **Edge Delivery Services** - Atualiza o documento de origem (por exemplo, Google Docs ou SharePoint).
-* **AEM as a Cloud Service** - Grava atualizações diretamente pela API de conteúdo com controle de versão e suporte de fallback.
-* **Gerenciamento de ativos digitais (opcional)** - Atualiza o texto alternativo no nível do ativo, quando aplicável.
+>[!BEGINTABS]
+
+>[!TAB Edge Delivery Services]
+
+Atualiza o documento de origem (por exemplo, Google Docs ou SharePoint).
+
+>[!TAB AEM as a Cloud Service]
+
+Grava atualizações diretamente por meio da API de conteúdo com controle de versão e suporte de fallback.
+
+>[!TAB Gerenciamento de ativos digitais (opcional)]
+
+Atualiza o texto alternativo no nível do ativo, quando aplicável.
+
+>[!ENDTABS]

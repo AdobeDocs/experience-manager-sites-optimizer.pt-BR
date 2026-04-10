@@ -1,9 +1,9 @@
 ---
 title: Executar auditorias na comprovação
 description: Saiba como iniciar uma auditoria de Comprovação na sua página.
-source-git-commit: e7c34d27bd34b3c9db1e6a999007e9d36dc1fb21
+source-git-commit: f513d2bb8ff8af203333bd0c27bd00092f69d014
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ A Comprovação audita a página para identificar oportunidades para aprimorar o
 1. Abra o [painel Comprovação](./access-preflight.md).
 1. A comprovação executa automaticamente todas as auditorias na página aberta no editor e exibe todas as oportunidades encontradas.
 
-Para interpretar resultados, abrir problemas na visualização e aplicar sugestões geradas pela IA, consulte [Resultados da auditoria na simulação](./audit-results.md).
+Para interpretar resultados e abrir problemas na visualização, consulte [Resultados da auditoria em Comprovação](./audit-results.md).

@@ -1,9 +1,9 @@
 ---
 title: Resultados da auditoria na Comprovação
-description: Saiba como interpretar os resultados da auditoria de Comprovação e a barra de Progresso do usuário, navegar até problemas na visualização e aplicar sugestões geradas por IA.
-source-git-commit: 10534d1fabdd88b11f45895d39bc1afd0d664ff1
+description: Saiba como interpretar os resultados da auditoria de Comprovação e a barra de Progresso do usuário, e navegar até problemas na visualização.
+source-git-commit: f513d2bb8ff8af203333bd0c27bd00092f69d014
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -26,33 +26,13 @@ A barra é codificada por cores:
 
 Consulte a [lista completa de tipos de oportunidade disponíveis e como resolvê-los](./overview.md#preflight-opportunities).
 
-## Navegar até os problemas e aplicar sugestões
+## Navegar para problemas
 
-Depois que a auditoria for concluída, você poderá ir rapidamente para os problemas identificados e aplicar as sugestões geradas pela IA diretamente na pré-visualização.
+Após a conclusão da auditoria, você pode passar rapidamente para os problemas identificados na pré-visualização.
 
-![Realce da visualização de comprovação e painel de sugestão de IA](./assets/audit-results/highlight-issue.png){align="center"}
+![Visualização de comprovação destacando um problema](./assets/audit-results/highlight-issue.png){align="center"}
 
 ### Navegar para um problema
 
 1. Selecione um problema na lista de problemas do painel &#39;Comprovação&#39;.
 1. A visualização rola automaticamente para e realça o local correspondente na página, para que você possa revisar o problema no contexto sem pesquisá-lo manualmente.
-
-### Aplicar sugestões geradas por IA
-
-Para problemas que incluem recomendações geradas por IA, você pode aplicar as otimizações sugeridas diretamente do painel de sugestões.
-
-#### Aplicar uma otimização
-
-1. Revise a sugestão gerada pela IA.
-1. Selecione **Aplicar Otimização**.
-
-O conteúdo recomendado é aplicado diretamente ao conteúdo.
-
-#### Editar antes de aplicar
-
-Se forem necessários ajustes:
-
-1. Modifique a sugestão gerada pela IA no painel de sugestões.
-1. Selecione **Aplicar Otimização**.
-
-Sua versão editada é aplicada à visualização.

@@ -1,9 +1,9 @@
 ---
 title: Resultados da auditoria na Comprovação
 description: Saiba como interpretar os resultados da auditoria de Comprovação e a barra de Progresso do usuário, e navegar até problemas na visualização.
-source-git-commit: f513d2bb8ff8af203333bd0c27bd00092f69d014
+source-git-commit: 30060044e558774ab1e17684945f29d3e76dc3a7
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,14 @@ A barra é codificada por cores:
 
 Consulte a [lista completa de tipos de oportunidade disponíveis e como resolvê-los](./overview.md#preflight-opportunities).
 
-## Navegar para problemas
+## Realçar oportunidades
 
-Após a conclusão da auditoria, você pode passar rapidamente para os problemas identificados na pré-visualização.
+Após a conclusão da auditoria, é possível localizar e entender rapidamente as oportunidades, destacando-as diretamente na página.
 
-![Visualização de comprovação destacando um problema](./assets/audit-results/highlight-issue.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483412/?learn=on&enablevpops)
 
-### Navegar para um problema
+A comprovação destaca cada oportunidade em um contexto, conectando os resultados no painel ao local exato em seu conteúdo. Isso facilita a análise e a resolução de oportunidades sem pesquisar manualmente pela página.
 
-1. Selecione um problema na lista de problemas do painel &#39;Comprovação&#39;.
-1. A visualização rola automaticamente para e realça o local correspondente na página, para que você possa revisar o problema no contexto sem pesquisá-lo manualmente.
+1. Abra o painel Comprovação no contexto da página para auditar e execute as auditorias.
+1. Selecione uma oportunidade específica na lista do painel &#39;Comprovação&#39;.
+1. A visualização rola automaticamente para a área relevante e realça o elemento correspondente, permitindo identificar facilmente e otimizar a oportunidade em um contexto.

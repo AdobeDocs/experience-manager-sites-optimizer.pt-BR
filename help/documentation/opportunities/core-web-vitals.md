@@ -2,10 +2,10 @@
 title: Documentação de oportunidade dos Sinais vitais principais da Web
 description: Saiba mais sobre as principais oportunidades de sinais vitais principais e como usá-las para melhorar a aquisição de tráfego.
 badgeSiteHealth: label="Integridade do site" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Integridade do site"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 3a5354a8306c8700bdf63858da70f26b5c72e58d
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 10%
+source-wordcount: '550'
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ Ao clicar no botão de sugestão, uma nova janela é exibida contendo as métric
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![Otimizar automaticamente os sinais vitais principais da Web](./assets/core-web-vitals/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483376/?captions=por_br&learn=on&enablevpops)
 
 Depois que as recomendações forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer gera patches de código com base nos problemas identificados e os disponibiliza por meio de processos de controle de versão. O processo de otimização inclui as seguintes etapas:
 

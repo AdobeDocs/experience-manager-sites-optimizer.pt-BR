@@ -38,7 +38,7 @@ Ao clicar no botão de sugestão, uma nova janela é exibida contendo as métric
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483376/?captions=por_br&learn=on&enablevpops)
 
 Depois que as recomendações forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer gera patches de código com base nos problemas identificados e os disponibiliza por meio de processos de controle de versão. O processo de otimização inclui as seguintes etapas:
 

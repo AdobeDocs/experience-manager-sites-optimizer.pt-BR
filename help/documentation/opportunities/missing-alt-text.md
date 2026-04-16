@@ -2,9 +2,9 @@
 title: Documentação de texto alternativo ausente
 description: Saiba mais sobre a oportunidade de texto alternativo ausente e como usá-la para melhorar o engajamento no seu site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
-source-git-commit: ba3f15903a3f551bd64351a3bb002b43cf5cb2cd
+source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '689'
 ht-degree: 36%
 
 ---
@@ -55,7 +55,7 @@ Você pode optar por ignorar as entradas na lista de oportunidades. Clicar no ![
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![Otimizar automaticamente texto alternativo ausente](./assets/missing-alt-text/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
 
 Depois que as sugestões forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer aplica as correções no ambiente de criação, com base em como o texto alternativo é gerenciado na implementação. O autor do AEM pode então publicar as alterações no Sistema de gerenciamento de conteúdo (CMS).
 

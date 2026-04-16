@@ -2,7 +2,7 @@
 title: Documentação de oportunidade de backlinks corrompidos
 description: Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 643a639a233417b3295b7b66c1a6a12ef37abab0
 workflow-type: tm+mt
 source-wordcount: '684'
 ht-degree: 33%
@@ -20,7 +20,7 @@ A oportunidade de links retroativos quebrados identifica links externos que apon
 
 ![Identificar automaticamente backlinks corrompidos](./assets/broken-backlinks/auto-identify.png){align="center"}
 
-O AEM Sites Optimizer verifica continuamente as fontes de dados externas para detectar backlinks que apontam para páginas 404 inexistentes no site. Os dados são agregados de várias fontes, incluindo o Google Search Console, [Telemetria operacional](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) e plataformas SEO de terceiros. A oportunidade de identificação automática identifica domínios externos vinculados a URLs quebrados e os prioriza com base no impacto, incluindo a autoridade do domínio e o tráfego esperado e as perdas de patrimônio do link.
+O AEM Sites Optimizer verifica continuamente as fontes de dados externas para detectar backlinks que apontam para páginas 404 inexistentes no site. Os dados são agregados de várias fontes, incluindo o Google Search Console, [Telemetria operacional](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) e plataformas SEO de terceiros. A oportunidade de identificação automática identifica domínios externos vinculados a URLs quebrados e os prioriza com base no impacto, incluindo a autoridade do domínio e o tráfego esperado e as perdas de patrimônio do link.
 
 Esta oportunidade lista todos os problemas identificados, incluindo os seguintes detalhes:
 
@@ -65,6 +65,8 @@ Você pode optar por ignorar entradas com os URLs corrompidos direcionados. Clic
 ## Otimizar automaticamente
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
 
 Depois que as sugestões forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer aplica as correções no ambiente de criação, com base em como os redirecionamentos são gerenciados na implementação. O autor do AEM pode então publicar as alterações no Sistema de gerenciamento de conteúdo (CMS).
 

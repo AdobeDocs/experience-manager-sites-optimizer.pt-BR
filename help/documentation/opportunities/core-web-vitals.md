@@ -2,10 +2,10 @@
 title: Documentação de oportunidade dos Sinais vitais principais da Web
 description: Saiba mais sobre as principais oportunidades de sinais vitais principais e como usá-las para melhorar a aquisição de tráfego.
 badgeSiteHealth: label="Integridade do site" type="Caution" url="../../opportunity-types/site-health.md" tooltip="Integridade do site"
-source-git-commit: 42f67f8ca52aa8e17ab780702023c0987e457f76
+source-git-commit: 3a5354a8306c8700bdf63858da70f26b5c72e58d
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 10%
+source-wordcount: '550'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ O AEM Sites Optimizer detecta páginas afetadas por esses problemas, fornece rec
 
 ![Identificação automática dos sinais vitais principais da Web](./assets/core-web-vitals/auto-identify.png){align="center"}
 
-O AEM Sites Optimizer monitora continuamente o desempenho do site usando a [Telemetria Operacional](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) para detectar regressões nas métricas do Core Web Vitals, como LCP (Largest Contentful Paint), CLS (Cumulative Layout Shift) e INP (Interaction to Next Paint). Ele usa dados reais do usuário para identificar regressões de desempenho e prioriza problemas com base em seu impacto na experiência do usuário.
+O AEM Sites Optimizer monitora continuamente o desempenho do site usando a [Telemetria Operacional](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) para detectar regressões nas métricas do Core Web Vitals, como LCP (Largest Contentful Paint), CLS (Cumulative Layout Shift) e INP (Interaction to Next Paint). Ele usa dados reais do usuário para identificar regressões de desempenho e prioriza problemas com base em seu impacto na experiência do usuário.
 
 O AEM Sites Optimizer exibe a lista de todos os problemas atuais, detalhados por dispositivos móveis e desktop. A coluna **Página** indica a entrada de página afetada e os problemas são categorizados por LCP, INP e CLS.
 
@@ -38,7 +38,7 @@ Ao clicar no botão de sugestão, uma nova janela é exibida contendo as métric
 
 [!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
 
-![Otimizar automaticamente os sinais vitais principais da Web](./assets/core-web-vitals/auto-optimize.png){align="center"}
+>[!VIDEO](https://video.tv.adobe.com/v/3483371/?learn=on&enablevpops)
 
 Depois que as recomendações forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer gera patches de código com base nos problemas identificados e os disponibiliza por meio de processos de controle de versão. O processo de otimização inclui as seguintes etapas:
 

@@ -1,7 +1,7 @@
 ---
 title: Versão de avaliação do Sites Optimizer
 description: Introdução à avaliação do AEM Sites Optimizer para clientes existentes da AEM Sites.
-source-git-commit: 0c9acea024f436166c467d55a3d3697f3eaf08b6
+source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 15%
@@ -13,7 +13,7 @@ ht-degree: 15%
 
 Comece a usar o Sites Optimizer nesta avaliação para clientes existentes do AEM Sites (Edge Delivery Services, Cloud Services e Managed Services). Os dados de domínio já estão pré-integrados, portanto, você pode começar a otimização imediatamente. O vídeo abaixo o orienta durante a experiência de avaliação e mostra como começar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483292/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ Comece a usar o Sites Optimizer nesta avaliação para clientes existentes do AE
 
 Siga estas etapas para começar a usar sua versão de avaliação:
 
-1. Faça logon usando a ID da organização IMS da AEM Sites em [www.sitesoptimizer.now](https://www.sitesoptimizer.now).
+1. Faça logon usando a ID da organização IMS da AEM Sites em [www.sitesoptimizer.live](http://www.sitesoptimizer.live/).
 2. Visualize métricas principais, como exibições de página, tempo de carregamento e taxa de engajamento, juntamente com suas principais oportunidades de otimização priorizadas por impacto.
 3. Explore os três tipos de oportunidade disponíveis: [backlinks desfeitos](./opportunities/broken-backlinks.md), [Core Web Vitals](./opportunities/core-web-vitals.md) e [texto alternativo ausente](./opportunities/missing-alt-text.md).
 4. Para cada oportunidade, analise até três problemas identificados. Use sugestões geradas por IA e implante otimizações diretamente no ambiente do AEM quando estiver pronto.
@@ -56,7 +56,7 @@ Clientes existentes do AEM Sites (Edge Delivery Services, Cloud Services e Manag
 +++
 +++Como faço para acessar o teste?
 
-Acesse [www.sitesoptimizer.now](https://www.sitesoptimizer.now) e faça logon usando sua ID da organização IMS da AEM Sites.
+Acesse [www.sitesoptimizer.live](http://www.sitesoptimizer.live/) e faça logon usando sua ID da organização IMS da AEM Sites.
 
 +++
 +++O julgamento custou alguma coisa?

@@ -24,7 +24,7 @@ O AEM Sites Optimizer detecta páginas afetadas por esses problemas, fornece rec
 
 <!--![Auto-identify core web vitals](./assets/core-web-vitals/auto-identify.png){align="center"}-->
 
-O AEM Sites Optimizer monitora continuamente o desempenho do site usando a [Telemetria Operacional](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) para detectar regressões nas métricas do Core Web Vitals, como LCP (Largest Contentful Paint), CLS (Cumulative Layout Shift) e INP (Interaction to Next Paint). Ele usa dados reais do usuário para identificar regressões de desempenho e prioriza problemas com base em seu impacto na experiência do usuário.
+O AEM Sites Optimizer monitora continuamente o desempenho do site usando a [Telemetria Operacional](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) para detectar regressões nas métricas do Core Web Vitals, como LCP (Largest Contentful Paint), CLS (Cumulative Layout Shift) e INP (Interaction to Next Paint). Ele usa dados reais do usuário para identificar regressões de desempenho e prioriza problemas com base em seu impacto na experiência do usuário.
 
 O AEM Sites Optimizer exibe a lista de todos os problemas atuais, detalhados por dispositivos móveis e desktop. A coluna **Página** indica a entrada de página afetada e os problemas são categorizados por LCP, INP e CLS.
 

@@ -1,10 +1,10 @@
 ---
 title: Configurações do Sites Optimizer
 description: Saiba como definir as configurações do Sites Optimizer e integrar a outras ferramentas.
-source-git-commit: 93f802beee074f4de2f2438c85c2880def5aad69
+source-git-commit: b71d5510162864ee76931cf754164ea637cadd92
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 11%
+source-wordcount: '749'
+ht-degree: 12%
 
 ---
 
@@ -41,8 +41,6 @@ No AEM Sites Optimizer, vá para **Configurações → Conectar-se ao AEM Sites*
 
 - **URL do Source de Conteúdo** — o URL da pasta do SharePoint ou da pasta da Unidade Google que faz backup do site EDS, por exemplo:
   `https://drive.google.com/drive/folders/...` ou `https://myorg.sharepoint.com/...`
-
-Esta URL deve corresponder ao que está configurado no `fstab.yaml` do site do EDS.
 
 Depois de inserir o URL do Source de conteúdo, o AEM Sites Optimizer detectará o tipo de fonte de conteúdo e mostrará abaixo as instruções de acesso relevantes.
 

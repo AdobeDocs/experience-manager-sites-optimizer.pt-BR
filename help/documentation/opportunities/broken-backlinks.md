@@ -2,25 +2,27 @@
 title: Documentação de oportunidade de backlinks corrompidos
 description: Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: 643a639a233417b3295b7b66c1a6a12ef37abab0
+source-git-commit: 97e61d3061fb68225eece98ba0f94affb08be9e3
 workflow-type: tm+mt
-source-wordcount: '684'
-ht-degree: 33%
+source-wordcount: '655'
+ht-degree: 30%
 
 ---
 
 
 # Oportunidade de backlinks corrompidos
 
-![Oportunidade de backlinks corrompidos](./assets/broken-backlinks/hero.png){align="center"}
+<!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
+
+>[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
 
 A oportunidade de links retroativos quebrados identifica links externos que apontam para páginas inexistentes (404) no site. Esses links resultam em perda de tráfego de referência e redução do valor da SEO, já que os mecanismos de pesquisa dependem de links retroativos para avaliar a relevância e a autoridade. Esses problemas ocorrem quando os URLs são alterados, o conteúdo é removido ou as páginas não estão mais disponíveis sem os redirecionamentos adequados. O AEM Sites Optimizer identifica todos os backlinks com falha, fornece recomendações específicas de IA e permite a implantação com um clique para corrigi-los, tudo em uma única visualização centralizada.
 
 ## Identificação automática
 
-![Identificar automaticamente backlinks corrompidos](./assets/broken-backlinks/auto-identify.png){align="center"}
+<!--![Auto-identify broken backlinks](./assets/broken-backlinks/auto-identify.png){align="center"}-->
 
-O AEM Sites Optimizer verifica continuamente as fontes de dados externas para detectar backlinks que apontam para páginas 404 inexistentes no site. Os dados são agregados de várias fontes, incluindo o Google Search Console, [Telemetria operacional](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) e plataformas SEO de terceiros. A oportunidade de identificação automática identifica domínios externos vinculados a URLs quebrados e os prioriza com base no impacto, incluindo a autoridade do domínio e o tráfego esperado e as perdas de patrimônio do link.
+O AEM Sites Optimizer verifica continuamente as fontes de dados externas para detectar backlinks que apontam para páginas 404 inexistentes no site. Os dados são agregados de várias fontes, incluindo o Google Search Console, [Telemetria operacional](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) e plataformas SEO de terceiros. A oportunidade de identificação automática identifica domínios externos vinculados a URLs quebrados e os prioriza com base no impacto, incluindo a autoridade do domínio e o tráfego esperado e as perdas de patrimônio do link.
 
 Esta oportunidade lista todos os problemas identificados, incluindo os seguintes detalhes:
 
@@ -30,7 +32,7 @@ Esta oportunidade lista todos os problemas identificados, incluindo os seguintes
 
 ## Sugestão automática
 
-![Sugestão automática de backlinks corrompidos](./assets/broken-backlinks/auto-suggest.png){align="center"}
+<!--![Auto-suggest broken backlinks](./assets/broken-backlinks/auto-suggest.png){align="center"}-->
 
 Para cada backlink corrompido identificado, a AEM Sites Optimizer recomenda o destino mais apropriado para restaurar o tráfego e o valor da SEO. Ela determina a intenção do backlink analisando:
 
@@ -44,19 +46,19 @@ Essa intenção é comparada com o conteúdo existente no site para identificar 
 
 >[!TAB Lógica de IA]
 
-![Lógica de IA sobre sugestão automática de backlinks corrompidos](./assets/broken-backlinks/auto-suggest-ai-rationale.png){align="center"}
+<!--![AI rationale on autosuggestion of broken backlinks](./assets/broken-backlinks/auto-suggest-ai-rationale.png){align="center"}-->
 
 Clique no ícone **informações** para exibir a lógica de IA para o URL sugerido. A lógica explica por que a IA acredita que o URL sugerido é a melhor opção para o link corrompido. Ela pode ajudar a entender o processo de tomada de decisão da IA e tomar uma decisão fundamentada sobre aceitar ou rejeitar a sugestão.
 
 >[!TAB Editar URL de destino]
 
-![Editar URL sugerido de backlinks corrompidos](./assets/broken-backlinks/edit-target-url.png){align="center"}
+<!--![Edit suggested URL of broken backlinks](./assets/broken-backlinks/edit-target-url.png){align="center"}-->
 
 Se você discordar da sugestão gerada pela IA, poderá editar o URL sugerido clicando no **ícone de edição**. A edição permite inserir manualmente o URL que você acredita ser a melhor opção para o link corrompido. O Sites Optimizer também lista quaisquer outros URLs no seu site que ele acredite serem uma boa opção para o link corrompido.
 
 >[!TAB Ignorar entradas]
 
-![Ignorar backlinks corrompidos](./assets/broken-backlinks/ignore.png){align="center"}
+<!--![Ignore broken backlinks](./assets/broken-backlinks/ignore.png){align="center"}-->
 
 Você pode optar por ignorar entradas com os URLs corrompidos direcionados. Clicar ![no ícone de excluir ou no ícone de ignorar](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) remove o backlink corrompido da lista de oportunidades. Os backlinks corrompidos ignorados podem ser engajados novamente na guia **Ignorados**, na parte superior da página de oportunidade.
 
@@ -64,9 +66,7 @@ Você pode optar por ignorar entradas com os URLs corrompidos direcionados. Clic
 
 ## Otimizar automaticamente
 
-[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}
-
->[!VIDEO](https://video.tv.adobe.com/v/3483258/?captions=por_br&learn=on&enablevpops)
+<!--[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}-->
 
 Depois que as sugestões forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer aplica as correções no ambiente de criação, com base em como os redirecionamentos são gerenciados na implementação. O autor do AEM pode então publicar as alterações no Sistema de gerenciamento de conteúdo (CMS).
 

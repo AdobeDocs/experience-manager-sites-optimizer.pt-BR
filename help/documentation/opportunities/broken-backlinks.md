@@ -18,7 +18,7 @@ ht-degree: 100%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483258/?captions=por_br&learn=on&enablevpops)
 
 A oportunidade Backlinks corrompidos identifica links externos que apontam para páginas inexistentes (404) no seu site. Esses links resultam em perda de tráfego de referência e redução do valor de SEO, já que os mecanismos de busca dependem de backlinks para avaliar relevância e autoridade. Esses problemas ocorrem quando URLs são alterados, um conteúdo é removido ou páginas se tornam indisponíveis devido a ausência de redirecionamentos adequados. O AEM Sites Optimizer identifica todos os backlinks quebrados, fornece recomendações específicas de IA e permite a implantação com um clique para corrigi-los, tudo em uma única visualização centralizada.
 

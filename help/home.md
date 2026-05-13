@@ -2,10 +2,9 @@
 title: AEM Sites Optimizer
 description: 'Aumente o desempenho do seu site com o Sites Optimizer: melhore a velocidade, reduza custos e aprimore a confiabilidade para melhorar o engajamento.'
 TQID: https://experienceleague.adobe.com/tep2UnSJ4BsorZ9caKACfbOFyI1qvM2ZCxhjHd3vcSc
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 182
 ht-degree: 100%
 
@@ -13,7 +12,7 @@ ht-degree: 100%
 
 # AEM Sites Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3455090/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3455085/?learn=on&enablevpops)
 
 O Adobe Experience Manager (AEM) Sites Optimizer é um serviço na nuvem que analisa e melhora o desempenho de sites criados no AEM. O Sites Optimizer identifica áreas a serem melhoradas em termos de carregamento de página, uso de componentes e entrega de conteúdo. Essa funcionalidade ajuda a aprimorar o desempenho do site, além de reduzir os custos de manutenção e atualização. Ao usar o Sites Optimizer, você pode garantir uma experiência online descomplicada e confiável, o que é importante para manter o engajamento e as conversões.
 
@@ -111,13 +110,13 @@ CARDS
 
 <!--
 CARDS 
-* https://helpx.adobe.com/br/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
+* https://helpx.adobe.com/legal/product-descriptions/adobe-experience-manager-sites-optimizer.html
     {title=Packages and licensing}
     {description=Learn about AEM Sites Optimizer packages and licensing.}
     {image=./assets/home/licensing.png}
     {target=_blank}
     {cta=Learn more}
-* https://business.adobe.com/br/products/experience-manager/sites/optimizer.html
+* https://business.adobe.com/products/experience-manager/sites/optimizer.html
     {title=Explore the capabilities of AEM Sites Optimizer}
     {description=Learn what AEM Site Optimizer can do for your company.}
     {image=./assets/home/business-adobe-com.png}

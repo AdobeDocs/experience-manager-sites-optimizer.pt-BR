@@ -3,12 +3,10 @@ title: Documentação de oportunidade de backlinks corrompidos
 description: Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
 TQID: https://experienceleague.adobe.com/HTgcPKBO-r-NRgdUdqS6ZOklYRaLM8pQbr3KbaYD4nQ
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 655
 ht-degree: 100%
 
@@ -18,7 +16,7 @@ ht-degree: 100%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483258/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
 
 A oportunidade Backlinks corrompidos identifica links externos que apontam para páginas inexistentes (404) no seu site. Esses links resultam em perda de tráfego de referência e redução do valor de SEO, já que os mecanismos de busca dependem de backlinks para avaliar relevância e autoridade. Esses problemas ocorrem quando URLs são alterados, um conteúdo é removido ou páginas se tornam indisponíveis devido a ausência de redirecionamentos adequados. O AEM Sites Optimizer identifica todos os backlinks quebrados, fornece recomendações específicas de IA e permite a implantação com um clique para corrigi-los, tudo em uma única visualização centralizada.
 
@@ -26,7 +24,7 @@ A oportunidade Backlinks corrompidos identifica links externos que apontam para 
 
 <!--![Auto-identify broken backlinks](./assets/broken-backlinks/auto-identify.png){align="center"}-->
 
-O AEM Sites Optimizer verifica continuamente as fontes de dados externas para detectar backlinks que apontam para páginas 404 inexistentes no site. Os dados são agregados de várias fontes, incluindo o Google Search Console, [Telemetria operacional](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) e plataformas de SEO de terceiros. A oportunidade de identificação automática identifica domínios externos vinculados a URLs quebrados e os prioriza com base no impacto, incluindo a autoridade do domínio e o tráfego esperado e as perdas de valor do link.
+O AEM Sites Optimizer verifica continuamente as fontes de dados externas para detectar backlinks que apontam para páginas 404 inexistentes no site. Os dados são agregados de várias fontes, incluindo o Google Search Console, [Telemetria operacional](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) e plataformas de SEO de terceiros. A oportunidade de identificação automática identifica domínios externos vinculados a URLs quebrados e os prioriza com base no impacto, incluindo a autoridade do domínio e o tráfego esperado e as perdas de valor do link.
 
 Esta oportunidade lista todos os problemas identificados, incluindo os seguintes detalhes:
 

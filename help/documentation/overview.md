@@ -10,7 +10,7 @@ topic_v2:
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
 source-wordcount: 145
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./basics.md" target="_blank" rel="referrer" title="Básico">Noções básicas</a>
+                        <a href="./basics.md" target="_blank" rel="referrer" title="Noções básicas">Noções básicas</a>
                     </p>
                     <p class="is-size-6">Saiba mais sobre as noções básicas do Sites Optimizer e como usá-lo.</p>
                 </div>

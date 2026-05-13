@@ -11,7 +11,7 @@ topic_v2:
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 233
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -58,7 +58,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" title="Backlinks corrompidos">Backlinks corrompidos</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade Backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

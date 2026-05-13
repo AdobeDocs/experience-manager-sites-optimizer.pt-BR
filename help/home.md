@@ -7,7 +7,7 @@ product_v2:
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 182
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -62,8 +62,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./documentation/preflight/overview.md" title="Documentação de comprovação" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="documentation/preflight/assets/overview/hero.png" alt="Documentação de comprovação"
+                    <a href="./documentation/preflight/overview.md" title="Documentação do Preflight" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="documentation/preflight/assets/overview/hero.png" alt="Documentação do Preflight"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,9 +71,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" title="Documentação de comprovação">Documentação de comprovação</a>
+                        <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" title="Documentação do Preflight">Documentação do Preflight</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a Comprovação no Sites Optimizer e como otimizar suas páginas da Web antes que elas sejam publicadas.</p>
+                    <p class="is-size-6">Saiba mais sobre o Preflight no Sites Optimizer e como otimizar suas páginas da Web antes da publicação.</p>
                 </div>
                 <a href="./documentation/preflight/overview.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

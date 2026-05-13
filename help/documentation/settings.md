@@ -9,7 +9,7 @@ topic_v2:
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
 source-wordcount: 749
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 12%
 
 ![Configurações do Sites Optimizer](./assets/settings/hero.png){align="center"}
 
-As configurações do Sites Optimizer são o hub central para configurar sua experiência com o Sites Optimizer.
+As configurações do Sites Optimizer são o ponto central para definir sua experiência com o Sites Optimizer.
 
 ## Google Search Console
 
@@ -29,66 +29,66 @@ Para configurar esse conector, você deve ter credenciais com acesso administrat
 
 ## Conectar ao AEM Sites
 
-Este guia a seguir explica como conectar seu site existente do Edge Delivery Services (EDS) ao AEM Sites Optimizer. Antes de começar, certifique-se de que seu site EDS já esteja configurado e funcionando — essa conexão é especificamente para que o AEM Sites Optimizer acesse seu conteúdo.
+O guia a seguir explica como conectar seu site existente do Edge Delivery Services (EDS) ao AEM Sites Optimizer. Antes de começar, certifique-se de que seu site EDS já esteja configurado e funcionando — essa conexão serve especificamente para que o AEM Sites Optimizer acesse seu conteúdo.
 
 A conexão requer duas etapas:
 
-1. Forneça o URL do repositório de código e o URL da fonte de conteúdo.
-2. Conceda acesso ao AEM Sites Optimizer à sua fonte de conteúdo.
+1. Forneça o URL do repositório de código e o URL da origem do conteúdo.
+2. Conceda acesso ao AEM Sites Optimizer à sua origem de conteúdo.
 
-### Etapa 1 — Vincular o repositório de código e a fonte de conteúdo
+### Etapa 1 - Vincular o repositório de código e a origem do conteúdo
 
 No AEM Sites Optimizer, vá para **Configurações → Conectar-se ao AEM Sites** e insira o seguinte:
 
-- **URL do Repositório de Códigos** — a URL do GitHub do site EDS, por exemplo:
+- **URL do repositório de código** — o URL do GitHub do site EDS, por exemplo:
   `https://github.com/owner/repo`
 
-- **URL do Source de Conteúdo** — o URL da pasta do SharePoint ou da pasta da Unidade Google que faz backup do site EDS, por exemplo:
+- **URL da origem do conteúdo** — o URL da pasta do SharePoint ou do Google Drive que hospeda o seu site EDS, por exemplo:
   `https://drive.google.com/drive/folders/...` ou `https://myorg.sharepoint.com/...`
 
-Depois de inserir o URL do Source de conteúdo, o AEM Sites Optimizer detectará o tipo de fonte de conteúdo e mostrará abaixo as instruções de acesso relevantes.
+Depois de inserir o URL da origem do conteúdo, o AEM Sites Optimizer detectará o tipo de origem do conteúdo e exibirá as instruções de acesso relevantes abaixo.
 
-### Etapa 2 — Conceder acesso à sua fonte de conteúdo
+### Etapa 2 — Conceder acesso à origem do conteúdo
 
-Siga a seção que corresponde à sua fonte de conteúdo.
+Siga a seção que corresponde à origem do conteúdo.
 
-#### SharePoint — Domínio Adobe
+#### SharePoint — Domínio da Adobe
 
 ![Caixa de diálogo Conectar-se ao AEM Sites mostrando que nenhuma ação é necessária para o domínio do Adobe SharePoint](./assets/settings/connect-content-and-drive.png){align="center"}
 
-Se o URL do Source de conteúdo usar o domínio do Adobe SharePoint, nenhuma outra ação será necessária. Acesso já configurado. Clique em **Salvar** para concluir a conexão.
+Se o URL da origem do conteúdo usar o domínio do Adobe SharePoint, nenhuma outra ação será necessária. O acesso já está configurado. Clique em **Salvar** para concluir a conexão.
 
 #### SharePoint — Domínio personalizado
 
-Se o URL do Source de conteúdo usar o domínio SharePoint da própria organização, será necessário registrar um aplicativo do Azure e fornecer suas credenciais para o AEM Sites Optimizer.
+Se o URL da origem do conteúdo usar o domínio SharePoint da própria organização, será necessário registrar um aplicativo do Azure e fornecer suas credenciais para o AEM Sites Optimizer.
 
-##### Do que você precisará
+##### O que você vai precisar
 
 - Permissão para registrar aplicativos no Portal do Azure ou um contato que possa registrar aplicativos em seu nome.
-- Os direitos de administrador locatário para conceder consentimento de API ou um administrador que possa aprovar o consentimento de API para você.
+- Direitos de administrador do locatário para dar consentimento à API, ou um administrador que possa aprovar o consentimento à API em seu nome.
 
 ##### Etapa 2a — Registrar um aplicativo no Azure
 
-1. Acesse o **Azure Portal → Microsoft Entra ID → Registros de aplicativos → Novo registro**.
+1. Acesse **Portal do Azure → Microsoft Entra ID → Registros de aplicativos → Novo registro**.
 2. Nomeie-o, por exemplo: `AEM Sites Optimizer`.
 3. Deixe todos os outros padrões e clique em **Registrar**.
 4. Na página **Visão geral**, anote:
    - **ID do aplicativo (cliente)**
-   - **ID do Diretório (locatário)**
+   - **ID do diretório (locatário)**
 
-##### Etapa 2b — Adicionar permissões de API
+##### Etapa 2b — Adicionar permissões da API
 
-1. Vá para **Permissões de API → Adicionar uma permissão → Gráfico do Microsoft → Permissões de aplicativo**.
-2. Adicione o seguinte:
-   - `Sites.Selected` — acesso com escopo a conjuntos de sites específicos do SharePoint.
+1. Vá para **Permissões da API → Adicionar uma permissão → Microsoft Graph → Permissões do aplicativo**.
+2. Adicione ambos abaixo:
+   - `Sites.Selected` — acesso com escopo a coleções de sites específicas do SharePoint.
    - `Files.SelectedOperations.Selected` — acesso a arquivos sem um usuário conectado.
-3. Clique em **Dar consentimento administrativo** para ambos.
+3. Clique em **Conceder consentimento de administrador** para ambos.
 
-![Permissões da API do Azure mostrando Sites.Seleted e Files.SeletedOperations.Seleted concedidos](./assets/settings/app-permissions.png){align="center"}
+![Permissões da API do Azure indicando que Sites.Selected e Files.SelectedOperations.Selected foram concedidas](./assets/settings/app-permissions.png){align="center"}
 
 >[!NOTE]
 >
->A concessão do consentimento administrativo requer direitos de administrador de locatário. Caso contrário, peça ao administrador de TI ou do Azure para concluir essa etapa antes de continuar.
+>Para dar consentimento de administrador, é necessário ter direitos de administrador de locatário. Caso contrário, peça ao administrador de TI ou do Azure para concluir essa etapa antes de continuar.
 
 ##### Etapa 2c — Criar um segredo do cliente
 
@@ -100,11 +100,11 @@ Se o URL do Source de conteúdo usar o domínio SharePoint da própria organiza�
 
 ##### Etapa 2d — Conceder acesso ao aplicativo para seu site do SharePoint
 
-Você pode conceder acesso ao aplicativo usando chamadas do Microsoft Graph Explorer, PowerShell ou API de gráfico direto.
+Você pode conceder acesso ao aplicativo usando o Microsoft Graph Explorer, o PowerShell ou chamadas diretas à API do Graph.
 
 Navegue até o [Microsoft Graph Explorer](https://developer.microsoft.com/graph/graph-explorer), entre com sua conta da Microsoft e execute as seguintes solicitações:
 
-1. Encontrar a ID do site:
+1. Encontre a ID do site:
 
 ```
 GET https://graph.microsoft.com/v1.0/sites/{tenant}.sharepoint.com:/sites/{site-name}
@@ -134,10 +134,10 @@ Corpo:
 
 ![Caixa de diálogo Conectar ao AEM Sites mostrando os campos de credenciais do SharePoint](./assets/settings/add-sharepoint-credentials.png){align="center"}
 
-De volta à caixa de diálogo **Conectar-se ao AEM Sites**, digite o seguinte em **Conexão do Repositório de Conteúdo via SharePoint**:
+De volta à caixa de diálogo **Conectar-se ao AEM Sites**, digite o seguinte em **Conexão do repositório de conteúdo via SharePoint**:
 
-- **ID do Locatário (Azure AD)** — de Registro do Aplicativo → Visão Geral.
-- **ID do Cliente (Registro do Aplicativo)** — de Registro do Aplicativo → Visão Geral.
+- **ID do Locatário (Azure AD)** — em Registro do Aplicativo → Visão Geral.
+- **ID do cliente (Registro do aplicativo)** — em Registro do aplicativo → Visão geral.
 - **Segredo do Cliente** — criado na Etapa 2c.
 
 Clique em **Validar conexão** para confirmar o acesso e em **Salvar**.
@@ -146,10 +146,10 @@ Clique em **Validar conexão** para confirmar o acesso e em **Salvar**.
 
 ![Caixa de diálogo Conectar ao AEM Sites mostrando a conta de serviço do Google Drive para acesso de compartilhamento](./assets/settings/validate-eds-google.png){align="center"}
 
-1. No Google Drive, clique com o botão direito do mouse na pasta que faz backup do site de EDS e selecione **Compartilhar**.
+1. No Google Drive, clique com o botão direito do mouse na pasta que hospeda seu site EDS e selecione **Compartilhar**.
 2. No campo **Adicionar pessoas e grupos**, digite o email da conta de serviço mostrado na caixa de diálogo **Conectar-se ao AEM Sites**:
    `experience-success-studio@helix-225321.iam.gserviceaccount.com`
 3. Defina o nível de permissão como **Editor**.
 4. Desmarque **Notificar pessoas** e clique em **Compartilhar**.
 
-Quando o compartilhamento for concluído, clique em **Validar Conexão** na caixa de diálogo e em **Salvar**.
+Quando o compartilhamento for concluído, clique em **Validar conexão** na caixa de diálogo e em **Salvar**.

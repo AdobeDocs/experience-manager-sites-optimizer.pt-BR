@@ -10,7 +10,7 @@ topic_v2:
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
 source-wordcount: 655
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
@@ -20,25 +20,25 @@ ht-degree: 30%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483258/?captions=por_br&learn=on&enablevpops)
 
-A oportunidade de links retroativos quebrados identifica links externos que apontam para páginas inexistentes (404) no site. Esses links resultam em perda de tráfego de referência e redução do valor da SEO, já que os mecanismos de pesquisa dependem de links retroativos para avaliar a relevância e a autoridade. Esses problemas ocorrem quando os URLs são alterados, o conteúdo é removido ou as páginas não estão mais disponíveis sem os redirecionamentos adequados. O AEM Sites Optimizer identifica todos os backlinks com falha, fornece recomendações específicas de IA e permite a implantação com um clique para corrigi-los, tudo em uma única visualização centralizada.
+A oportunidade Backlinks corrompidos identifica links externos que apontam para páginas inexistentes (404) no seu site. Esses links resultam em perda de tráfego de referência e redução do valor de SEO, já que os mecanismos de busca dependem de backlinks para avaliar relevância e autoridade. Esses problemas ocorrem quando URLs são alterados, um conteúdo é removido ou páginas se tornam indisponíveis devido a ausência de redirecionamentos adequados. O AEM Sites Optimizer identifica todos os backlinks quebrados, fornece recomendações específicas de IA e permite a implantação com um clique para corrigi-los, tudo em uma única visualização centralizada.
 
 ## Identificação automática
 
 <!--![Auto-identify broken backlinks](./assets/broken-backlinks/auto-identify.png){align="center"}-->
 
-O AEM Sites Optimizer verifica continuamente as fontes de dados externas para detectar backlinks que apontam para páginas 404 inexistentes no site. Os dados são agregados de várias fontes, incluindo o Google Search Console, [Telemetria operacional](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) e plataformas SEO de terceiros. A oportunidade de identificação automática identifica domínios externos vinculados a URLs quebrados e os prioriza com base no impacto, incluindo a autoridade do domínio e o tráfego esperado e as perdas de patrimônio do link.
+O AEM Sites Optimizer verifica continuamente as fontes de dados externas para detectar backlinks que apontam para páginas 404 inexistentes no site. Os dados são agregados de várias fontes, incluindo o Google Search Console, [Telemetria operacional](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/sites/operational-telemetry-for-aem-as-a-cloud-service) e plataformas de SEO de terceiros. A oportunidade de identificação automática identifica domínios externos vinculados a URLs quebrados e os prioriza com base no impacto, incluindo a autoridade do domínio e o tráfego esperado e as perdas de valor do link.
 
 Esta oportunidade lista todos os problemas identificados, incluindo os seguintes detalhes:
 
-* **Página e domínio referenciadores** - A página externa ou o domínio que contém o link corrompido.
-* **Prioridade** - Alta, média ou baixa indicando o impacto que o link quebrado tem no processo de SEO.
-* **URL de destino corrompida** - A URL inexistente no site que está sendo vinculado.
+* **Página e domínio referenciador** — A página ou domínio externo que contém o link quebrado.
+* **Prioridade** – Alta, média ou baixa, indicando o impacto que o link quebrado tem no processo de SEO.
+* **URL de destino corrompido** – O URL inexistente no site que está sendo vinculado.
 
 ## Sugestão automática
 
 <!--![Auto-suggest broken backlinks](./assets/broken-backlinks/auto-suggest.png){align="center"}-->
 
-Para cada backlink corrompido identificado, a AEM Sites Optimizer recomenda o destino mais apropriado para restaurar o tráfego e o valor da SEO. Ela determina a intenção do backlink analisando:
+Para cada backlink corrompido identificado, o AEM Sites Optimizer recomenda o destino mais apropriado para restaurar o tráfego e o valor de SEO. Ele determina a intenção do backlink analisando:
 
 * Estrutura e tokens do URL
 * Texto de âncora
@@ -72,12 +72,12 @@ Você pode optar por ignorar entradas com os URLs corrompidos direcionados. Clic
 
 <!--[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}-->
 
-Depois que as sugestões forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer aplica as correções no ambiente de criação, com base em como os redirecionamentos são gerenciados na implementação. O autor do AEM pode então publicar as alterações no Sistema de gerenciamento de conteúdo (CMS).
+Depois que as sugestões forem revisadas e aprovadas, você poderá clicar em **Implantar otimização**. O AEM Sites Optimizer aplica as correções no ambiente de criação, com base em como os redirecionamentos são gerenciados na implementação. O autor do AEM pode então publicar as alterações no Sistema de gerenciamento de conteúdo (CMS).
 
-Dependendo da configuração, as correções são aplicadas como alterações de conteúdo ou código nos workflows de implantação existentes. O processo de otimização inclui as seguintes etapas:
+Dependendo da configuração, as correções são aplicadas como alterações de conteúdo ou código nos fluxos de trabalho de implantação existentes. O processo de otimização inclui as seguintes etapas:
 
-* **Validação** - Garante que as alterações funcionem conforme esperado e não introduz regressões antes da implantação.
-* **Implantação** - Aplica as alterações feitas por meio de processos existentes, como atualizações de conteúdo no AEM ou implantação de código por meio de pipelines de CI/CD.
-* **Verificação de permissões** - Verifica se o usuário tem as permissões apropriadas para implantar alterações. Caso contrário, saídas alternativas, como listas de redirecionamento para download ou patches de código serão fornecidas.
+* **Validação** – Garante que as alterações funcionem conforme esperado e não introduz regressões antes da implantação.
+* **Implantação** – Aplica as alterações feitas por meio de processos existentes, como atualizações de conteúdo no AEM ou implantação de código por meio de pipelines de CI/CD.
+* **Verificação de permissões** – Verifica se o usuário tem as permissões apropriadas para implantar alterações. Caso contrário, saídas alternativas, como listas de redirecionamento para download ou patches de código serão fornecidas.
 
 Esse processo garante que os redirecionamentos sejam implementados com precisão, validados antes do lançamento e alinhados às configurações e aos processos de controle existentes.

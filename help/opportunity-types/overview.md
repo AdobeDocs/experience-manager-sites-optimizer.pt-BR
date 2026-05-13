@@ -12,7 +12,7 @@ topic_v2:
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 348
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ O AEM Sites Optimizer fornece insights e recomendações valiosos para ajudar vo
 
 Cada categoria destaca uma maneira diferente de aprimorar o seu site. Uma categoria pode aumentar a interação dos visitantes. Outra pode melhorar a capacidade de descoberta. Outras concentram-se no fortalecimento da segurança ou na manutenção da estabilidade do site. O Preflight ajuda a analisar e otimizar as páginas antes de serem publicadas.
 
-O uso dessas oportunidades melhora a experiência do usuário, atrai o público-alvo certo e mantém o seu site seguro e confiável. Melhorar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade. A análise de comprovação garante que o conteúdo seja otimizado antes de entrar em vigor. Confira os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
+O uso dessas oportunidades melhora a experiência do usuário, atrai o público-alvo certo e mantém o seu site seguro e confiável. Melhorar o engajamento e a aquisição de tráfego impulsiona a interação e a visibilidade, enquanto uma postura de segurança forte e a integridade do site ajudam a garantir confiança e estabilidade. A análise da simulação garante que seu conteúdo seja otimizado antes de ser disponibilizado. Confira os links abaixo para ver oportunidades organizadas por categoria e descobrir maneiras de melhorar seu site.
 
 ## Tipos de oportunidades
 
@@ -219,4 +219,4 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-<span class="preview"> Os recursos de Otimização do Forms e Acessibilidade do Forms estão disponíveis no programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> Os recursos de Otimização de formulários e Acessibilidade de formulários estão disponíveis no programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>

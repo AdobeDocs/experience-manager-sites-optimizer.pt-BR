@@ -12,19 +12,19 @@ hide: true
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
 source-wordcount: 219
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
 # Oportunidades de otimização de formulários
 
-<span class="preview"> O recurso Otimização do Forms está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso Otimização de formulários está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 <!-- [!VIDEO](https://video.tv.adobe.com/v/3469472/) -->
 
 ![Oportunidades de otimização de formulários](./assets/form-optimization/hero.png){align="center"}
 
-As oportunidades de otimização do Forms permitem que as organizações melhorem as interações do usuário sistematicamente e aumentem as conversões de formulários. Ao detectar problemas, como exibições baixas, conversões baixas e taxas de navegação baixas, as equipes podem fazer ajustes orientados por dados no design, posicionamento e conteúdo do formulário. Essas otimizações ajudam a simplificar a experiência do usuário, ajudando os visitantes a preencherem os formulários e atingirem os resultados desejados. O uso de insights da Otimização do Forms permite a identificação e a resolução contínuas de lacunas de desempenho, resultando em formulários mais eficazes e em resultados comerciais aprimorados.
+As oportunidades de otimização de formulários permitem que as organizações melhorem sistematicamente as interações dos usuários e aumentem as conversões de formulários. Por detectar problemas, como poucas visualizações, poucas conversões e taxas de navegação baixas, as equipes podem fazer ajustes orientados por dados no design, posicionamento e conteúdo do formulário. Essas otimizações ajudam a simplificar a experiência do usuário, ajudando os visitantes a preencherem os formulários e atingirem os resultados desejados. O uso de insights da Otimização de formulários permite a identificação e a resolução contínuas de lacunas de desempenho, resultando em formulários mais eficazes e em resultados comerciais aprimorados.
 
 ## Oportunidades
 

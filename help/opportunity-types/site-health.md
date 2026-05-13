@@ -9,7 +9,7 @@ topic_v2:
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 130
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="../documentation/opportunities/core-web-vitals.md" title="Sinais vitais principais da web" target="_blank" rel="referrer">
+                    <a href="../documentation/opportunities/core-web-vitals.md" title="Core Web Vitals" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../assets/common/card-performance.png" alt="Sinais vitais principais da web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -45,9 +45,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Sinais vitais principais da web">Sinais vitais principais da web</a>
+                        <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core Web Vitals">Sinais vitais principais da web</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de principais sinais vitais e como usá-la para melhorar a aquisição de tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade Principais sinais vitais da web e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="../documentation/opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

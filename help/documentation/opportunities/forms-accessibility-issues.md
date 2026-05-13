@@ -12,17 +12,17 @@ hide: true
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
 source-wordcount: 311
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
 # Oportunidade de problemas de acessibilidade de formulários
 
-<span class="preview"> O recurso Otimização do Forms está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso Otimização de formulários está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 ![Oportunidade com problemas de acessibilidade em formulários](./assets/forms-accessibility-issues/hero.png){align="center"}
 
-A oportunidade com problemas de acessibilidade em formulários identifica se os seus formulários estão em conformidade com as necessidades de pessoas com deficiências e se estão seguindo as [diretrizes de acessibilidade de conteúdo da web (WCAG, na sigla em inglês)](https://www.w3.org/TR/WCAG21/). Ao avaliar a conformidade de seus formulários com a WCAG, você ajuda a criar uma experiência de formulários inclusiva. Isso permite que indivíduos com deficiências visuais, auditivas, cognitivas e motoras naveguem, interajam e preencham com êxito seus formulários. Não só é essencial por razões éticas, como também promove o cumprimento dos requisitos legais. Ela também melhora as taxas de conclusão de formulários e pode aumentar o alcance do público-alvo, melhorando a experiência do usuário e o desempenho da empresa.
+A oportunidade com problemas de acessibilidade em formulários identifica se os seus formulários estão em conformidade com as necessidades de pessoas com deficiências e se estão seguindo as [diretrizes de acessibilidade de conteúdo da web (WCAG, na sigla em inglês)](https://www.w3.org/TR/WCAG21/). Ao avaliar o grau de conformidade dos seus formulários com as WCAG, você contribui para criar uma experiência inclusiva no preenchimento de formulários. Isso permite que pessoas com deficiências visuais, auditivas, cognitivas e motoras possam navegar, interagir e preencher com sucesso seus formulários. Isso não só é essencial por razões éticas, como também promove o cumprimento das exigências legais. Além disso, isso melhora as taxas de preenchimento de formulários e pode ampliar o alcance do seu público-alvo, aprimorando tanto a experiência do usuário quanto o desempenho empresarial.
 
 ## Identificação automática
 
@@ -40,7 +40,7 @@ A **oportunidade com problemas de acessibilidade de formulários** identifica pr
 
 ![Sugestão automática de problemas de acessibilidade de formulários](./assets/forms-accessibility-issues/auto-suggest.png){align="center"}
 
-A Sugestão automática fornece recomendações geradas por IA no campo **Sugestões**, que fornece orientação prescritiva sobre o que fazer para corrigir o problema de acessibilidade dos formulários.
+A função de sugestão automática fornece recomendações geradas por IA no campo **Sugestões**, que oferece orientações específicas sobre o que fazer para corrigir o problema de acessibilidade do formulário.
 
 <!-- 
 

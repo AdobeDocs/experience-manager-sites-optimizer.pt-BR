@@ -10,7 +10,7 @@ topic_v2:
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
 source-wordcount: 669
-ht-degree: 34%
+ht-degree: 100%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 34%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483269/?captions=por_br&learn=on&enablevpops)
 
-A oportunidade de texto alternativo ausente identifica imagens em seu site que não têm texto alternativo descritivo. Sem textos alternativos, os usuários que dependem de leitores de tela não podem interpretar conteúdo visual, criando barreiras de acessibilidade. Também limita como os mecanismos de pesquisa entendem e indexam imagens, reduzindo a capacidade de descoberta de conteúdo e o desempenho da pesquisa. O AEM Sites Optimizer identifica problemas de texto alternativo ausentes, fornece recomendações específicas de IA e permite a implantação com um clique para corrigi-los, tudo em uma única exibição centralizada.
+A oportunidade de texto alternativo ausente identifica imagens no seu site que não possuem texto alternativo descritivo. Sem texto alternativo, os usuários que dependem de leitores de tela não conseguem interpretar o conteúdo visual, o que cria barreiras de acessibilidade. Isso também limita a forma como os mecanismos de pesquisa interpretam e indexam imagens, reduzindo a visibilidade do conteúdo e o desempenho da pesquisa. O AEM Sites Optimizer identifica problemas relacionados à falta de texto alternativo, oferece recomendações específicas baseadas em IA e permite a implementação com um clique para corrigi-los, tudo em uma única visualização centralizada.
 
 ## Identificação automática
 
 <!--![Auto-identify missing alt text](./assets/missing-alt-text/auto-identify.png){align="center"}-->
 
-O AEM Sites Optimizer digitaliza seu site usando uma auditoria de várias etapas que combina a rastrea de sites, dados de tráfego real do usuário e análise de IA para identificar imagens que exigem texto alternativo, mas não o têm definido. Ele também avalia imagens na página para determinar se o texto alternativo é necessário, excluindo imagens decorativas ou não informativas, de acordo com as Diretrizes de acessibilidade de conteúdo da Web (WCAG). As imagens são analisadas com base em sua função e relevância na página, priorizando correções que têm maior impacto na acessibilidade e SEO.
+O AEM Sites Optimizer analisa seu site por meio de uma auditoria em várias etapas que combina o rastreamento do site, dados reais de tráfego de usuários e análise de IA para identificar imagens que precisam de texto alternativo, mas não o têm definido. Ele também analisa as imagens na página para determinar se é necessário incluir texto alternativo, excluindo imagens decorativas ou sem conteúdo informativo, de acordo com as Diretrizes de accessibilidade para conteúdo da Web (WCAG). As imagens são analisadas com base em sua função e relevância na página, priorizando as correções que têm maior impacto na acessibilidade e no SEO.
 
 Esta oportunidade fornece uma lista de problemas identificados, incluindo:
 
@@ -61,13 +61,13 @@ Você pode optar por ignorar as entradas na lista de oportunidades. Clicar no ![
 
 <!--[!BADGE Ultimate]{type=Positive tooltip="Ultimate"}-->
 
-Depois que as sugestões forem revisadas e aprovadas, você poderá clicar em **Implantar Otimização**. O AEM Sites Optimizer aplica as correções no ambiente de criação, com base em como o texto alternativo é gerenciado na implementação. O autor do AEM pode então publicar as alterações no Sistema de gerenciamento de conteúdo (CMS).
+Depois que as sugestões forem revisadas e aprovadas, você poderá clicar em **Implantar otimização**. O AEM Sites Optimizer aplica as correções no ambiente de criação, com base em como o texto alternativo é gerenciado na implementação. O autor do AEM pode então publicar as alterações no Sistema de gerenciamento de conteúdo (CMS).
 
 Dependendo da configuração, as atualizações podem ser aplicadas diretamente ao conteúdo da página, aos metadados de ativos ou aos modelos de conteúdo de suporte. O processo de otimização inclui as seguintes etapas:
 
-* **Validação** - Garante que as atualizações sejam aplicadas com segurança sem afetar a funcionalidade existente.
-* **Implantação** - Aplica as atualizações por meio de processos existentes, como atualizações de conteúdo no AEM ou integração com APIs de conteúdo.
-* **Verificação de permissões** - Verifica se o usuário tem as permissões apropriadas para aplicar as alterações. Caso contrário, saídas alternativas, como atualizações para download, podem ser usadas para a entrega.
+* **Validação** – Garante que as atualizações sejam aplicadas com segurança sem afetar a funcionalidade existente.
+* **Implantação** – Aplica as atualizações por meio de processos existentes, como atualizações de conteúdo no AEM ou integração com APIs de conteúdo.
+* **Verificação de permissões** – Verifica se o usuário tem as permissões apropriadas para aplicar as alterações. Caso contrário, saídas alternativas, como atualizações para download, podem ser usadas para a entrega.
 
 As atualizações recebem controle de versão onde há suporte, fornecendo visibilidade e capacidade de reversão. Isso garante que as atualizações de texto alternativo sejam aplicadas com precisão, alinhadas com as implementações existentes e consistentes com os padrões de governança e acessibilidade.
 

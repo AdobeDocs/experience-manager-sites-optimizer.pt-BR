@@ -18,7 +18,7 @@ ht-degree: 30%
 
 <!--![Broken backlinks opportunity](./assets/broken-backlinks/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483250/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483258/?captions=por_br&learn=on&enablevpops)
 
 A oportunidade de links retroativos quebrados identifica links externos que apontam para páginas inexistentes (404) no site. Esses links resultam em perda de tráfego de referência e redução do valor da SEO, já que os mecanismos de pesquisa dependem de links retroativos para avaliar a relevância e a autoridade. Esses problemas ocorrem quando os URLs são alterados, o conteúdo é removido ou as páginas não estão mais disponíveis sem os redirecionamentos adequados. O AEM Sites Optimizer identifica todos os backlinks com falha, fornece recomendações específicas de IA e permite a implantação com um clique para corrigi-los, tudo em uma única visualização centralizada.
 

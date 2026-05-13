@@ -3,9 +3,9 @@ user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Esta é uma descrição do guia do usuário que será exibida na página de destino.
 source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 91%
    + {hide-from-toc}[Acessibilidade de formulários](/help/opportunity-types/form-accesibility.md)
 + Documentação{#documentation}
    + [Visão geral](/help/documentation/overview.md)
-   + [Básico](/help/documentation/basics.md)
+   + [Noções básicas](/help/documentation/basics.md)
    + [Avaliação](/help/documentation/trial.md)
    + Configurar{#set-up}
       + [Integração de usuários](/help/documentation/setup/onboard-users.md)
@@ -32,7 +32,7 @@ ht-degree: 91%
       + [Problemas de acessibilidade](/help/documentation/opportunities/accessibility-issues.md)
       + [Links internos corrompidos](/help/documentation/opportunities/broken-internal-links.md)
       + [Backlinks corrompidos](/help/documentation/opportunities/broken-backlinks.md)
-      + [Sinais vitais principais da web](/help/documentation/opportunities/core-web-vitals.md)
+      + [Core Web Vitals](/help/documentation/opportunities/core-web-vitals.md)
       + [Configuração do CORS](/help/documentation/opportunities/cors-configuration.md)
       + [Criação de script entre sites](/help/documentation/opportunities/cross-site-scripting.md)
       + [Taxa de rejeição alta](/help/documentation/opportunities/high-bounce-rate.md)
@@ -43,14 +43,14 @@ ht-degree: 91%
       + {hide-from-toc}[Conversões de formulários baixas](/help/documentation/opportunities/low-conversions.md)
       + {hide-from-toc}[Visualizações de formulários baixas](/help/documentation/opportunities/low-views.md)
       + {hide-from-toc}[Navegação por formulários baixa](/help/documentation/opportunities/low-navigation.md)
-      + {hide-from-toc}[Problema de acessibilidade do Forms](/help/documentation/opportunities/forms-accessibility-issues.md)
+      + {hide-from-toc}[Problema de acessibilidade de formulário](/help/documentation/opportunities/forms-accessibility-issues.md)
       + [Problemas no mapa do site](/help/documentation/opportunities/sitemap-issues.md)
       + [Permissões do site](/help/documentation/opportunities/website-permissions.md)
       + [Vulnerabilidades do site](/help/documentation/opportunities/website-vulnerabilities.md)
    + Preflight{#preflight}
       + [Visão geral](/help/documentation/preflight/overview.md)
       + [Configurar](/help/documentation/preflight/setup.md)
-      + [Comprovação de acesso](/help/documentation/preflight/access-preflight.md)
+      + [Acessar o Preflight](/help/documentation/preflight/access-preflight.md)
       + [Auditorias](/help/documentation/preflight/audits.md)
       + [Resultados da auditoria](/help/documentation/preflight/audit-results.md)
       + Oportunidades{#preflight-opportunities}

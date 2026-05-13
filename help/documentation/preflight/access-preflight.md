@@ -1,20 +1,20 @@
 ---
-title: Comprovação de acesso
-description: Saiba onde a Comprovação aparece em seu ambiente de criação.
+title: Acessar o Preflight
+description: Descubra onde o Preflight aparece no seu ambiente de criação.
 source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Comprovação de acesso
+# Acessar o Preflight
 
-A Comprovação está disponível nos ambientes de criação do AEM Sites, incluindo o Editor universal, a criação com base em documento e o Editor de páginas do AEM Sites. As aberturas de comprovação são um painel na página que você está criando, e [executa auditorias](./audits.md) nessa página e [exibe todas as oportunidades](./audit-results.md) que encontrar para aprimorar a página antes da publicação.
+A simulação está disponível nos ambientes de criação do AEM Sites, incluindo o Editor universal, a Criação com base em documento e o Editor de páginas do AEM Sites. O Preflight abre um painel na página que você está criando e [executa auditorias](./audits.md) nessa página, além de [exibir quaisquer oportunidades](./audit-results.md) encontradas para melhorar a página antes da publicação.
 
-* **Editor Universal** - A Extensão de Comprovação aparece no **painel lateral**. Selecione para iniciar uma auditoria da página atual.
-* **Criação baseada em documentos** - Através da Sidekick, ou bookmarklet, execute a ferramenta de comprovação no conteúdo da página visualizada para ver a lista de oportunidades.
-* **Editor de páginas do AEM Sites** - Use o bookmarklet de Comprovação no navegador para iniciar uma auditoria.
+* **Editor universal** – A extensão do Preflight aparece no **painel lateral**. Selecione para iniciar uma auditoria da página atual.
+* **Criação baseada em documentos** - Por meio do Sidekick ou do bookmarklet, execute as ferramentas do Preflight no conteúdo da sua página em pré-visualização para ver a lista de oportunidades.
+* **Editor de páginas do AEM Sites** – Use o bookmarklet do Preflight no navegador para iniciar uma auditoria.
 
-Para obter instruções de configuração, consulte [Configuração de simulação](./setup.md).
+Para obter instruções de configuração, consulte [Configuração do Preflight](./setup.md).

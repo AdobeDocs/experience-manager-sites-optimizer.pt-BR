@@ -1,10 +1,10 @@
 ---
-title: Oportunidade de simulação de legibilidade
-description: Saiba mais sobre a Oportunidade de simulação de legibilidade no Sites Optimizer.
+title: Oportunidade de legibilidade do Preflight
+description: Saiba mais sobre a oportunidade de legibilidade do Preflight no Sites Optimizer.
 source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ As Oportunidades de simulação de legibilidade estão disponíveis em vários i
 * Alemão
 * Holandês
 
-Ele garante que as equipes possam avaliar e otimizar a legibilidade do conteúdo em uma grande variedade de públicos-alvo.
+Isso garante que as equipes possam avaliar e otimizar a legibilidade do conteúdo para um ampla gama de públicos-alvo.

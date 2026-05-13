@@ -2,13 +2,15 @@
 title: Documentação de oportunidade de problemas do mapa do site
 description: Saiba mais sobre a oportunidade de problemas do mapa do site e como usá-la para melhorar a aquisição de tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '490'
+TQID: https://experienceleague.adobe.com/fWfIWxwZ0SQpY4l0rjYrNZaNNhXqmh2t-etEwotYUfQ
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 497
 ht-degree: 100%
 
 ---
-
 
 # Oportunidade de problemas do mapa do site
 

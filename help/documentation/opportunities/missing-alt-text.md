@@ -2,19 +2,21 @@
 title: Documentação de texto alternativo ausente
 description: Saiba mais sobre a oportunidade de texto alternativo ausente e como usá-la para melhorar o engajamento no seu site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
-source-git-commit: fd992e5f4508ccd4236757167a16c744d98cc6ae
+TQID: https://experienceleague.adobe.com/FyAC4UY-RAYtfYsKUkS-fgU3Kgy7ov5WYBtBpQ4ZFzk
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: 669
 ht-degree: 34%
 
 ---
-
 
 # Oportunidade de texto alternativo ausente
 
 <!--![Missing alt text opportunity](./assets/missing-alt-text/hero.png){align="center"}-->
 
->[!VIDEO](https://video.tv.adobe.com/v/3483269/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483251/?learn=on&enablevpops)
 
 A oportunidade de texto alternativo ausente identifica imagens em seu site que não têm texto alternativo descritivo. Sem textos alternativos, os usuários que dependem de leitores de tela não podem interpretar conteúdo visual, criando barreiras de acessibilidade. Também limita como os mecanismos de pesquisa entendem e indexam imagens, reduzindo a capacidade de descoberta de conteúdo e o desempenho da pesquisa. O AEM Sites Optimizer identifica problemas de texto alternativo ausentes, fornece recomendações específicas de IA e permite a implantação com um clique para corrigi-los, tudo em uma única exibição centralizada.
 

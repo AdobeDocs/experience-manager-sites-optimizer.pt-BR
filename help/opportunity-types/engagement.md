@@ -1,13 +1,15 @@
 ---
 title: Otimizar o engajamento com o Sites Optimizer
 description: Saiba como melhorar o engajamento com o Sites Optimizer.
-source-git-commit: 4cf02d5c9d44ed00bb3b284330b2d553d54ba8d3
+TQID: https://experienceleague.adobe.com/pMjcvadt20vx4MlC7JdlYz-GCaJgKmaNIYF2WxBUuB0
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 100%
+source-wordcount: 286
+ht-degree: 96%
 
 ---
-
 
 # Oportunidades de engajamento
 
@@ -58,8 +60,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre a oportunidade de problemas de acessibilidade e como usá-la para aumentar a segurança do site.</p>
                 </div>
                 <a href="../documentation/opportunities/accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -81,8 +83,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre a oportunidade de links corrompidos e como usá-la para melhorar o engajamento no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities//broken-internal-links.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -127,8 +129,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre a oportunidade “a página de alto tráfego tem uma baixa taxa de cliques” e como usá-la para aumentar o engajamento no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/high-traffic-page-has-low-ctr.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

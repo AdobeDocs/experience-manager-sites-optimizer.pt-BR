@@ -2,13 +2,15 @@
 title: Documentação de oportunidade de criação de script entre sites
 description: Saiba mais sobre a oportunidade de criação de script entre sites e como identificar e corrigir vulnerabilidades de segurança do site.
 badgeSecurityPosture: label="Postura de segurança" type="Caution" url="../../opportunity-types/security-posture.md" tooltip="Postura de segurança"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '132'
+TQID: https://experienceleague.adobe.com/8ZpnC3XTmcz1uPeyJM0UqR97PfvekI3QHGf6xDT5Tcc
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 144
 ht-degree: 100%
 
 ---
-
 
 # Oportunidade de criação de script entre sites
 

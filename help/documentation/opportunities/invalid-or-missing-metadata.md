@@ -2,13 +2,18 @@
 title: Documentação de oportunidade de metadados inválidos ou ausentes
 description: Saiba mais sobre a oportunidade de metadados inválidos ou ausentes e como usá-la para melhorar a aquisição de tráfego.
 badgeTrafficAcquisition: label="Aquisição de tráfego" type="Caution" url="../../opportunity-types/traffic-acquisition.md" tooltip="Aquisição de tráfego"
-source-git-commit: cb64a34b758de8f5dcea298014ddd0ba79a24c17
-workflow-type: ht
-source-wordcount: '521'
+TQID: https://experienceleague.adobe.com/mNGZuKaPU9sxVOgXi4dRXPW1yU6FqHf9DC9WW9BsVBI
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
+workflow-type: tm+mt
+source-wordcount: 550
 ht-degree: 100%
 
 ---
-
 
 # Oportunidade de metadados inválidos ou ausentes
 
@@ -60,7 +65,7 @@ Se você discordar da sugestão gerada pela IA, poderá editar o valor dos metad
 
 >[!TAB Ignorar entradas]
 
-Você pode optar por ignorar entradas com metadados inválidos ou corrompidos. Clicar no ![ícone de excluir](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) remove a entrada da lista de oportunidades. As entradas ignoradas podem ser engajadas novamente na guia **Ignoradas**, na parte superior da página de oportunidade.
+Você pode optar por ignorar entradas com metadados inválidos ou corrompidos. Clicar no ![ícone de excluir](https://spectrum.adobe.com/static/icons/ui_18/CrossSize500.svg) remove a entrada da lista de oportunidades. As entradas ignoradas podem ser engajadas novamente na guia **Ignoradas**, na parte superior da página da oportunidade.
 
 >[!ENDTABS]
 

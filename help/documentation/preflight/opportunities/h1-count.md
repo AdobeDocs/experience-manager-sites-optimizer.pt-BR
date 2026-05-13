@@ -2,7 +2,7 @@
 title: Oportunidade de simulação de contagem H1
 description: Saiba mais sobre a Oportunidade de simulação de acessibilidade no Sites Optimizer.
 source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 

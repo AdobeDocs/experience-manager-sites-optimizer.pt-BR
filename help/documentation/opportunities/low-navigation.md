@@ -3,26 +3,23 @@ title: Documentação da oportunidade de conversões baixas
 description: Saiba mais sobre a oportunidade com conversões baixas e como usá-la para melhorar o engajamento dos formulários no seu site.
 badgeFormOptimization: label="Otimização de formulários" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Otimização de formulários"
 TQID: https://experienceleague.adobe.com/l7dAFUhhqSI8O8YyboY49-4ahofWelfozBU5hejsVlA
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 hide: true
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
 source-wordcount: 333
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 # Oportunidade de navegação por formulários baixa
 
-<span class="preview"> O recurso Otimização do Forms está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso Otimização de formulários está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 ![Oportunidade com navegação baixa](./assets/low-navigation/hero.png){align="center"}
 
-A oportunidade com navegação baixa identifica formulários no site que têm taxas de navegação baixas. Esse tipo de oportunidade identifica formulários que os usuários não descobrem ou acessam e sugere maneiras de melhorar sua capacidade de descoberta.
+A oportunidade com navegação baixa identifica formulários no site que têm taxas de navegação baixas. Este tipo de oportunidade identifica formulários que os usuários não encontram ou não acessam e sugere maneiras de melhorar sua visibilidade.
 
 
 ## Identificação automática

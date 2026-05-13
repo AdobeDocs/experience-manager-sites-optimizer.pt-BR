@@ -2,22 +2,19 @@
 title: Otimização de formulários com o Sites Optimizer
 description: Saiba mais sobre a otimização de formulários com o Sites Optimizer.
 TQID: https://experienceleague.adobe.com/PgP-AIbcKZr7nH-jmKe7B7VPGm1K6-oi8EVXYkHeZBI
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 hide: true
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
 source-wordcount: 154
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
-# Oportunidades de acessibilidade do Forms
+# Oportunidades de acessibilidade de formulários
 
-<span class="preview"> O recurso Otimização do Forms está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
+<span class="preview"> O recurso Otimização de formulários está disponível em um programa de acesso antecipado. Você pode escrever para o endereço aem-forms-ea@adobe.com com o sua ID de email oficial para entrar no programa de acesso antecipado e solicitar acesso ao recurso. </span>
 
 ![Oportunidades de acessibilidade de formulários](./assets/form-accesibility/hero.png){align="center"}
 
@@ -55,7 +52,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" title="Problemas de acessibilidade de formulários">Problemas de acessibilidade de formulários</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre os problemas de acessibilidade de formulários e como usá-los para melhorar o engajamento dos formulários no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre os problemas de acessibilidade dos formulários e como utilizá-los para melhorar a interação com os formulários no seu site.</p>
                 </div>
                 <a href="../documentation/opportunities/forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

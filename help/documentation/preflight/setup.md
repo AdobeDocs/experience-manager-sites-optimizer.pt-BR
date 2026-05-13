@@ -2,22 +2,21 @@
 title: Configurações de simulação
 description: Saiba como configurar a extensão do Preflight para o AEM Sites Optimizer.
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 596
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
 # Configurações de simulação
 
-A identificação da oportunidade de Comprovação do AEM Sites Optimizer exige a configuração da extensão Comprovação. Você pode configurá-lo no Universal Editor, na Visualização baseada em documento ou no AEM Cloud Service para que seja possível executar auditorias de Comprovação em suas páginas antes que elas sejam publicadas.
+A identificação de oportunidades de simulação do AEM Sites Optimizer requer a configuração da extensão de simulação. Você pode configurá-la no Editor universal, na Visualização baseada em documento ou no AEM Cloud Service para realizar auditorias de simulação nas suas páginas antes da publicação.
 
 ## Habilitar acesso do usuário
 
-Para usar a extensão Comprovação, verifique se o usuário está atribuído a pelo menos um dos seguintes perfis de produto do AEM Sites Optimizer no [Adobe Admin Console](https://adminconsole.adobe.com):
+Para usar a extensão do Preflight, verifique se o usuário está atribuído a pelo menos um dos seguintes perfis de produto do AEM Sites Optimizer no [Adobe Admin Console](https://adminconsole.adobe.com):
 
 * AEM Sites Optimizer: sugerir usuário automaticamente
 * AEM Sites Optimizer: otimizar usuário automaticamente
@@ -36,7 +35,7 @@ Para configurar a simulação no Universal Editor, siga estas etapas:
 1. A **equipe do Adobe AEM** analisa e habilita a extensão para sua organização.
 1. Após habilitar a extensão, abra uma página no **Universal Editor**, como, por exemplo:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
-1. A **Extensão de Comprovação** aparece no **painel lateral**.
+1. A **Extensão do Preflight** aparece no **painel lateral**.
 1. Selecione a **Extensão de simulação** no painel lateral para iniciar a **Auditoria de simulação** da página atual.
 
 >[!TAB Criação baseada em documentos]
@@ -115,14 +114,14 @@ Para configurar a simulação para criação baseada em documentos, siga estas e
    }
    ```
 
-1. Abra a URL de visualização (`*.aem.page`) da página que deseja auditar.
+1. Abra o URL de visualização (`*.aem.page`) da página que deseja auditar.
 1. No **Sidekick**, clique no botão **Simulação** para iniciar a auditoria da página atual.
 
 >[!TAB Editor de páginas do AEM Sites]
 
 Para usar a simulação no editor de páginas do AEM Sites, você pode criar um marcador no seu navegador da web. Siga estas etapas:
 
-1. Mostre sua **Barra de Indicadores** em seu navegador da Web:
+1. Exiba a **Barra de Favoritos** no seu navegador da Web:
 
    * Pressione **Ctrl+Shift+B** (Windows) ou **Cmd+Shift+B** (Mac).
 
@@ -136,16 +135,16 @@ Para usar a simulação no editor de páginas do AEM Sites, você pode criar um 
    ```
 
 1. Nomeie o marcador **Simulação** (ou qualquer nome que preferir).
-1. Abra a URL de visualização (`*.aem.page`) da página que você deseja auditar no **Editor de Páginas do AEM Sites**.
+1. Abra o URL de visualização (`*.aem.page`) da página que você deseja auditar no **Editor de páginas do AEM Sites**.
 1. Clique no marcador **Simulação**, na barra de marcadores, para iniciar a auditoria da página atual.
 
 >[!TAB Adobe Managed Services]
 
 >[!IMPORTANT]
 >
->Somente os ambientes do Adobe Managed Services (AMS) que usam o Provedor de identidade (IMS) da Adobe para autenticação no AEM Author são compatíveis. A comprovação não funcionará se sua organização usar qualquer outro provedor de identidade para autenticação AMS.
+>Somente os ambientes do Adobe Managed Services (AMS) que usam o Provedor de identidade (IMS) da Adobe para autenticação no AEM Author são compatíveis. O Preflight não funcionará se sua organização usar qualquer outro provedor de identidade para autenticação AMS.
 
-Para usar a opção Comprovação no Editor de páginas do AEM Sites em um ambiente do AMS, crie um bookmarklet no navegador da Web, seguindo estas etapas:
+Para usar o Preflight no editor de páginas do AEM Sites em um ambiente AMS, crie um bookmarklet no seu navegador da Web, seguindo estas etapas:
 
 1. Exiba a **Barra de marcadores** do seu navegador da web:
 
@@ -161,7 +160,7 @@ Para usar a opção Comprovação no Editor de páginas do AEM Sites em um ambie
    ```
 
 1. Nomeie o marcador **Simulação** (ou qualquer nome que preferir).
-1. Abra a página que deseja auditar no **Editor de Páginas do AEM Sites**.
+1. Abra a página que deseja auditar no **editor de páginas do AEM Sites**.
 1. Clique no marcador **Simulação**, na barra de marcadores, para iniciar a auditoria da página atual.
 
 >[!ENDTABS]
@@ -172,5 +171,5 @@ Ao executar auditorias de simulação, lembre-se das seguintes diretrizes:
 
 * Sempre execute auditorias em **páginas de preparo ou pré-visualização** antes de publicar na produção.
 * Priorize a resolução de **problemas de alto impacto**, como links corrompidos, tags H1 ausentes ou links inseguros.
-* Verifique se a **autenticação está habilitada** para ambientes de preparo protegidos antes de executar auditorias.
+* Certifique-se de que **a autenticação esteja ativada** nos ambientes de teste protegidos antes de executar auditorias.
 * Revise e aplique as **recomendações de metatags** para melhorar o desempenho da SEO.

@@ -2,18 +2,12 @@
 title: Documentação de oportunidades do Sites Optimizer
 description: Saiba mais sobre todas as oportunidades disponíveis do Site Optimizer e como usá-las para melhorar o desempenho do seu site.
 TQID: https://experienceleague.adobe.com/x-9Vr-OhGbZV-RIJhD1sLhbEVJXeJWMX2Fs78Vb4Mdk
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: tm+mt
 source-wordcount: 891
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -144,7 +138,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./accessibility-issues.md" target="_blank" rel="referrer" title="Problemas de acessibilidade">Problemas de acessibilidade</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de problemas de acessibilidade e como usá-la para aumentar a segurança do site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade Problemas de acessibilidade e como usá-la para aumentar a segurança do site.</p>
                 </div>
                 <a href="./accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -167,7 +161,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./broken-backlinks.md" target="_blank" rel="referrer" title="Backlinks corrompidos">Backlinks corrompidos</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade de backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade Backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -225,7 +219,7 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./core-web-vitals.md" title="Sinais vitais principais da web" target="_blank" rel="referrer">
+                    <a href="./core-web-vitals.md" title="Core Web Vitals" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="../../assets/common/card-performance.png" alt="Sinais vitais principais da web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -234,9 +228,9 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="Sinais vitais principais da web">Sinais vitais principais da web</a>
+                        <a href="./core-web-vitals.md" target="_blank" rel="referrer" title="Core Web Vitals">Sinais vitais principais da web</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre as principais oportunidades de sinais vitais principais e como usá-las para melhorar a aquisição de tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre as principais oportunidades do Core Web Vitals e como usá-las para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -351,7 +345,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-views.md" target="_blank" rel="referrer" title="Exibições baixas">Visualizações de formulários baixas</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a oportunidade com visualizações baixas e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade Poucas visualizações de formulário e como usá-la para melhorar o engajamento dos formulários no seu site.</p>
                 </div>
                 <a href="./low-views.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -374,7 +368,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./low-navigation.md" target="_blank" rel="referrer" title="Navegação por formulários baixa">Navegação por formulários baixa</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre a baixa oportunidade de navegação e como usá-la para melhorar o engajamento do formulário no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre a oportunidade de navegação baixa e como usá-la para melhorar o engajamento com formulários no seu site.</p>
                 </div>
                 <a href="./low-navigation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
@@ -397,7 +391,7 @@ CARDS
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" title="Problemas de acessibilidade de formulários">Problemas de acessibilidade de formulários</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre os problemas de acessibilidade do Forms e como usá-lo para melhorar o engajamento no seu site.</p>
+                    <p class="is-size-6">Saiba mais sobre os problemas de acessibilidade de formulários e como usá-los para melhorar o engajamento no seu site.</p>
                 </div>
                 <a href="./forms-accessibility-issues.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>

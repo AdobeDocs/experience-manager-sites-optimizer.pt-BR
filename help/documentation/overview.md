@@ -2,15 +2,12 @@
 title: Documentação do Sites Optimizer
 description: Documentação do Experience Manager Sites Optimizer.
 TQID: https://experienceleague.adobe.com/Thzxo0-DNTCjk9C0MX7OR2yObUKxbUQDQFV3BtD7kmg
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt
 source-wordcount: 145
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +51,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./basics.md" target="_blank" rel="referrer" title="Básico">Noções básicas</a>
+                        <a href="./basics.md" target="_blank" rel="referrer" title="Noções básicas">Noções básicas</a>
                     </p>
                     <p class="is-size-6">Saiba mais sobre as noções básicas do Sites Optimizer e como usá-lo.</p>
                 </div>

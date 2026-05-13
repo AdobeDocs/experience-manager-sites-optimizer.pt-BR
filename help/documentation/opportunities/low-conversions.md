@@ -3,8 +3,10 @@ title: Documentação de oportunidade de poucas conversões
 description: Saiba mais sobre a oportunidade de conversões baixas e como usá-la para melhorar o engajamento dos formulários no seu site.
 badgeFormOptimization: label="Otimização de formulários" type="Caution" url="../../opportunity-types/form-optimization.md" tooltip="Otimização de formulários"
 TQID: https://experienceleague.adobe.com/ZOHmhaQimnoNTBOm-UU5hoyXDzgQLslpoAo4KEEFvmQ
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 hide: true
 source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
 workflow-type: tm+mt

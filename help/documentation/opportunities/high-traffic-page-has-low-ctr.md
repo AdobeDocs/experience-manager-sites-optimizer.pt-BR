@@ -3,8 +3,11 @@ title: Documentação da oportunidade “a página de alto tráfego tem uma baix
 description: Saiba mais sobre a oportunidade “a página de alto tráfego tem uma baixa taxa de cliques” e como usá-la para aumentar o engajamento no seu site.
 badgeEngagement: label="Engajamento" type="Caution" url="../../opportunity-types/engagement.md" tooltip="Engajamento"
 TQID: https://experienceleague.adobe.com/pnOZaaoYn5nIWwc2Qt3Xs-wyCygoRgMEHsD8P0Rq-6U
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e9001ce2-5245-4a8e-8601-dd958009072f
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
 source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
 workflow-type: ht
 source-wordcount: 274

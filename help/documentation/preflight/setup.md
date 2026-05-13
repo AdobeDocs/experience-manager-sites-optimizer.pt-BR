@@ -4,10 +4,10 @@ description: Saiba como configurar a extensão do Preflight para o AEM Sites Opt
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: 252f5292d6dc62711b4ebeb8ce5a2707857fd674
-workflow-type: ht
-source-wordcount: 596
-ht-degree: 100%
+source-git-commit: 511e784d7d484b18942ac4b711df1c802debfec9
+workflow-type: tm+mt
+source-wordcount: 587
+ht-degree: 97%
 
 ---
 
@@ -32,8 +32,8 @@ Para configurar a simulação no Universal Editor, siga estas etapas:
 
 1. Abra o **Extension Manager** em:
    [https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor](https://experience.adobe.com/#/@org/aem/extension-manager/universal-editor)
-1. Localize a **Extensão de simulação do AEM Sites Optimizer** e envie uma solicitação para habilitá-la.
-1. A **equipe do Adobe AEM** analisa e habilita a extensão para sua organização.
+1. Localize a Extensão **AEM Sites Optimizer Preflight**.
+1. O administrador de sistema da organização precisará habilitar essa extensão.
 1. Após habilitar a extensão, abra uma página no **Universal Editor**, como, por exemplo:
    `https://author-p12345-e123456.adobeaemcloud.com/ui#/@org/aem/universal-editor/canvas/author-p12345-e123456.adobeaemcloud.com/content/en/example/home.html`
 1. A **Extensão do Preflight** aparece no **painel lateral**.

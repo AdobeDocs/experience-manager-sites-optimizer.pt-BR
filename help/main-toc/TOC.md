@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Esta é uma descrição do guia do usuário que será exibida na página de destino.
-source-git-commit: 8052c94f778829012f023fe470411dfe77ef46b9
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: d17008c39f231c45a9ba41ca7f0aa96b9878f674
+workflow-type: tm+mt
+source-wordcount: '125'
 ht-degree: 100%
 
 ---
@@ -60,3 +60,4 @@ ht-degree: 100%
          + [Metadados](/help/documentation/preflight/opportunities/meta-data.md)
          + [Legibilidade](/help/documentation/preflight/opportunities/readability.md)
    + [Configurações](/help/documentation/settings.md)
+   + [Notas de versão](/help/documentation/release-notes.md)

@@ -2,8 +2,11 @@
 title: Simulação do AEM Sites Optimizer
 description: Saiba mais sobre Comprovação e as auditorias que ele executa para avaliar a página antes da publicação.
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
 source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
 workflow-type: tm+mt
 source-wordcount: 351

@@ -1,16 +1,17 @@
 ---
-title: Oportunidade de acessibilidade do Preflight
-description: Saiba mais sobre a oportunidade de acessibilidade do Preflight no Sites Optimizer.
-source-git-commit: d0fda0afad66289298e79edd1f84be251433a9f1
-workflow-type: ht
-source-wordcount: '64'
-ht-degree: 100%
+title: Auditorias de acessibilidade de comprovação
+description: Saiba mais sobre as auditorias de acessibilidade que a Comprovação é executada em sua página no AEM Sites Optimizer.
+source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 0%
 
 ---
 
+# Auditorias de acessibilidade
 
-# Oportunidade de simulação de acessibilidade
+![Auditorias de acessibilidade no painel de preparação de Comprovação](./assets/accessibility/hero.png){align="center"}
 
-![Oportunidade de simulação de acessibilidade](./assets/accessibility/hero.png){align="center"}
+A auditoria **Acessibilidade** na Comprovação avalia a página em relação às Diretrizes de Acessibilidade de Conteúdo da Web (WCAG) para ajudar a garantir que a página possa ser usada por todos, incluindo pessoas com deficiência. Quando você executa uma auditoria de Comprovação, ela avalia a página em relação a esses padrões de acessibilidade e agrupa os problemas encontrados em oportunidades que você pode revisar e resolver antes de publicar.
 
-A oportunidade de Acessibilidade da simulação no Sites Optimizer ajuda você a identificar e corrigir problemas de acessibilidade no seu site para garantir que ele seja utilizável por todas as pessoas, incluindo pessoas com deficiência. Essa oportunidade se concentra na avaliação da conformidade do site com os padrões de acessibilidade e fornece recomendações práticas para melhorias.
+No painel de preparação, expanda a categoria **Acessibilidade** para ver se a auditoria foi aprovada e o número de oportunidades encontradas. Selecione a auditoria para abrir sua página de detalhes e trabalhar pelas oportunidades. Cada oportunidade descreve o problema de acessibilidade, sua gravidade e a regra WCAG e o nível de conformidade relacionados, juntamente com o elemento afetado na página. Para saber como interpretar resultados e resolver oportunidades, consulte [Resultados de auditoria em Comprovação](../audit-results.md).

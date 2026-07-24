@@ -1,17 +1,21 @@
 ---
 title: Avaliação do Sites Optimizer
 description: Comece a usar a avaliação do AEM Sites Optimizer para clientes existentes do AEM Sites.
-source-git-commit: 9fae4c52a977c34419037b131d2a70b404511502
-workflow-type: ht
-source-wordcount: '541'
-ht-degree: 100%
+source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
+workflow-type: tm+mt
+source-wordcount: '558'
+ht-degree: 92%
 
 ---
 
 
 # Versão de avaliação do Sites Optimizer
 
-Comece a usar o Sites Optimizer nesta avaliação para clientes existentes do AEM Sites (Edge Delivery Services, Cloud Services e Managed Services). Os dados de domínio já estão pré-integrados, portanto, você pode começar a otimização imediatamente. O vídeo abaixo o orienta durante a experiência de avaliação e mostra como começar.
+Comece a usar a Sites Optimizer nesta avaliação para **clientes atuais da AEM Sites (Edge Delivery Services, Cloud Services e Managed Services)**. Os dados de domínio já estão pré-integrados, portanto, você pode começar a otimização imediatamente. O vídeo abaixo o orienta durante a experiência de avaliação e mostra como começar.
+
+>[!NOTE]
+>
+>No momento, a versão de avaliação do AEM Sites Optimizer não é compatível com sites headless. Para usar a avaliação, integre um site que usa a entrega de front-end do AEM Sites.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483292/?captions=por_br&learn=on&enablevpops)
 
@@ -36,9 +40,9 @@ O seguinte está incluído na versão de avaliação:
 * Três tipos de oportunidade: [backlinks quebrados](./opportunities/broken-backlinks.md), [Core Web Vitals](./opportunities/core-web-vitals.md) e [texto alternativo ausente](./opportunities/missing-alt-text.md).
 * Até três problemas por oportunidade a cada mês.
 * Fluxo de trabalho completo por problema: identificar, sugerir e otimizar automaticamente.
-   * **Identificação automática** — Detecta problemas em todo o site usando várias fontes de dados.
-   * **Sugestão automática** — Fornece recomendações prescritivas geradas por IA para cada problema.
-   * **Otimizar automaticamente** — Após a aprovação, implante correções diretamente no seu ambiente de criação. As atualizações seguem os fluxos de trabalho existentes, permitindo que sua equipe revise e publique por meio do AEM.
+  * **Identificação automática** — Detecta problemas em todo o site usando várias fontes de dados.
+  * **Sugestão automática** — Fornece recomendações prescritivas geradas por IA para cada problema.
+  * **Otimizar automaticamente** — Após a aprovação, implante correções diretamente no seu ambiente de criação. As atualizações seguem os fluxos de trabalho existentes, permitindo que sua equipe revise e publique por meio do AEM.
 
 ## Perguntas frequentes
 
@@ -99,7 +103,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./opportunities/core-web-vitals.md" title="Core Web Vitals" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="../assets/common/card-performance.png" alt="Core Web Vitals"
+                        <img class="is-bordered-r-small" src="../assets/common/card-performance.png" alt="Sinais vitais principais da web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,13 +111,13 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Core Web Vitals">Sinais vitais principais da web</a>
+                        <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" title="Sinais vitais principais da web">Sinais vitais principais da web</a>
                     </p>
-                    <p class="is-size-6">Saiba mais sobre as principais oportunidades do Core Web Vitals e como usá-las para melhorar a aquisição de tráfego.</p>
+                    <p class="is-size-6">Saiba mais sobre as principais oportunidades de sinais vitais principais e como usá-las para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -135,8 +139,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre a oportunidade de texto alternativo ausente e como usá-la para melhorar o engajamento no seu site.</p>
                 </div>
                 <a href="./opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -158,8 +162,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre a oportunidade Backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

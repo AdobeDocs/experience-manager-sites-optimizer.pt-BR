@@ -17,7 +17,7 @@ Comece a usar a Sites Optimizer nesta avaliação para **clientes atuais da AEM 
 >
 >No momento, a versão de avaliação do AEM Sites Optimizer não é compatível com sites headless. Para usar a avaliação, integre um site que usa a entrega de front-end do AEM Sites.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483292/?captions=por_br&learn=on&enablevpops)
 
 >[!TIP]
 >

@@ -1,10 +1,10 @@
 ---
 title: Executar auditorias no Preflight
 description: Saiba como iniciar uma auditoria com o Preflight na sua página.
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+source-git-commit: 9989144c429da97e3ea303c0c8caf5a9b38e2634
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 42%
+source-wordcount: '298'
+ht-degree: 21%
 
 ---
 
@@ -22,3 +22,15 @@ Para executar auditorias com o Preflight em uma página:
 1. Selecione **Analisar página**. A simulação executa todas as suas auditorias na página atual e abre o painel de preparação, onde exibe uma pontuação de preparação e as oportunidades encontradas, agrupadas por categoria.
 
 Para entender os resultados de visualização e identificar oportunidades de otimização, consulte [Resultados de auditoria em Comprovação](./audit-results.md).
+
+## Continuar uma sessão anterior
+
+A comprovação lembra da execução mais recente, de modo que não é necessário executar novamente as auditorias se você sair e voltar.
+
+* Se você reabrir o painel Comprovação na **mesma guia do navegador**, inclusive depois de uma atualização, a Comprovação carregará os resultados da última execução automática.
+* Se você retornar **em uma nova guia ou depois de fechar o navegador**, a tela de aterrissagem mostrará um botão **Continuar última sessão** ao lado de **Analisar página**. Selecione **Continuar última sessão** para recarregar os resultados mais recentes ou selecione **Analisar página** para iniciar uma nova execução.
+
+A comprovação rastreia a execução mais recente separadamente para cada página, portanto, o **Continuar última sessão** sempre recarregará a última execução para a página em que você está.
+
+Quando as auditorias terminarem e os resultados forem exibidos, selecione **Reanalisar** em **Mais ações** (**...**) na barra de ferramentas para descartar os resultados e executar cada auditoria novamente. Consulte [Resultados de auditoria em Comprovação](./audit-results.md#toolbar).
+

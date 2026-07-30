@@ -1,10 +1,10 @@
 ---
 title: Resultados de auditoria na simulação
 description: Saiba como interpretar os resultados da auditoria de Comprovação, o medidor de disponibilidade e as categorias de auditoria, e navegar até oportunidades na visualização.
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+source-git-commit: 9989144c429da97e3ea303c0c8caf5a9b38e2634
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 5%
+source-wordcount: '671'
+ht-degree: 4%
 
 ---
 
@@ -13,13 +13,20 @@ ht-degree: 5%
 
 Quando as auditorias forem concluídas, a Comprovação exibirá os resultados no painel de preparação. O painel mostra um medidor de disponibilidade geral e as oportunidades encontradas, agrupadas por categoria de auditoria. Em cada categoria, as auditorias individuais identificam itens específicos a serem revisados ou corrigidos.
 
+## Barra de ferramentas
+
+A barra de ferramentas na parte superior do painel de preparação fornece ações para a execução atual. As **Mais ações** (**...**) O menu oferece:
+
+* **Reanalisar** - Inicie uma auditoria totalmente nova na página atual. A opção Reanalisar sempre descarta os resultados exibidos e executa cada auditoria novamente, portanto, use-a sempre que desejar novos resultados — por exemplo, após editar a página.
+* **Exportar (CSV)** - Baixe os resultados atuais como um arquivo CSV, incluindo as oportunidades e os metadados da execução de auditoria atual.
+
 ## Medidor de disponibilidade
 
 Na parte superior do painel, o medidor de prontidão reflete os resultados gerais de auditoria. Ela mostra uma pontuação de prontidão como uma porcentagem, com base na proporção de auditorias que terminaram sem oportunidades, juntamente com o número total de oportunidades encontradas em todas as auditorias. O medidor de disponibilidade ajuda a medir a integridade geral da página rapidamente.
 
 ![O medidor de preparação e as categorias de auditoria no painel de Comprovação](./assets/overview/hero.png){align="center"}
 
-Enquanto as auditorias ainda estão em execução, o medidor de disponibilidade mostra uma barra de progresso com um status como **Executando auditorias** ou o número de auditorias ainda em execução. Quando as auditorias forem concluídas, o medidor exibirá a porcentagem final de prontidão e a contagem de oportunidades.
+Enquanto as auditorias ainda estão em execução, o medidor de prontidão mostra uma barra de progresso com um status curto abaixo dela que mostra a etapa atual. Quando as auditorias forem concluídas, o medidor exibirá a porcentagem final de prontidão e a contagem de oportunidades.
 
 ## Categorias de auditoria
 

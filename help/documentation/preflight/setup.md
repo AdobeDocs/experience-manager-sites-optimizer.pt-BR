@@ -120,7 +120,7 @@ Para configurar a simulação para criação baseada em documentos, siga estas e
 
 >[!TAB Editor de páginas do AEM Sites]
 
-Se o ambiente do autor estiver executando o [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) ou posterior, a Comprovação será incorporada ao Editor de páginas do AEM Sites e nenhum bookmarklet será necessário. Siga estas etapas:
+Se o ambiente do autor estiver executando o [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) ou posterior, a Comprovação será incorporada ao Editor de páginas do AEM Sites e nenhum bookmarklet será necessário. Siga estas etapas:
 
 1. Abra a página que deseja auditar no **editor de páginas do AEM Sites**.
 1. Na barra de ferramentas do editor, selecione o ícone **Comprovação** (o botão Reproduzir, destacado abaixo) para abrir o painel Comprovação da página atual.

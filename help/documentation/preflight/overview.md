@@ -20,7 +20,7 @@ ht-degree: 28%
 
 >[!NOTE]
 >
->A partir do [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083), a Comprovação é incorporada à barra de ferramentas do Editor de páginas do AEM Sites. Consulte [Configuração de simulação](./setup.md) para obter detalhes.
+>A partir do [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083), a Comprovação é incorporada à barra de ferramentas do Editor de páginas do AEM Sites. Consulte [Configuração de simulação](./setup.md) para obter detalhes.
 
 A comprovação no AEM Sites Optimizer ajuda a validar e otimizar as páginas antes que elas entrem no ar, analisando o conteúdo e a estrutura e apresentando oportunidades com recomendações acionáveis. Ele foi desenvolvido para autores, profissionais de marketing e desenvolvedores que desejam garantir que as páginas tenham alta qualidade, bom desempenho e estejam prontas para publicação, reduzindo o retrabalho.
 

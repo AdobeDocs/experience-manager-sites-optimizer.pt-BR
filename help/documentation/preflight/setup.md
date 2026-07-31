@@ -2,12 +2,11 @@
 title: Configurações de simulação
 description: Saiba como configurar a Comprovação no AEM Sites Optimizer.
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: 577
-ht-degree: 72%
+source-wordcount: 785
+ht-degree: 52%
 
 ---
 
@@ -120,7 +119,23 @@ Para configurar a simulação para criação baseada em documentos, siga estas e
 
 >[!TAB Editor de páginas do AEM Sites]
 
-Para usar a simulação no editor de páginas do AEM Sites, você pode criar um marcador no seu navegador da web. Siga estas etapas:
+Se o ambiente do autor estiver executando o [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) ou posterior, a Comprovação será incorporada ao Editor de páginas do AEM Sites e nenhum bookmarklet será necessário. Siga estas etapas:
+
+1. Abra a página que deseja auditar no **editor de páginas do AEM Sites**.
+1. Na barra de ferramentas do editor, selecione o ícone **Comprovação** (o botão Reproduzir, destacado abaixo) para abrir o painel Comprovação da página atual.
+
+   ![O ícone de Comprovação na barra de ferramentas do Editor de Páginas do AEM Sites](./assets/setup/toolbar-preflight-button.png){align="center"}
+
+>[!NOTE]
+>
+>Não vê o ícone **Comprovação** na barra de ferramentas? Verifique o seguinte:
+>
+>* **Versão com suporte** — o botão integrado requer o AEM 2026.7.0 (versão 27083) ou posterior. Em versões anteriores, use o método bookmarklet abaixo.
+>* **Implantação** — o botão integrado está sendo habilitado para organizações em estágios, portanto, talvez ele ainda não tenha chegado à sua organização, mesmo em uma versão com suporte. Até que isso aconteça, use o método de bookmarklet abaixo ou entre em contato com a Adobe ou com o administrador.
+>* **Acesso à página** — o botão aparece somente quando você tem acesso de edição à página.
+>* **Acesso do usuário** — Confirme se o **AEM Sites Optimizer - Usuário de Sugestão Automática** ou o **AEM Sites Optimizer - Perfil de Usuário de Otimização Automática** foi atribuído ao seu usuário. Consulte [Habilitar acesso de usuário](#enable-user-access).
+
+Para usar a opção Comprovação no Editor de páginas do AEM Sites em versões anteriores do AEM, você pode criar um bookmarklet no navegador da Web. Siga estas etapas:
 
 1. Exiba a **Barra de Favoritos** no seu navegador da Web:
 

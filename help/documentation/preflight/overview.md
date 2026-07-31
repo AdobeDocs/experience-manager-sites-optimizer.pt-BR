@@ -2,21 +2,22 @@
 title: Simulação do AEM Sites Optimizer
 description: Saiba mais sobre Comprovação e as auditorias que ele executa para avaliar a página antes da publicação.
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: f19dd2eec5cef95f406111d2250ff1101a4fd430
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: 351
-ht-degree: 49%
+source-wordcount: 300
+ht-degree: 28%
 
 ---
 
 # Simulação do AEM Sites Optimizer
 
 ![Painel de preparação de Comprovação](./assets/overview/hero.png){align="center"}
+
+>[!NOTE]
+>
+>A partir do [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083), a Comprovação é incorporada à barra de ferramentas do Editor de páginas do AEM Sites. Consulte [Configuração de simulação](./setup.md) para obter detalhes.
 
 A comprovação no AEM Sites Optimizer ajuda a validar e otimizar as páginas antes que elas entrem no ar, analisando o conteúdo e a estrutura e apresentando oportunidades com recomendações acionáveis. Ele foi desenvolvido para autores, profissionais de marketing e desenvolvedores que desejam garantir que as páginas tenham alta qualidade, bom desempenho e estejam prontas para publicação, reduzindo o retrabalho.
 
@@ -59,8 +60,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre as auditorias de acessibilidade de comprovação no Sites Optimizer.</p>
                 </div>
                 <a href="./opportunities/accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -82,8 +83,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre as auditorias de SEO de comprovação no Sites Optimizer.</p>
                 </div>
                 <a href="./opportunities/seo.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

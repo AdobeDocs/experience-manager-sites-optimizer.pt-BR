@@ -41,6 +41,7 @@ Precisa do servidor MCP `chrome-devtools`, que é **não** confirmado neste repo
      }
    }
    ```
+
 2. Adicionar `.mcp.json` a `.gitignore` (ferramentas pessoais, não compartilhadas).
 3. Em `.claude/settings.local.json`, adicione `"enableAllProjectMcpServers": true` e `"enabledMcpjsonServers": ["chrome-devtools"]`.
 4. Instrua o usuário a reiniciar o Claude Code (ou executar `/mcp`) — os servidores MCP somente são carregados na inicialização; isso não pode ser feito no meio da sessão.

@@ -37,7 +37,7 @@ Referência de sintaxe completa com cada código curto e regra: [reference.md](r
 | Lista de marcadores | `* item` (escolha um de `*`/`-`/`+`, mantenha a consistência) | Linha em branco antes/depois da lista; misturando marcadores = erro de validação |
 | Lista numerada | `1. item` (repetir `1.` a cada linha) | O GitHub renderiza os números reais |
 | Código (em linha) | `` `code` `` | Para nomes de arquivo, comandos, valores, exemplos de URLs não validados |
-| Código (cercado) | ` ```language ` ... ` ``` ` | Sempre especifique um idioma; linha em branco antes/depois; `{line-numbers="true" start-line="n" highlight="n-m"}` opcional |
+| Código (cercado) | ` `&#x200B;``language ` ... ` ``&#x200B;` ` | Sempre especifique um idioma; linha em branco antes/depois; `{line-numbers="true" start-line="n" highlight="n-m"}` opcional |
 | Medalha (em linha) | `[!BADGE Beta]{type=Informative url="..." tooltip="..."}` | `type`: Informativo/Positivo/Negativo/Neutro/Cuidado |
 | Recolhível | `+++Summary` ... `+++` | Não há recolhíveis aninhados; linhas em branco em torno de listas internas/código |
 | Hack de linha em branco | `<br>&nbsp;` em sua própria linha | Linhas em branco extras sem formatação recolhidas/ignoradas pelo renderizador |

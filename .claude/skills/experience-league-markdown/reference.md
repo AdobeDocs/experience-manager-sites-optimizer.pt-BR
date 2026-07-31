@@ -156,17 +156,19 @@ Inline: `` `code` `` — ou envolva em backticks triplos inline se você precisa
 
 Cercado:
 
-````markdown
+&grave;&grave;&grave;&grave;markdown
+
 ```javascript
 var x = 1;
 ```
-````
+
+&grave;&grave;&grave;&grave;
 
 - Sempre especifique um idioma para o realce da sintaxe + o botão Copiar.
 - Linha em branco necessária acima e abaixo do bloco cercado.
-- Números de linha: `` ```html {line-numbers="true"} ``
-- Iniciar numeração em outro lugar: `` ```html {line-numbers="true" start-line="7"} ``
-- Linhas de destaque: `` ```html {line-numbers="true" start-line="7" highlight="11-13, 16"} ``
+- Números de linha: `` ``&#x200B;`html {line-numbers="true"} `&#x200B;&grave;
+- Iniciar numeração em outro lugar: `` ``&#x200B;`html {line-numbers="true" start-line="7"} `&#x200B;&grave;
+- Linhas de destaque: `` ``&#x200B;`html {line-numbers="true" start-line="7" highlight="11-13, 16"} `&#x200B;&grave;
 - O conteúdo do bloco de código nunca é localizado (exceto `!UICONTROL`/`!DNL` tags, que são removidas no momento da publicação).
 - Nenhuma formatação de markdown/HTML (como `<i>`) funciona dentro de blocos de código — use colchetes angulares ou texto sem formatação para espaços reservados.
 

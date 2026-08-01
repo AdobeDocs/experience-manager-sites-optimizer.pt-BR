@@ -1,10 +1,10 @@
 ---
 title: Executar auditorias no Preflight
 description: Saiba como iniciar uma auditoria com o Preflight na sua página.
-source-git-commit: 9989144c429da97e3ea303c0c8caf5a9b38e2634
+source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 21%
+source-wordcount: '366'
+ht-degree: 17%
 
 ---
 
@@ -22,6 +22,12 @@ Para executar auditorias com o Preflight em uma página:
 1. Selecione **Analisar página**. A simulação executa todas as suas auditorias na página atual e abre o painel de preparação, onde exibe uma pontuação de preparação e as oportunidades encontradas, agrupadas por categoria.
 
 Para entender os resultados de visualização e identificar oportunidades de otimização, consulte [Resultados de auditoria em Comprovação](./audit-results.md).
+
+## Usar o botão de comprovação integrado
+
+Se o ambiente do autor estiver executando o [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) ou posterior, a Comprovação será incorporada na barra de ferramentas do Editor de páginas do AEM Sites. Selecione o ícone **Comprovação** (o botão Reproduzir) para abrir o painel da página atual e selecione **Analisar página** para executar as auditorias.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
 
 ## Continuar uma sessão anterior
 

@@ -1,8 +1,8 @@
 ---
 description: Converta as notas de versão internas do ASO sprint no formato do Experience League voltado para o cliente e anexe à página de notas de versão.
-source-git-commit: d17008c39f231c45a9ba41ca7f0aa96b9878f674
+source-git-commit: 5f400c37283d1a3d8285b4d2ac5246761a7275e6
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '1029'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,8 @@ Chame essa habilidade e cole o conteúdo das notas de versão internas quando so
 
 5. **Escopo preciso.** Inclua somente as alterações que um cliente verá na interface do usuário do produto ou na experiência em seus fluxos de trabalho. As alterações na infraestrutura, nas ferramentas e na experiência do desenvolvedor são excluídas.
 
+6. **Sinalizar recursos de Acesso Antecipado.** Se um recurso for enviado por trás de um sinalizador de recurso que esteja desativado por padrão (aceitação por organização/site, por exemplo, via LaunchDarkly `FeatureGate`/`isEnabledByDefault={false}`), anexe `(Early Access)` ao nome do recurso em negrito — espelhando a convenção `(General Availability)` existente usada para recursos graduados. Em caso de dúvida, verifique se o recurso está ativado por padrão para todos os clientes. Caso contrário, será Acesso antecipado. Verifique o sinalizador de recurso padrão no código — não adivinhe.
+
 ### Modelo de estrutura de página
 
 Cada entrada de versão segue esta estrutura:
@@ -54,7 +56,7 @@ Cada entrada de versão segue esta estrutura:
 
 ### New Features
 
-- **[Feature Name]** — [One-sentence benefit statement. One sentence of business context if needed.]
+- **[Feature Name]** — [One-sentence benefit statement. One sentence of business context if needed.] (append `(Early Access)` or `(General Availability)` to the feature name when the feature's availability status is notable)
 
 ### Enhancements
 

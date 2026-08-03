@@ -1,13 +1,11 @@
 ---
 title: Notas de versão
 description: Saiba mais sobre os novos recursos, melhorias e correções de erros mais recentes no Adobe Experience Manager Sites Optimizer.
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: 8e4fe6595fc7e872a00387d92892710c61e8632b
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: c3279d62d56503108a6c28389cfbf14b95cd5a1a
 workflow-type: tm+mt
-source-wordcount: 1775
+source-wordcount: 1803
 ht-degree: 0%
 
 ---
@@ -16,6 +14,8 @@ ht-degree: 0%
 # Notas de versão
 
 Esta página documenta as atualizações mais recentes, os novos recursos e as melhorias no Adobe Experience Manager Sites Optimizer.
+
+Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante solicitação — entre em contato com a equipe de sua conta ou o Engenheiro de sucesso do cliente para habilitá-los para sua organização.
 
 ## 1-19 de julho de 2026
 
@@ -41,7 +41,7 @@ Esta página documenta as atualizações mais recentes, os novos recursos e as m
 
 ### Novos recursos
 
-- **Relatório de Alertas do Site** — Um novo Relatório de Alertas do Site de 90 dias fornece uma exibição trimestral da integridade do site, usando blocos diários codificados por cores para destacar períodos de alertas elevados, de modo que você possa identificar e investigar rapidamente tendências ao longo do tempo.
+- **Relatório de Alertas do Site (Acesso Antecipado)** — Um novo Relatório de Alertas do Site de 90 dias fornece uma visão trimestral da integridade do site, usando blocos diários codificados por cores para destacar períodos de alertas elevados, de modo que você possa identificar e investigar rapidamente tendências ao longo do tempo.
 - **Integração de Telemetria Operacional** — Os sites que ainda não conectaram dados de telemetria operacional agora recebem um banner persistente na página inicial e uma caixa de diálogo de integração guiada para concluir a configuração, garantindo que você obtenha visibilidade total do desempenho real do usuário.
 - **Texto Alternativo: Reconhecimento do Gerenciador de Vários Sites** — Ao gerar correções de Texto Alternativo para sites que usam o Gerenciador de Vários Sites do AEM ou a Cópia de Idioma, a Sites Optimizer agora verifica se as correções podem ser aplicadas com segurança a cada variante de idioma antes de sugerir essas correções.
 
@@ -78,7 +78,7 @@ Esta página documenta as atualizações mais recentes, os novos recursos e as m
 - **Integração de avaliações** — novos usuários de avaliação agora passam por um fluxo de configuração guiado: insira seu domínio, aguarde a análise e, em seguida, explore suas primeiras oportunidades — nenhuma configuração é necessária para começar.
 - **Página de Oportunidades de Avaliação** — Os usuários de avaliação podem pesquisar, classificar e filtrar oportunidades, com três sugestões desbloqueadas e sugestões restantes exibidas em uma visualização bloqueada com um prompt de atualização.
 - **Progresso Mensal da Otimização** — Uma barra de progresso na página inicial rastreia quantas ações de otimização você executou este mês, ajudando você a se manter atualizado em relação às metas de integridade do site.
-- **URLs de Destino de Auditoria** — Em Configurações, você pode especificar até 100 URLs personalizados para garantir que essas páginas sejam sempre incluídas nas auditorias.
+- **URLs de Destino de Auditoria (Acesso Antecipado)** — Em Configurações, você pode especificar até 100 URLs personalizados para garantir que essas páginas sejam sempre incluídas nas auditorias.
 - **Configuração do tipo de entrega** — As configurações agora permitem que você especifique o tipo de entrega do seu site (Edge Delivery Services, AEM Cloud Service ou AEM Managed Services) e conecte seu provedor de conteúdo.
 - **Redesign do Core Web Vitals** — A oportunidade do Core Web Vitals foi reprojetada com links Jira, download de CSV e suporte a várias seleções para ações em lote.
 - **Tabela Unificada de Backlinks Quebrados** — Backlinks quebrados de todas as origens agora são mostrados em uma única tabela unificada, com a capacidade de exportar regras de redirecionamento CDN diretamente.
@@ -124,7 +124,7 @@ Esta página documenta as atualizações mais recentes, os novos recursos e as m
 - **Modo de manutenção** — o Sites Optimizer agora lida com janelas de manutenção planejadas normalmente, exibindo uma mensagem de status clara em vez de dados incompletos ou enganosos durante o tempo de inatividade.
 - **Modo de Exibição Implantado de Backlinks Quebrados** — Os backlinks fixos agora são rastreados em uma guia Implantado, agrupados por data para que você possa ver seu histórico de correções rapidamente.
 - **Nenhuma CTA Acima da Oportunidade de Dobra** — Um novo tipo de oportunidade exibe páginas em que nenhuma call-to-action clara está visível acima da dobra, ajudando você a identificar e melhorar páginas com baixo potencial de conversão.
-- **Integração do Jira para Acessibilidade e Contraste de Cores** — as oportunidades de acessibilidade do Forms e do Contraste de Cores agora podem ser vinculadas diretamente aos tíquetes do Jira para um rastreamento simplificado de problemas no seu fluxo de trabalho existente.
+- **Integração do Jira para Acessibilidade e Contraste de Cores (Acesso Antecipado)** — As oportunidades de acessibilidade do Forms e do Contraste de Cores agora podem ser vinculadas diretamente aos tíquetes do Jira para um rastreamento simplificado de problemas no seu fluxo de trabalho existente.
 
 ### Aprimoramentos
 

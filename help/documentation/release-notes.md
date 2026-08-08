@@ -1,13 +1,11 @@
 ---
 title: Notas de versão
 description: Saiba mais sobre os novos recursos, melhorias e correções de erros mais recentes no Adobe Experience Manager Sites Optimizer.
-product_v2:
-  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2:
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: c3279d62d56503108a6c28389cfbf14b95cd5a1a
+product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 9af59e18de7ce016778f25d4add450b50e0b1fde
 workflow-type: tm+mt
-source-wordcount: 1803
+source-wordcount: 1805
 ht-degree: 0%
 
 ---
@@ -23,7 +21,7 @@ Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante s
 
 ### Novos recursos
 
-- **Gerenciamento de Permissões** — Os usuários com o recurso Gerenciar usuários agora podem controlar o acesso ao site a partir de uma nova guia Permissões — pesquisar pessoas por nome ou email e conceder ou revogar recursos específicos. As ações que um usuário não tem permissão para executar aparecem desabilitadas com uma dica de ferramenta que explica como solicitar acesso.
+- **Gerenciamento de Permissões (Acesso Antecipado)** — Os usuários com o recurso Gerenciar usuários agora podem controlar o acesso ao site a partir de uma nova guia Permissões — pesquisar pessoas por nome ou email e conceder ou revogar recursos específicos. As ações que um usuário não tem permissão para executar aparecem desabilitadas com uma dica de ferramenta que explica como solicitar acesso.
 - **Emblemas de Status de Implantação** — As correções marcadas como implantadas manualmente agora exibem um emblema distinto &quot;Marcado como implantado&quot; na exibição Implantado, facilitando a diferenciação entre atualizações manuais e implantações automáticas.
 
 ### Aprimoramentos

@@ -1,8 +1,10 @@
 ---
 title: Implantação da documentação do autor
 description: Saiba como o AEM Sites Optimizer implanta otimizações selecionadas no ambiente de criação e como rastreá-las posteriormente.
-product_v2: id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
 source-git-commit: 1d55c607aab6c820d014b9a57bfae20b8170c672
 workflow-type: tm+mt
 source-wordcount: 245

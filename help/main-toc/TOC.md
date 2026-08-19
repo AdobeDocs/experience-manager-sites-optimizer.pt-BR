@@ -2,9 +2,9 @@
 user-guide-title: Experience Manager Sites Optimizer
 breadcrumb-title: AEM Sites Optimizer
 user-guide-description: Esta é uma descrição do guia do usuário que será exibida na página de destino.
-source-git-commit: a86d83ee226055e6401b13fd421b40d449b96fa8
+source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 95%
 
 ---
@@ -53,19 +53,20 @@ ht-degree: 95%
     + [Visão geral](/help/documentation/preflight/overview.md)
     + [Configurar](/help/documentation/preflight/setup.md)
     + [Acessar o Preflight](/help/documentation/preflight/access-preflight.md)
-    + [Auditorias](/help/documentation/preflight/audits.md)
-    + [Resultados da auditoria](/help/documentation/preflight/audit-results.md)
-    + Categorias de auditoria{#preflight-opportunities}
-      + [Acessibilidade](/help/documentation/preflight/opportunities/accessibility.md)
-      + SEO{#preflight-seo}
-        + [Visão geral](/help/documentation/preflight/opportunities/seo.md)
-        + [Metatags](/help/documentation/preflight/opportunities/seo/metatags.md)
-        + [Cabeçalhos](/help/documentation/preflight/opportunities/seo/headings.md)
-        + [Contagem H1](/help/documentation/preflight/opportunities/seo/h1-count.md)
-        + [Links](/help/documentation/preflight/opportunities/seo/links.md)
-        + [Legibilidade](/help/documentation/preflight/opportunities/seo/readability.md)
-        + [Canônico](/help/documentation/preflight/opportunities/seo/canonical.md)
-        + [Tamanho do corpo](/help/documentation/preflight/opportunities/seo/body-size.md)
-        + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
+    + Auditorias{#preflight-audits}
+      + [Visão geral](/help/documentation/preflight/audits.md)
+      + [Resultados da auditoria](/help/documentation/preflight/audit-results.md)
+      + Categorias de auditoria{#preflight-opportunities}
+        + [Acessibilidade](/help/documentation/preflight/opportunities/accessibility.md)
+        + SEO{#preflight-seo}
+          + [Visão geral](/help/documentation/preflight/opportunities/seo.md)
+          + [Metatags](/help/documentation/preflight/opportunities/seo/metatags.md)
+          + [Cabeçalhos](/help/documentation/preflight/opportunities/seo/headings.md)
+          + [Contagem H1](/help/documentation/preflight/opportunities/seo/h1-count.md)
+          + [Links](/help/documentation/preflight/opportunities/seo/links.md)
+          + [Legibilidade](/help/documentation/preflight/opportunities/seo/readability.md)
+          + [Canônico](/help/documentation/preflight/opportunities/seo/canonical.md)
+          + [Tamanho do corpo](/help/documentation/preflight/opportunities/seo/body-size.md)
+          + [Lorem ipsum](/help/documentation/preflight/opportunities/seo/lorem-ipsum.md)
   + [Configurações](/help/documentation/settings.md)
   + [Notas de versão](/help/documentation/release-notes.md)

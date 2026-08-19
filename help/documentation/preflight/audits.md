@@ -1,10 +1,10 @@
 ---
 title: Executar auditorias no Preflight
 description: Saiba como iniciar uma auditoria com o Preflight na sua página.
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 17%
+source-wordcount: '422'
+ht-degree: 14%
 
 ---
 
@@ -25,7 +25,7 @@ Para entender os resultados de visualização e identificar oportunidades de oti
 
 ## Usar o botão de comprovação integrado
 
-Se o ambiente do autor estiver executando o [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) ou posterior, a Comprovação será incorporada na barra de ferramentas do Editor de páginas do AEM Sites. Selecione o ícone **Comprovação** (o botão Reproduzir) para abrir o painel da página atual e selecione **Analisar página** para executar as auditorias.
+Se o ambiente do autor estiver executando o [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) ou posterior, a Comprovação será incorporada na barra de ferramentas do Editor de páginas do AEM Sites. Selecione o ícone **Comprovação** (o botão Reproduzir) para abrir o painel da página atual e selecione **Analisar página** para executar as auditorias.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
 
@@ -37,6 +37,8 @@ A comprovação lembra da execução mais recente, de modo que não é necessár
 * Se você retornar **em uma nova guia ou depois de fechar o navegador**, a tela de aterrissagem mostrará um botão **Continuar última sessão** ao lado de **Analisar página**. Selecione **Continuar última sessão** para recarregar os resultados mais recentes ou selecione **Analisar página** para iniciar uma nova execução.
 
 A comprovação rastreia a execução mais recente separadamente para cada página, portanto, o **Continuar última sessão** sempre recarregará a última execução para a página em que você está.
+
+Quando você recarregar uma execução anterior, o cabeçalho mostrará há quanto tempo essa execução foi executada (por exemplo, *2 minutos atrás* ou *ontem*) para que você possa ter uma ideia geral da atualidade dos resultados. O rótulo é atualizado conforme o tempo passa e permanece visível à medida que você se move entre o painel de preparação e as páginas de detalhes de auditoria.
 
 Quando as auditorias terminarem e os resultados forem exibidos, selecione **Reanalisar** em **Mais ações** (**...**) na barra de ferramentas para descartar os resultados e executar cada auditoria novamente. Consulte [Resultados de auditoria em Comprovação](./audit-results.md#toolbar).
 

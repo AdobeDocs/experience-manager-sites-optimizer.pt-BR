@@ -25,7 +25,7 @@ Para entender os resultados de visualização e identificar oportunidades de oti
 
 ## Usar o botão de comprovação integrado
 
-Se o ambiente do autor estiver executando o [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) ou posterior, a Comprovação será incorporada na barra de ferramentas do Editor de páginas do AEM Sites. Selecione o ícone **Comprovação** (o botão Reproduzir) para abrir o painel da página atual e selecione **Analisar página** para executar as auditorias.
+Se o ambiente do autor estiver executando o [AEM 2026.7.0 (versão 27083)](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-27083) ou posterior, a Comprovação será incorporada na barra de ferramentas do Editor de páginas do AEM Sites. Selecione o ícone **Comprovação** (o botão Reproduzir) para abrir o painel da página atual e selecione **Analisar página** para executar as auditorias.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496629?learn=on&enablevpops)
 

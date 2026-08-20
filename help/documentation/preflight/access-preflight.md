@@ -1,10 +1,10 @@
 ---
 title: Acessar o Preflight
 description: Descubra onde o Preflight aparece no seu ambiente de criação.
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 17%
+source-wordcount: '152'
+ht-degree: 18%
 
 ---
 
@@ -15,7 +15,7 @@ A Comprovação está disponível nos ambientes de criação do AEM Sites, inclu
 
 * **Editor universal** – A extensão do Preflight aparece no **painel lateral**. Selecione-a para abrir o painel &#39;Comprovação&#39;.
 * **Criação baseada em documentos** - Abra o painel Comprovação no Sidekick ou em um bookmarklet no conteúdo da página visualizada.
-* **Editor de páginas do AEM Sites** - No AEM 2026.7.0 (versão 27083) ou posterior, selecione o ícone **Comprovação** na barra de ferramentas do editor para abrir o painel Comprovação. Em versões anteriores, use o bookmarklet Comprovação no navegador.
+* **Editor de páginas do AEM Sites** - Selecione o ícone **Comprovação** na barra de ferramentas do editor para abrir o painel Comprovação. Se o ícone não estiver disponível, use o bookmarklet de Comprovação no navegador.
 
 Depois que o painel for aberto, selecione **Analisar página** para iniciar uma auditoria da página atual.
 

@@ -4,10 +4,10 @@ description: Saiba como configurar a Comprovação no AEM Sites Optimizer.
 TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8ObcY
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
 workflow-type: tm+mt
-source-wordcount: 785
-ht-degree: 52%
+source-wordcount: 896
+ht-degree: 47%
 
 ---
 
@@ -138,7 +138,7 @@ Se o ambiente do autor estiver executando o [AEM 2026.7.0 (versão 27083)](https
 
 Para usar a opção Comprovação no Editor de páginas do AEM Sites em versões anteriores do AEM, você pode criar um bookmarklet no navegador da Web. Siga estas etapas:
 
-1. Exiba a **Barra de Favoritos** no seu navegador da Web:
+1. Exiba a **Barra de marcadores** do seu navegador da web:
 
    * Pressione **Ctrl+Shift+B** (Windows) ou **Cmd+Shift+B** (Mac).
 
@@ -161,7 +161,18 @@ Para usar a opção Comprovação no Editor de páginas do AEM Sites em versões
 >
 >Somente os ambientes do Adobe Managed Services (AMS) que usam o Provedor de identidade (IMS) da Adobe para autenticação no AEM Author são compatíveis. O Preflight não funcionará se sua organização usar qualquer outro provedor de identidade para autenticação AMS.
 
-Para usar a comprovação no Editor de páginas do AEM Sites em um ambiente do AMS, crie um bookmarklet no navegador da Web, seguindo estas etapas:
+Quando a Comprovação é criada na barra de ferramentas do Editor de páginas do AEM Sites, nenhum bookmarklet é necessário. Entre em contato com a Adobe para instalá-la em sua organização. Após a instalação, siga estas etapas:
+
+1. Abra a página que deseja auditar no **editor de páginas do AEM Sites**.
+1. Na barra de ferramentas do editor, selecione o ícone **Comprovação** (o botão Reproduzir, destacado abaixo) para abrir o painel Comprovação da página atual.
+
+   ![O ícone de Comprovação na barra de ferramentas do Editor de Páginas do AEM Sites](./assets/setup/toolbar-preflight-button.png){align="center"}
+
+>[!NOTE]
+>
+>Não vê o ícone **Comprovação** na barra de ferramentas? O botão integrado pode ainda não estar instalado para a sua organização. Entre em contato com o Adobe para instalá-lo ou use o método de bookmarklet abaixo.
+
+Para usar a comprovação no Editor de páginas do AEM Sites em um ambiente AMS sem o ícone da barra de ferramentas, crie um bookmarklet no navegador da Web, seguindo estas etapas:
 
 1. Exiba a **Barra de marcadores** do seu navegador da web:
 

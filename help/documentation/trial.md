@@ -1,10 +1,10 @@
 ---
 title: Avaliação do Sites Optimizer
 description: Comece a usar a avaliação do AEM Sites Optimizer para clientes existentes do AEM Sites.
-source-git-commit: 225f039d88627a88b8c3989f963d5602cbaaab57
+source-git-commit: da39fb8ccf51e24f5f5eb1bac33e51ecd959874a
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 92%
+source-wordcount: '728'
+ht-degree: 89%
 
 ---
 
@@ -13,11 +13,16 @@ ht-degree: 92%
 
 Comece a usar a Sites Optimizer nesta avaliação para **clientes atuais da AEM Sites (Edge Delivery Services, Cloud Services e Managed Services)**. Os dados de domínio já estão pré-integrados, portanto, você pode começar a otimização imediatamente. O vídeo abaixo o orienta durante a experiência de avaliação e mostra como começar.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->No momento, a versão de avaliação do AEM Sites Optimizer não é compatível com sites headless. Para usar a avaliação, integre um site que usa a entrega de front-end do AEM Sites.
+>Antes de começar, verifique se o site atende aos seguintes requisitos:
+>
+>* Ele é criado no AEM Sites (Edge Delivery Services, Cloud Service ou Managed Services).
+>* É um site de produção, não um ambiente de desenvolvimento, controle de qualidade, preparo, autor ou visualização.
+>* Ele é acessível publicamente e não por trás de um logon.
+>* Ele usa a entrega de front-end do AEM Sites. No momento, a entrega headless não é compatível.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483292/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -116,8 +121,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre as principais oportunidades de sinais vitais principais e como usá-las para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./opportunities/core-web-vitals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -139,8 +144,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre a oportunidade de texto alternativo ausente e como usá-la para melhorar o engajamento no seu site.</p>
                 </div>
                 <a href="./opportunities/missing-alt-text.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -162,8 +167,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre a oportunidade Backlinks corrompidos e como usá-la para melhorar a aquisição de tráfego.</p>
                 </div>
                 <a href="./opportunities/broken-backlinks.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

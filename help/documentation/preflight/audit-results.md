@@ -1,9 +1,9 @@
 ---
 title: Resultados de auditoria na simulação
 description: Saiba como interpretar os resultados da auditoria de Comprovação, o medidor de disponibilidade e as categorias de auditoria, e navegar até oportunidades na visualização.
-source-git-commit: 7224badecd83652a0971f669e23ff325b26892f3
+source-git-commit: 56a56991a262d9f19a228dc9ca6ec440acdc2999
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '1009'
 ht-degree: 3%
 
 ---
@@ -57,7 +57,7 @@ Cada oportunidade inclui:
 
 * Um selo de gravidade ou impacto que indica a importância da oportunidade.
 * Detalhes sobre a oportunidade, como uma descrição do problema, uma recomendação e, para acessibilidade, a regra WCAG relacionada e o nível de conformidade.
-* Uma seção **Elemento** que identifica o elemento afetado na página, com um botão **Realce na página**. Quando o elemento tem texto legível, a seção é denominada **Elemento: Texto** e mostra esse texto, o que facilita o reconhecimento do elemento; selecione **Ver mais** para expandir o texto longo. Quando o elemento não tem texto legível (por exemplo, um link somente de ícone), a seção é denominada **Elemento: Seletor** e mostra o seletor CSS do elemento. Para copiar o valor, selecione o ícone de cópia no modo seletor ou abra **Mais ações** (**...**) menu no modo texto e escolha **Copiar texto** ou **Copiar seletor**.
+* Uma seção **Elemento** que identifica o elemento afetado na página, com um botão **Realce na página**. Quando o elemento tem texto legível, a seção é denominada **Elemento: Texto** e mostra esse texto; caso contrário, ela é denominada **Elemento: Seletor** e mostra o seletor de CSS do elemento. Para oportunidades de **Links** e **Canônicos**, uma seção **URL Atual** também mostra a URL envolvida, que você pode abrir em uma nova guia, se possível.
 * Uma seção **Sugestão** com uma correção recomendada. Quando a sugestão é gerada pela IA, ela é marcada como uma sugestão gerada pela IA e pode incluir um breve raciocínio explicando a correção sugerida.
 
 ## Realçar na página
@@ -69,6 +69,12 @@ A comprovação destaca o elemento afetado no contexto, conectando o resultado n
 1. Abra o painel Comprovação no contexto da página para auditar e selecione **Analisar página** para executar as auditorias.
 1. Selecione uma auditoria no painel de preparação e, em seguida, selecione uma oportunidade para revisar.
 1. Selecione **Destaque na página**. A visualização rola automaticamente para a área relevante e realça o elemento correspondente, para que você possa identificar e otimizar facilmente a oportunidade no contexto.
+
+O realce não é possível para todas as oportunidades — por exemplo, quando uma oportunidade não está vinculada a um elemento específico, o elemento é oculto ou não está mais na página. Nesses casos, o botão **Realçar na página** está esmaecido; passe o mouse sobre ele para ver o motivo.
+
+No Editor Universal, o realce ainda não é suportado para as oportunidades de **Acessibilidade**; o botão **Realçar na página** fica esmaecido e você pode passar o mouse sobre ele para ver o motivo.
+
+No Editor de páginas do AEM Sites e no Adobe Managed Services (AMS), o realce também requer o **modo de Edição**. No **Modo de visualização**, a Comprovação mostra um aviso de **Problemas de destaque não disponíveis**; alterne para o **Modo de edição** para destacar elementos na página.
 
 ## ID da tarefa
 

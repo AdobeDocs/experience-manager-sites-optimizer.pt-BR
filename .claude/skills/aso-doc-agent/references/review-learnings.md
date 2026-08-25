@@ -42,7 +42,7 @@ não generalize para rascunhos futuros, portanto, uma entrada durável seria ape
 Entradas mais recentes na parte superior. Se uma lição posterior substituir ou restringir uma lição anterior, edite
 a entrada anterior para observar que em vez de deixar duas regras conflitantes no arquivo.
 
----
+&#x200B;---
 
 Nenhuma entrada ainda — este arquivo recebe sua primeira entrada na primeira vez que um humano solicita alterações
 em uma das relações públicas desse agente.

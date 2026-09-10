@@ -22,7 +22,7 @@ Comece a usar a Sites Optimizer nesta avaliação para **clientes atuais da AEM 
 >* Ele é acessível publicamente e não por trás de um logon.
 >* Ele usa a entrega de front-end do AEM Sites. No momento, a entrega headless não é compatível.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483292/?captions=por_br&learn=on&enablevpops)
 
 >[!TIP]
 >

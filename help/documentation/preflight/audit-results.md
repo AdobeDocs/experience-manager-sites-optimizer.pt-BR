@@ -1,13 +1,11 @@
 ---
 title: Resultados de auditoria na simulação
 description: Saiba como interpretar os resultados da auditoria de Comprovação, o medidor de disponibilidade e as categorias de auditoria, e navegar até oportunidades na visualização.
-source-git-commit: 56a56991a262d9f19a228dc9ca6ec440acdc2999
+source-git-commit: dd2637e61e15a6b8364456ae7d11717a0b81ad09
 workflow-type: tm+mt
-source-wordcount: '1009'
-ht-degree: 3%
-
+source-wordcount: '1066'
+ht-degree: 2%
 ---
-
 
 # Resultados de auditoria na simulação
 
@@ -73,6 +71,8 @@ A comprovação destaca o elemento afetado no contexto, conectando o resultado n
 O realce não é possível para todas as oportunidades — por exemplo, quando uma oportunidade não está vinculada a um elemento específico, o elemento é oculto ou não está mais na página. Nesses casos, o botão **Realçar na página** está esmaecido; passe o mouse sobre ele para ver o motivo.
 
 No Editor Universal, o realce ainda não é suportado para as oportunidades de **Acessibilidade**; o botão **Realçar na página** fica esmaecido e você pode passar o mouse sobre ele para ver o motivo.
+
+No Editor universal, a simulação só pode realçar o conteúdo editável. Se o elemento afetado não fizer parte do conteúdo editável, o botão **Realçar na página** ficará esmaecido; passe o mouse sobre ele para ver o motivo. Se o elemento em si não for diretamente editável, mas o bloco editável mais próximo for, o Preflight realçará esse bloco e adicionará uma nota explicando o porquê.
 
 No Editor de páginas do AEM Sites e no Adobe Managed Services (AMS), o realce também requer o **modo de Edição**. No **Modo de visualização**, a Comprovação mostra um aviso de **Problemas de destaque não disponíveis**; alterne para o **Modo de edição** para destacar elementos na página.
 

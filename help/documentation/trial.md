@@ -1,13 +1,11 @@
 ---
 title: Avaliação do Sites Optimizer
 description: Comece a usar a avaliação do AEM Sites Optimizer para clientes existentes do AEM Sites.
-source-git-commit: 5bd55dcc380f0721fb9818413207c22e21e8299b
+source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
 workflow-type: tm+mt
-source-wordcount: '1102'
-ht-degree: 59%
-
+source-wordcount: '1481'
+ht-degree: 45%
 ---
-
 
 # Versão de avaliação do Sites Optimizer
 
@@ -22,7 +20,7 @@ Comece a usar a Sites Optimizer nesta avaliação para **clientes atuais da AEM 
 >* Ele é acessível publicamente e não por trás de um logon.
 >* Ele usa a entrega de front-end do AEM Sites. No momento, a entrega headless não é compatível.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483292/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -48,6 +46,25 @@ O seguinte está incluído na versão de avaliação:
   * **Identificação automática** — Detecta problemas em todo o site usando várias fontes de dados.
   * **Sugestão automática** — Fornece recomendações prescritivas geradas por IA para cada problema.
   * **Otimizar automaticamente** — Após a aprovação, implante correções diretamente no seu ambiente de criação. As atualizações seguem os fluxos de trabalho existentes, permitindo que sua equipe revise e publique por meio do AEM.
+
+## Permitir que o Sites Optimizer acesse seu site
+
+A Sites Optimizer verifica seu site para identificar oportunidades de otimização. Se o site estiver protegido por um firewall, uma rede de entrega de conteúdo (CDN) ou outra configuração de segurança que bloqueie clientes não reconhecidos, o mecanismo de varredura não poderá acessar suas páginas. Quando isso acontece, a integração mostra uma mensagem de **Ação necessária** de que a Sites Optimizer não pode acessar seu site e a verificação será pausada até que você permita o acesso.
+
+![Caixa de diálogo de integração informando que o Sites Optimizer não pode acessar o site, listando os endereços IP do usuário-agente e do verificador a serem incluídos na lista de permissões, cada um com um botão Copiar e um botão Atualizar para verificar novamente o acesso](./assets/trial/ip-allowlist-action-required.png){align="center"}
+
+Para permitir que o mecanismo de varredura seja executado, inclua na lista de permissões ambos os itens a seguir no firewall, no provedor de hospedagem ou na configuração de segurança. Para sites do AEM Cloud Service, adicione uma regra de permissão para o verificador às suas [regras de filtro de tráfego da CDN](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf) no Cloud Manager, que podem corresponder ao usuário-agente e ao endereço IP. Se você restringir o acesso usando o [Cloud Manager IP lista de permissões](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction), adicione também os endereços IP do verificador à lista de permissões aplicada.
+
+* **User-Agent** — O verificador identifica-se com um User-Agent que contém o token `Spacecat/1.0`. Inclua na lista de permissões esse token, idealmente como uma correspondência &quot;contém&quot;, para que ele continue funcionando mesmo se a sequência completa de usuário-agente for alterada.
+* **Endereços IP do verificador** — Inclua na lista de permissões os endereços IP de saída do verificador.
+
+A tela de integração exibe o usuário-agente e os endereços IP exatos para incluir na lista de permissões, cada um com um botão **Copiar**, para que você possa copiar os valores atuais diretamente na sua configuração.
+
+Depois de incluir na lista de permissões do verificador, selecione **Atualizar** na tela de integração. Quando o acesso for concedido, a digitalização será retomada automaticamente e aparecerá em suas oportunidades de otimização.
+
+>[!NOTE]
+>
+>Esses endereços IP são usados apenas para analisar o site. Incluir na lista de permissões os dados não concede nenhum outro acesso.
 
 ## Ativar correção automática para sites de avaliação do Edge Delivery
 
@@ -129,6 +146,11 @@ Sair e entrar novamente — a associação de grupo é lida quando você entra. 
 +++O requisito do grupo ASO-EDS-Autofix-Users se aplica a todos os sites da Edge Delivery Services?
 
 Não. Isso se aplica somente aos sites de avaliação criados no **Google Drive** ou **SharePoint**. Os sites criados em **Crosswalk** ou **Dark Alley** e todos os sites **pagos** não são afetados.
+
++++
++++O Sites Optimizer informa que não pode acessar meu site. O que devo fazer?
+
+Seu site provavelmente está atrás de uma configuração de firewall, CDN ou segurança que bloqueia o verificador. Inclua na lista de permissões o User-Agent (o token `Spacecat/1.0`) e os endereços IP do verificador na sua configuração de segurança ou, para sites do AEM Cloud Service, nas listas de permissões de CDN do Cloud Manager. Em seguida, selecione **Atualizar**. Consulte [Permitir que o Sites Optimizer acesse seu site](#allow-sites-optimizer-to-access-your-site).
 
 +++
 

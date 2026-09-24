@@ -4,21 +4,22 @@ description: Documentação do Experience Manager Sites Optimizer.
 TQID: https://experienceleague.adobe.com/Thzxo0-DNTCjk9C0MX7OR2yObUKxbUQDQFV3BtD7kmg
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 84a1ae98d67bc02ab272131194511efbeccab492
-workflow-type: ht
-source-wordcount: 145
-ht-degree: 100%
-
+    internal-label: Insights
+source-git-commit: 192371b0c731dc7b27b6296d9ef0fcc753b059fe
+workflow-type: tm+mt
+source-wordcount: '307'
+ht-degree: 94%
 ---
-
 # Documentação do Sites Optimizer
 
 ![Sites Optimizer](./assets/overview/hero.png){align="center"}
 
-Damos as boas-vindas à documentação do Sites Optimizer. Você encontrará aqui informações sobre como usar o Sites Optimizer para otimizar os seus sites do AEM.
+Damos as boas-vindas à documentação do Sites Optimizer. Aqui você encontrará informações sobre como usar o Sites Optimizer para otimizar seus sites do AEM.
 
 ## Noções básicas do Site Optimizer
 

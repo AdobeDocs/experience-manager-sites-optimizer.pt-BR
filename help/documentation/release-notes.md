@@ -3,21 +3,48 @@ title: Notas de versão
 description: Saiba mais sobre os novos recursos, melhorias e correções de erros mais recentes no Adobe Experience Manager Sites Optimizer.
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: 9af59e18de7ce016778f25d4add450b50e0b1fde
+    internal-label: Optimization
+source-git-commit: 42f44053eae27ad9068c1a34fc19288f59e77b7e
 workflow-type: tm+mt
-source-wordcount: 1805
+source-wordcount: '2120'
 ht-degree: 0%
-
 ---
-
 
 # Notas de versão
 
 Esta página documenta as atualizações mais recentes, os novos recursos e as melhorias no Adobe Experience Manager Sites Optimizer.
 
 Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante solicitação — entre em contato com a equipe de sua conta ou o Engenheiro de sucesso do cliente para habilitá-los para sua organização.
+
+## 20-27 de agosto de 2026
+
+### Novos recursos
+
+- **Exibição de Alertas** — Revise um cronograma de 90 dias de incidentes de integridade do site detectados automaticamente, correlacione alterações com implantações e atualizações de conteúdo e inspecione páginas e métricas de desempenho afetadas em um único local.
+- **Reports and Wins** — use a seção Reports para analisar o histórico de otimização, as tendências de desempenho e os wins anteriores e posteriores que ajudam a comunicar o impacto do seu trabalho de otimização.
+- **Novidades e Central de Ajuda** — Descubra os recursos recém-lançados, abra a documentação do produto e acesse as notas de versão diretamente da Central de Ajuda no aplicativo.
+- **Conexão do Google Ads (Acesso antecipado)** — Conecte uma conta do Google Ads para trazer dados de desempenho do tráfego pago para oportunidades e recomendações do Sites Optimizer.
+
+### Aprimoramentos
+
+- **Controles de Lista de Oportunidades** — Filtre e classifique oportunidades por URL, status com estrelas, prioridade ou recenticidade, salve exibições na URL para compartilhamento e exporte dados de sugestão para CSV.
+- **Controles de Fluxo de Trabalho de Sugestão** — Edite as sugestões geradas pela IA antes da implantação, ignore as sugestões individuais, ignore as oportunidades completas e restaure as oportunidades ignoradas quando elas se tornarem relevantes novamente.
+- **Histórico de Implantação** — Analise o histórico de implantação por data, diferencie implantações automáticas de alterações marcadas como implantadas manualmente e siga os links de solicitação de pull para correções baseadas em código.
+- **Integrações de marca e Slack** — Selecione uma marca Adobe GenStudio para gerar conteúdo sobre a marca e compartilhe atualizações de otimização relevantes com um canal do Slack configurado.
+
+## 6-19 de agosto de 2026
+
+### Novos recursos
+
+- **Comprovação no Editor de páginas do AEM Sites** — se o ambiente de criação executar o AEM 2026.7.0 ou posterior, você poderá abrir a Comprovação diretamente na barra de ferramentas do Editor de páginas para analisar a página atual sem sair do fluxo de trabalho de criação.
+- **Opções de Exportação de Comprovação** — Exporte os resultados da Comprovação como um CSV ou PDF, com opções para incluir metadados de execução e auditorias que passaram, facilitando o compartilhamento das descobertas e o rastreamento da preparação.
+
+### Aprimoramentos
+
+- **Detalhes da Sessão de Comprovação** — Quando você continua uma sessão de auditoria anterior, a Comprovação mostra quando a execução foi executada e facilita a identificação dos elementos afetados ao exibir texto legível ou um seletor de CSS.
 
 ## 1-19 de julho de 2026
 

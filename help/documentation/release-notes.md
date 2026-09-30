@@ -7,10 +7,10 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 42f44053eae27ad9068c1a34fc19288f59e77b7e
+source-git-commit: 5399b579133dc11cd8a8154b55467b8bc5291b4d
 workflow-type: tm+mt
-source-wordcount: '2120'
-ht-degree: 0%
+source-wordcount: '2510'
+ht-degree: 1%
 ---
 
 # Notas de versão
@@ -18,6 +18,72 @@ ht-degree: 0%
 Esta página documenta as atualizações mais recentes, os novos recursos e as melhorias no Adobe Experience Manager Sites Optimizer.
 
 Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante solicitação — entre em contato com a equipe de sua conta ou o Engenheiro de sucesso do cliente para habilitá-los para sua organização.
+
+## 28-29 de setembro de 2026
+
+### Aprimoramentos
+
+- **Implantação de Link Interno Interna Interrompida (Acesso Antecipado)** — Forneça uma URL de substituição para um link que não pode ser corrigido automaticamente e implante a atualização validada.
+- **Status de Implantação Publicado** — Veja quando uma alteração implantada é confirmada em tempo real na página publicada enquanto mantém os estados de falha e redetecção claros.
+
+### Correções de erros
+
+- As oportunidades de acessibilidade do Forms agora oferecem suporte à criação de problemas do Jira.
+- Os links de acompanhamento de implantação agora abrem o repositório de código configurado.
+
+## 21-27 de setembro de 2026
+
+### Aprimoramentos
+
+- **Perguntas frequentes sobre Implantação de Dados Estruturados (Acesso Antecipado)** — Para páginas gerenciadas com o Gerenciador de Vários Sites do AEM, escolha se deseja aplicar atualizações de dados estruturados à página de origem ou somente à página local.
+- **Implantação do Formulário** — Implante a correção associada à variação do formulário selecionada de forma confiável.
+- **Experiências localizadas** — os rótulos de permissão e o conteúdo de tabela truncado estão mais claros em todos os idiomas com suporte.
+
+### Correções de erros
+
+- Os downloads de patch do Core Web Vitals estão disponíveis sempre que existe um patch.
+- As exportações de CSV agora preservam caracteres localizados no Excel.
+- As métricas de desempenho não permanecem mais presas ao carregar quando os dados de origem estão incompletos.
+
+## 14-20 de setembro de 2026
+
+### Aprimoramentos
+
+- **Permissões granulares** — Os administradores podem conceder aos membros acesso aos tipos de oportunidades selecionados enquanto gerenciam separadamente as permissões de todo o site.
+
+### Correções de erros
+
+- A implantação de metadados agora restaura o aviso mostrado ao corrigir uma herança de quebras de página locais.
+
+## 7-13 de setembro de 2026
+
+### Novos recursos
+
+- **Exclusões de posicionamento do Google Ads** — Analise os riscos de posicionamento de contas conectadas do Google Ads e baixe listas de exclusão específicas do site para campanhas automatizadas e de Desempenho máximo.
+
+### Aprimoramentos
+
+- **Diretrizes de Falha de Implantação** — As mensagens de falha agora explicam se uma atualização de conteúdo precisa de acesso a conexão, uma nova verificação ou suporte.
+
+### Correções de erros
+
+- Os valores e layouts do relatório de acessibilidade agora são exibidos com mais clareza nos idiomas compatíveis.
+- Os totais de canal de tráfego pago e plataforma agora incluem tráfego não classificado anteriormente.
+- As contagens de backlinks desfeitos implantados agora correspondem às linhas mostradas, incluindo estados de implantação revertidos e preenchidos retroativamente.
+- Os sites elegíveis do Edge Delivery Services não são mais bloqueados incorretamente na implantação de links quebrados.
+
+## 31 de agosto a 6 de setembro de 2026
+
+### Aprimoramentos
+
+- **Conexões de Conteúdo do AEM** — as configurações agora reconhecem configurações do Edge Delivery Services criadas pela AEM, preservam seus detalhes de origem e bloqueiam URLs de origem sem suporte antes de salvar.
+- **Integração de avaliação** — A entrada de domínio agora explica os requisitos do site de produção com suporte antes da adição de um site de avaliação.
+
+### Correções de erros
+
+- Os seletores e rótulos do mês de Tráfego pago agora são exibidos corretamente nos idiomas compatíveis.
+- As exportações de CSV agora usam o URL da página correto de cada problema de acessibilidade.
+- Os sites elegíveis do Edge Delivery Services não são mais bloqueados incorretamente na implantação do Texto alternativo.
 
 ## 20-27 de agosto de 2026
 

@@ -1,9 +1,9 @@
 ---
 title: Resultados de auditoria na simulação
 description: Saiba como interpretar os resultados da auditoria de Comprovação, o medidor de disponibilidade e as categorias de auditoria, e navegar até oportunidades na visualização.
-source-git-commit: dd2637e61e15a6b8364456ae7d11717a0b81ad09
+source-git-commit: d87b607248efdeecf1ba29ede03bf1628d1dff30
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1168'
 ht-degree: 2%
 ---
 
@@ -49,13 +49,17 @@ Para obter a lista completa das categorias de auditoria e das auditorias em cada
 
 A página de detalhes mostra as oportunidades que a auditoria selecionada encontrou. Quando o mesmo problema ocorre em mais de um local, cada ocorrência é chamada de instância. Use o navegador (**Instância anterior** e **Próxima instância**) para percorrê-las; ele mostra sua posição, por exemplo *1 de 5 instâncias encontradas*. Para retornar ao painel de preparação, selecione a seta para trás ao lado do título de auditoria; o painel é reaberto com a categoria da auditoria expandida.
 
+Para auditorias que identificam uma URL específica na página, a seção **Elemento** aparece na parte superior do cartão para introduzir o item, e o restante da oportunidade segue abaixo dele em sua própria seção.
+
+Quando mais de uma oportunidade afeta o mesmo item (por exemplo, vários problemas com o mesmo link), a Comprovação os mostra juntos em um cartão, cada um em sua própria seção intitulada com seu número de instância, como **Instância 3**. O navegador mostra um intervalo em vez de uma única posição, por exemplo *3-5 de 12 instâncias encontradas*.
+
 ![A página de detalhes de uma auditoria, mostrando uma oportunidade e sua sugestão](./assets/audit-results/audit-detail.png){align="center"}
 
 Cada oportunidade inclui:
 
 * Um selo de gravidade ou impacto que indica a importância da oportunidade.
 * Detalhes sobre a oportunidade, como uma descrição do problema, uma recomendação e, para acessibilidade, a regra WCAG relacionada e o nível de conformidade.
-* Uma seção **Elemento** que identifica o elemento afetado na página, com um botão **Realce na página**. Quando o elemento tem texto legível, a seção é denominada **Elemento: Texto** e mostra esse texto; caso contrário, ela é denominada **Elemento: Seletor** e mostra o seletor de CSS do elemento. Para oportunidades de **Links** e **Canônicos**, uma seção **URL Atual** também mostra a URL envolvida, que você pode abrir em uma nova guia, se possível.
+* Uma seção **Elemento** que identifica o elemento afetado na página, com um botão **Realce na página**. Quando o elemento tem texto legível, a seção é denominada **Elemento: Texto** e mostra esse texto; caso contrário, ela é denominada **Elemento: Seletor** e mostra o seletor de CSS do elemento. Para oportunidades de **Links Internos** e **Canônico**, uma seção **URL Atual** também mostra a URL envolvida. Selecione **Copiar URL** para copiá-la para a área de transferência ou **Abrir em nova guia** para abri-la.
 * Uma seção **Sugestão** com uma correção recomendada. Quando a sugestão é gerada pela IA, ela é marcada como uma sugestão gerada pela IA e pode incluir um breve raciocínio explicando a correção sugerida.
 
 ## Realçar na página

@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5399b579133dc11cd8a8154b55467b8bc5291b4d
+source-git-commit: 8d6936c2c577d7a98937cb8ddf90d18a6e82a9bb
 workflow-type: tm+mt
-source-wordcount: '2510'
+source-wordcount: '2628'
 ht-degree: 1%
 ---
 
@@ -19,17 +19,26 @@ Esta página documenta as atualizações mais recentes, os novos recursos e as m
 
 Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante solicitação — entre em contato com a equipe de sua conta ou o Engenheiro de sucesso do cliente para habilitá-los para sua organização.
 
-## 28-29 de setembro de 2026
+## 28 de setembro a 4 de outubro de 2026 {#september-28-october-4-2026}
+
+### Novos recursos
+
+- **Oportunidades do Agente de IA Pessoal (Acesso Antecipado)** — Filtre oportunidades que ajudam os agentes de IA pessoais a ler e interagir com seu site, com medalhas e orientações explicando os benefícios.
 
 ### Aprimoramentos
 
 - **Implantação de Link Interno Interna Interrompida (Acesso Antecipado)** — Forneça uma URL de substituição para um link que não pode ser corrigido automaticamente e implante a atualização validada.
-- **Status de Implantação Publicado** — Veja quando uma alteração implantada é confirmada em tempo real na página publicada enquanto mantém os estados de falha e redetecção claros.
+- **Status de Publicação de Texto Alternativo** — Veja quando uma alteração de texto alternativo é confirmada em tempo real na página publicada enquanto mantém os estados de falha e redetecção claros.
+- **Core Web Vitals Code Patches** — examine os patches arquivo por arquivo com números de linha e adições e exclusões destacadas.
+- **Implantação do Core Web Vitals Code (acesso antecipado)** — envie patches de código qualificados como uma solicitação pull no repositório de código configurado.
 
 ### Correções de erros
 
 - As oportunidades de acessibilidade do Forms agora oferecem suporte à criação de problemas do Jira.
 - Os links de acompanhamento de implantação agora abrem o repositório de código configurado.
+- Relatórios detalhados de acessibilidade agora abrem e exibem seu conteúdo em vez de serem redirecionados para a página inicial ou mostrados em branco.
+- As contagens implantadas de texto alternativo e os grupos de datas agora correspondem às correções exibidas, sem grupos vazios de implantação com falha.
+- Restaurar o mapa do site ignorado e as sugestões do Core Web Vitals agora atualizam o status de forma confiável.
 
 ## 21-27 de setembro de 2026
 

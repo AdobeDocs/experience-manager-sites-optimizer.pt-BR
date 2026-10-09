@@ -1,9 +1,9 @@
 ---
 title: Comprovação de auditorias de SEO
 description: Saiba mais sobre as auditorias de SEO que a Comprovação executa em sua página no AEM Sites Optimizer.
-source-git-commit: 8a465f3ef54dbd295255f326eda2e8f37a114ace
+source-git-commit: af80dbb47a25b10cdbe55965fb7c4ce496448871
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '210'
 ht-degree: 0%
 ---
 # Auditorias de SEO
@@ -18,7 +18,6 @@ A categoria de SEO inclui as seguintes auditorias:
 
 * [Metatags](./seo/metatags.md) - Examina o título da página e as marcas de metadescrição.
 * [Cabeçalhos](./seo/headings.md) - Examina a estrutura e a ordem do cabeçalho da página.
-* [Contagem H1](./seo/h1-count.md) - Revisa o número de cabeçalhos H1 na página.
 * [Links internos](./seo/internal-links.md) - Examina os links na página que apontam para seu próprio site.
 * [Links Externos](./seo/external-links.md) - Examina os links na página que apontam para outros sites.
 * [Legibilidade](./seo/readability.md) - Analisa a facilidade de leitura do conteúdo da página.

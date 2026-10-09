@@ -1,7 +1,10 @@
 ---
 title: Resultados de auditoria na simulação
 description: Saiba como interpretar os resultados da auditoria de Comprovação, o medidor de disponibilidade e as categorias de auditoria, e navegar até oportunidades na visualização.
-source-git-commit: d87b607248efdeecf1ba29ede03bf1628d1dff30
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '1168'
 ht-degree: 2%

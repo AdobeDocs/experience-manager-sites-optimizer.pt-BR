@@ -1,7 +1,10 @@
 ---
 title: Avaliação do Sites Optimizer
 description: Comece a usar a avaliação do AEM Sites Optimizer para clientes existentes do AEM Sites.
-source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '1481'
 ht-degree: 45%
@@ -20,7 +23,7 @@ Comece a usar a Sites Optimizer nesta avaliação para **clientes atuais da AEM 
 >* Ele é acessível publicamente e não por trás de um logon.
 >* Ele usa a entrega de front-end do AEM Sites. No momento, a entrega headless não é compatível.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483292/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483253/?learn=on&enablevpops)
 
 >[!TIP]
 >
@@ -53,7 +56,7 @@ A Sites Optimizer verifica seu site para identificar oportunidades de otimizaç�
 
 ![Caixa de diálogo de integração informando que o Sites Optimizer não pode acessar o site, listando os endereços IP do usuário-agente e do verificador a serem incluídos na lista de permissões, cada um com um botão Copiar e um botão Atualizar para verificar novamente o acesso](./assets/trial/ip-allowlist-action-required.png){align="center"}
 
-Para permitir que o mecanismo de varredura seja executado, inclua na lista de permissões ambos os itens a seguir no firewall, no provedor de hospedagem ou na configuração de segurança. Para sites do AEM Cloud Service, adicione uma regra de permissão para o verificador às suas [regras de filtro de tráfego da CDN](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf) no Cloud Manager, que podem corresponder ao usuário-agente e ao endereço IP. Se você restringir o acesso usando o [Cloud Manager IP lista de permissões](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction), adicione também os endereços IP do verificador à lista de permissões aplicada.
+Para permitir que o mecanismo de varredura seja executado, inclua na lista de permissões ambos os itens a seguir no firewall, no provedor de hospedagem ou na configuração de segurança. Para sites do AEM Cloud Service, adicione uma regra de permissão para o verificador às suas [regras de filtro de tráfego da CDN](https://experienceleague.adobe.com/pt-br/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf) no Cloud Manager, que podem corresponder ao usuário-agente e ao endereço IP. Se você restringir o acesso usando o [Cloud Manager IP lista de permissões](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction), adicione também os endereços IP do verificador à lista de permissões aplicada.
 
 * **User-Agent** — O verificador identifica-se com um User-Agent que contém o token `Spacecat/1.0`. Inclua na lista de permissões esse token, idealmente como uma correspondência &quot;contém&quot;, para que ele continue funcionando mesmo se a sequência completa de usuário-agente for alterada.
 * **Endereços IP do verificador** — Inclua na lista de permissões os endereços IP de saída do verificador.

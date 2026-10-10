@@ -1,7 +1,10 @@
 ---
 title: Avaliação do Sites Optimizer
 description: Comece a usar a avaliação do AEM Sites Optimizer para clientes existentes do AEM Sites.
-source-git-commit: 052faac621530a5b9e74bd8e4790a604887515f7
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
 workflow-type: tm+mt
 source-wordcount: '1481'
 ht-degree: 45%

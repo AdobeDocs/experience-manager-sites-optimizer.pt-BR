@@ -4,9 +4,9 @@ description: Saiba mais sobre as auditorias de SEO que a Comprovação executa e
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 0%
 ---
 # Auditorias de SEO
@@ -19,7 +19,7 @@ No painel de preparação, expanda a categoria **SEO** para ver cada auditoria, 
 
 A categoria de SEO inclui as seguintes auditorias:
 
-* [Metatags](./seo/metatags.md) - Examina o título da página e as marcas de metadescrição.
+* [Metatags](./seo/metatags.md) - Revisa o título da página, a metdescrição e o cabeçalho H1.
 * [Cabeçalhos](./seo/headings.md) - Examina a estrutura e a ordem do cabeçalho da página.
 * [Links internos](./seo/internal-links.md) - Examina os links na página que apontam para seu próprio site.
 * [Links Externos](./seo/external-links.md) - Examina os links na página que apontam para outros sites.

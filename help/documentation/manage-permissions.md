@@ -1,20 +1,20 @@
 ---
 title: Gerenciar permissões do usuário
-description: Saiba como gerenciar o acesso e os recursos do usuário no AEM Sites Optimizer.
+description: Saiba como gerenciar o acesso e os recursos para usuários e grupos de usuários no AEM Sites Optimizer.
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: c372679073253df686a77daccb6cb548622181f5
+source-git-commit: 99cab67b45300bb89cec79e714761e67e19bc2dc
 workflow-type: tm+mt
-source-wordcount: '1362'
+source-wordcount: '1708'
 ht-degree: 1%
 ---
 # Gerenciar permissões do usuário
 
-Controlar quem pode acessar um site no Sites Optimizer e o que eles podem fazer com ele. O Access é criado a partir de um pequeno conjunto de *recursos* independentes — Exibir, Editar, Implantar, Configurar e Gerenciar usuários — que você concede a cada pessoa.
+Controlar quem pode acessar um site no Sites Optimizer e o que eles podem fazer com ele. O Access é criado a partir de um pequeno conjunto de *recursos* independentes — Exibir, Editar, Implantar, Configurar e Gerenciar usuários — que você concede a pessoas individuais ou a grupos de usuários.
 
 O acesso é **aditivo**: as permissões de uma pessoa são a soma de tudo o que ela recebeu. Não há &quot;negar&quot;, então as concessões nunca entram em conflito ou se cancelam mutuamente. Para conceder menos acesso a alguém, remova uma concessão em vez de tentar substituí-la.
 
@@ -91,11 +91,26 @@ Cada concessão com escopo aparece como sua própria linha para o membro, com um
 >
 >O escopo limita apenas o que *aquela* concessão oferece — nunca remove o acesso que outra concessão oferece. Se uma pessoa também tiver acesso em toda a organização ou uma concessão de **Todos** tipos, esse acesso mais amplo ainda se aplicará. Portanto, para realmente limitar alguém a tipos de oportunidade específicos, certifique-se de que eles não tenham uma função mais ampla ou uma concessão de **Todos** tipos.
 
+## Conceder acesso a grupos de usuários
+
+Além de pessoas individuais, você pode conceder acesso no nível do site a um **grupo de usuários** da [Adobe Admin Console](https://adminconsole.adobe.com/) da sua organização. Todos no grupo obtêm os recursos que você concede ao grupo nesse site para que você possa gerenciar o acesso de toda a equipe com uma única concessão.
+
+- Os grupos de usuários são criados e mantidos na Admin Console, em **Usuários** > **Grupos de usuários**. O Sites Optimizer lista os grupos que já existem em sua organização; você não pode criar um grupo na guia **Permissões**.
+- Quando as pessoas ingressam ou saem do grupo na Admin Console, o acesso ao site muda com ele. Você não precisa atualizar nada no Sites Optimizer.
+- Um grupo recebe recursos e tipos de oportunidade exatamente como uma pessoa, e aparece na tabela **Membros** com um rótulo de **Grupo**. Você pode editá-lo ou removê-lo da mesma maneira.
+- O acesso de grupo é adicionado a tudo o que uma pessoa retém. Uma pessoa que pertence a um grupo e também tem sua própria concessão recebe a combinação de ambos.
+
+>[!NOTE]
+>
+>Se o nome de um grupo não puder ser carregado, sua linha na tabela **Membros** mostrará uma ID de grupo mais curta. Passe o mouse sobre ou concentre-se na ID para vê-la completamente. A subvenção ainda se aplica.
+
 ## Adicionar um membro
+
+Um membro é uma pessoa ou um grupo de usuários.
 
 1. Abra a guia **Permissões** (o ícone de bloqueio na navegação à esquerda) e selecione o site.
 1. Clique em **Adicionar membros**.
-1. Pesquisar por nome ou email e selecionar uma ou mais pessoas.
+1. Em **Pessoas e grupos**, pesquise por pessoas por nome ou email ou por grupos de usuários por nome. Selecione uma ou mais pessoas ou grupos — os grupos são marcados com um rótulo de **Grupo**.
 1. Escolha o(s) **tipo(s) de oportunidade** aos quais o acesso se aplica (ou **Todos**) e selecione os recursos a serem concedidos.
 1. Clique em **Adicionar**.
 
@@ -105,6 +120,8 @@ Na tabela **Members**:
 
 - Clique em **Editar recursos** na linha de um membro para alterar o que ele pode fazer. Quando você edita uma concessão existente, o tipo de oportunidade permanece fixo — você altera somente as capacidades e pelo menos uma capacidade deve permanecer selecionada.
 - Clique em **Remover** para revogar totalmente o acesso desse membro ao site.
+
+Uma pessoa que não faz mais parte de sua organização, por exemplo, alguém que saiu, aparece na tabela **Membros** com um rótulo **Usuário inativo** e sua ID no lugar de um nome. Você não pode editar o acesso deles, mas pode remover o membro para limpar a entrada.
 
 >[!NOTE]
 >
@@ -156,6 +173,10 @@ Criar uma função em toda a organização é uma ação do Admin Console. Um me
 **Como revogar o acesso de uma pessoa a um site?**
 
 Remova a concessão na guia **Permissões**. Isso é diferente dos recursos de edição, que sempre devem deixar pelo menos um recurso.
+
+**Posso conceder acesso a toda uma equipe de uma só vez?**
+
+Sim. Adicione um grupo de usuários do Admin Console como membro na guia **Permissões**. Todos no grupo obtêm os recursos do grupo nesse site e o acesso segue a associação do grupo na Admin Console. Consulte [Conceder acesso a grupos de usuários](#grant-access-to-user-groups).
 
 **Posso limitar uma pessoa a tipos de oportunidade específicos?**
 

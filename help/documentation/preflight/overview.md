@@ -4,16 +4,17 @@ description: Saiba mais sobre Comprovação e as auditorias que ele executa para
 TQID: https://experienceleague.adobe.com/pZrPXBAaroTlpEsfSluFiLW2Noy4y5sD4dZHTsXgSfA
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: 14f10c231373992c49a8bb93c043556305b6280d
+    internal-label: Accessibility
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: 300
-ht-degree: 28%
-
+source-wordcount: '389'
+ht-degree: 48%
 ---
-
 # Simulação do AEM Sites Optimizer
 
 ![Painel de preparação de Comprovação](./assets/overview/hero.png){align="center"}
@@ -24,7 +25,7 @@ ht-degree: 28%
 
 A comprovação no AEM Sites Optimizer ajuda a validar e otimizar as páginas antes que elas entrem no ar, analisando o conteúdo e a estrutura e apresentando oportunidades com recomendações acionáveis. Ele foi desenvolvido para autores, profissionais de marketing e desenvolvedores que desejam garantir que as páginas tenham alta qualidade, bom desempenho e estejam prontas para publicação, reduzindo o retrabalho.
 
-Inicie a Comprovação do ambiente de criação e selecione **Analisar página** para executar suas auditorias. Uma auditoria avalia um aspecto da página, como seus metadados ou estrutura de cabeçalho, e auditorias relacionadas a Grupos de comprovação em categorias, como **SEO** e **Acessibilidade**. A comprovação relata uma pontuação de prontidão para a página, juntamente com as oportunidades encontradas — as coisas específicas que você pode melhorar, cada uma com uma recomendação acionável.
+Inicie a Comprovação do ambiente de criação e selecione **Analisar página** para executar suas auditorias. Uma auditoria avalia um aspecto da página, como seus metadados ou estrutura de cabeçalho, e auditorias relacionadas a Grupos de comprovação em categorias, como **SEO** e **Acessibilidade**. A comprovação relata a porcentagem de auditorias aprovadas na página, juntamente com as oportunidades encontradas — as coisas específicas que você pode melhorar, cada uma com uma recomendação acionável.
 
 ## Comece a usar o Preflight
 
@@ -63,8 +64,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre as auditorias de acessibilidade de comprovação no Sites Optimizer.</p>
                 </div>
                 <a href="./opportunities/accessibility.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>
@@ -86,8 +87,8 @@ CARDS
                     <p class="is-size-6">Saiba mais sobre as auditorias de SEO de comprovação no Sites Optimizer.</p>
                 </div>
                 <a href="./opportunities/seo.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
-                </a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Saiba mais</span>
+                </a>
             </div>
         </div>
     </div>

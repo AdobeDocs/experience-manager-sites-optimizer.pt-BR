@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 8d6936c2c577d7a98937cb8ddf90d18a6e82a9bb
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: '2628'
+source-wordcount: '2920'
 ht-degree: 1%
 ---
 
@@ -18,6 +18,23 @@ ht-degree: 1%
 Esta página documenta as atualizações mais recentes, os novos recursos e as melhorias no Adobe Experience Manager Sites Optimizer.
 
 Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante solicitação — entre em contato com a equipe de sua conta ou o Engenheiro de sucesso do cliente para habilitá-los para sua organização.
+
+## 5 a 20 de outubro de 2026 {#october-5-20-2026}
+
+### Novos recursos
+
+- **Configuração de Links de Navegação do Site de Comprovação** — Escolha se a auditoria de Links Internos verifica os links dentro dos menus de navegação do site. A configuração está desativada por padrão, portanto, as auditorias são concluídas mais rapidamente e a opção **Reanalisar** mostra quando uma configuração alterada ainda não foi aplicada.
+
+### Aprimoramentos
+
+- **Progresso da Auditoria de Comprovação** — O medidor de disponibilidade agora mostra a porcentagem de auditorias que passaram, e cada categoria mostra quando suas auditorias ainda estão em execução, com uma contagem &quot;aprovada até agora&quot; até que seus resultados sejam finais.
+- **Cobertura de Links Internos de Comprovação** — A auditoria de Links Internos agora verifica todos os links de mesmo host qualificados na página, incluindo links em componentes repetidos, como listas de cartões. Os links de navegação do site são incluídos somente quando **Mostrar links de navegação do site** é selecionado. Os links fora da navegação do site são listados primeiro e a Comprovação relata claramente quando uma página tem muitos links para check-in a tempo.
+- **Detalhes do Link de Comprovação** — Os links corrompidos sinalizados pelo verificador de links da AEM agora mostram o texto visível do link em vez de um seletor CSS.
+- As **Ações do Cabeçalho de Comprovação** — **Reanalisar** e **Fechar** sempre permanecem visíveis no cabeçalho de Comprovação, e as **Exportar** e **Configurações** são movidas para o menu **Mais ações** quando o espaço é limitado.
+- **Comprovação de Correspondência de Site** — Quando uma página corresponde a mais de um site integrado, a Comprovação explica o problema e permite que você continue com um dos sites correspondentes.
+- **Sugestões de Texto Alternativo de Comprovação** — as oportunidades de Texto Alternativo mostram o texto alternativo sugerido como uma sugestão pronta para uso, seguido pelo motivo da sugestão quando ela estiver disponível.
+- **Detalhes do Ipsum de Lorem de Comprovação** — Quando um texto de espaço reservado é encontrado em um atributo, como o texto alternativo de uma imagem, a oportunidade mostra qual atributo correspondeu.
+- **Comprovação no Editor Universal** — As auditorias no Editor Universal agora usam o conteúdo renderizado da página, tornando-o mais rápido e confiável.
 
 ## 28 de setembro a 4 de outubro de 2026 {#september-28-october-4-2026}
 

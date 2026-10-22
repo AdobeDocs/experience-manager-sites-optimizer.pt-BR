@@ -4,9 +4,9 @@ description: Saiba como interpretar os resultados da auditoria de Comprovação,
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: '1168'
+source-wordcount: '1362'
 ht-degree: 2%
 ---
 
@@ -18,8 +18,11 @@ Quando as auditorias forem concluídas, a Comprovação exibirá os resultados n
 
 A barra de ferramentas na parte superior do painel de preparação fornece ações para a execução atual:
 
-* **Reanalisar** - Inicie uma auditoria totalmente nova na página atual. A opção Reanalisar sempre descarta os resultados exibidos e executa cada auditoria novamente, portanto, use-a sempre que desejar novos resultados — por exemplo, após editar a página. A reanálise está em **Mais ações** (**...**) menu.
+* **Reanalisar** - Inicie uma auditoria totalmente nova na página atual. A opção Reanalisar sempre descarta os resultados exibidos e executa cada auditoria novamente, portanto, use-a sempre que desejar novos resultados — por exemplo, após editar a página. Selecione **Reanalisar** na barra de ferramentas.
 * **Exportar** - Baixe a execução atual como um arquivo **CSV** (compatível com planilha) ou **PDF** (um documento formatado). Dependendo do seu ambiente, selecione **Exportar** na barra de ferramentas ou em **Mais ações** (**...**) menu.
+* **Configurações** - Use **Mostrar links de navegação do site** para incluir links de navegação do site (atualmente apenas Links Internos). Selecione o ícone de engrenagem ou abra **Mais ações** (**...**) e selecione **Configurações**. As configurações estão disponíveis antes ou depois de uma execução, mas não enquanto auditorias estão em execução ou no Editor universal. Consulte [Incluir links de navegação do site](./opportunities/seo/internal-links.md#include-site-navigation-links).
+
+Se você alterar uma configuração após uma execução, um ponto em **Reanalisar** e o rótulo **Reanalisar para aplicar novas configurações** indicarão que os resultados exibidos usaram uma configuração diferente. Selecione **Reanalisar** para aplicar a configuração salva a uma nova execução.
 
 Ao exportar, você também pode escolher o que incluir:
 
@@ -32,19 +35,21 @@ Ao exportar, você também pode escolher o que incluir:
 
 ## Medidor de disponibilidade
 
-Na parte superior do painel, o medidor de prontidão reflete os resultados gerais de auditoria. Ela mostra uma pontuação de prontidão como uma porcentagem, com base na proporção de auditorias que terminaram sem oportunidades, juntamente com o número total de oportunidades encontradas em todas as auditorias. O medidor de disponibilidade ajuda a medir a integridade geral da página rapidamente.
+Na parte superior do painel, o medidor de prontidão reflete os resultados gerais de auditoria. Ela mostra a porcentagem de auditorias que terminaram sem oportunidades, rotuladas como **% aprovadas**, juntamente com o número total de oportunidades encontradas em todas as auditorias. Por exemplo, **85% aprovado** significa que 85% das auditorias concluídas não encontraram oportunidades. Essa porcentagem descreve os resultados da auditoria, não o progresso da execução.
 
 ![O medidor de preparação e as categorias de auditoria no painel de Comprovação](./assets/overview/hero.png){align="center"}
 
 Quando você está visualizando uma execução que foi recarregada de uma sessão anterior, o cabeçalho mostra há quanto tempo ela foi executada — por exemplo, *ontem*. Para obter mais informações, consulte [Continuar uma sessão anterior](./audits.md#continue-a-previous-session).
 
-Enquanto as auditorias ainda estão em execução, o medidor de prontidão mostra uma barra de progresso com um status curto abaixo dela que mostra a etapa atual. Quando as auditorias forem concluídas, o medidor exibirá a porcentagem final de prontidão e a contagem de oportunidades.
+Enquanto as auditorias ainda estão em execução, o painel mostra a **página Análise**, com um status curto abaixo dela. Uma barra de progresso é exibida inicialmente, antes da chegada das categorias de auditoria nomeadas. Quando as categorias forem exibidas, seus indicadores de processamento individuais mostrarão quais categorias ainda têm trabalho em andamento. Quando todas as auditorias forem concluídas, o medidor exibirá a porcentagem final aprovada e a contagem de oportunidades.
 
 ## Categorias de auditoria
 
 Comprove auditorias relacionadas a grupos em categorias, como **SEO** e **Acessibilidade**. Cada categoria aparece como um cartão que mostra o número de oportunidades encontradas ou indica que todas as auditorias foram aprovadas sem oportunidades.
 
 Expanda uma categoria para ver suas auditorias individuais. Cada auditoria mostra se passou ou encontrou oportunidades, uma breve descrição e uma contagem das oportunidades encontradas. Selecione uma auditoria que encontrou oportunidades para abrir sua página de detalhes.
+
+Uma categoria pode mostrar resultados enquanto algumas de suas auditorias ainda estão em execução. Seu ícone mostra um indicador de processamento e seu status informa, por exemplo, **3/3 auditorias passadas até agora**. Essa contagem inclui apenas as auditorias que retornaram resultados, portanto, pode ser alterada à medida que mais resultados chegam. Expanda a categoria para ver auditorias individuais que ainda estão sendo processadas. Uma categoria sem oportunidades mostra a marca de seleção totalmente limpa somente após a conclusão do trabalho pendente.
 
 Para obter a lista completa das categorias de auditoria e das auditorias em cada uma, consulte [Categorias de auditoria de comprovação](./overview.md#preflight-audit-categories).
 
@@ -56,7 +61,7 @@ Para auditorias que identificam uma URL específica na página, a seção **Elem
 
 Quando mais de uma oportunidade afeta o mesmo item (por exemplo, vários problemas com o mesmo link), a Comprovação os mostra juntos em um cartão, cada um em sua própria seção intitulada com seu número de instância, como **Instância 3**. O navegador mostra um intervalo em vez de uma única posição, por exemplo *3-5 de 12 instâncias encontradas*.
 
-![A página de detalhes de uma auditoria, mostrando uma oportunidade e sua sugestão](./assets/audit-results/audit-detail.png){align="center"}
+![A página de detalhes da auditoria de Links Internos, mostrando uma oportunidade e a seção URL Atual](./assets/audit-results/audit-detail.png){align="center"}
 
 Cada oportunidade inclui:
 

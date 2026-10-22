@@ -4,10 +4,10 @@ description: Saiba como iniciar uma auditoria com o Preflight na sua página.
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 19%
+source-wordcount: '469'
+ht-degree: 17%
 ---
 
 # Auditorias no Preflight
@@ -20,7 +20,8 @@ Para executar auditorias com o Preflight em uma página:
 
 1. Abra a página que deseja auditar em seu [ambiente de criação](./access-preflight.md) (Editor universal, Criação baseada em documento ou Editor de páginas do AEM Sites).
 1. Abra o [painel do Preflight](./access-preflight.md). A simulação abre na tela de aterrissagem **Executar auditoria de preparação de desempenho**.
-1. Selecione **Analisar página**. A simulação executa todas as suas auditorias na página atual e abre o painel de preparação, onde exibe uma pontuação de preparação e as oportunidades encontradas, agrupadas por categoria.
+1. Se necessário, abra **Configurações** (o ícone de engrenagem) para incluir links de navegação do site na auditoria de Links internos. Essa configuração está desativada por padrão e não está disponível no Editor universal. Dependendo do seu ambiente, as **Configurações** aparecem no cabeçalho ou em **Mais ações** (**...**). Consulte [Incluir links de navegação do site](./opportunities/seo/internal-links.md#include-site-navigation-links).
+1. Selecione **Analisar página**. A simulação executa todas as suas auditorias na página atual e abre o painel de preparação, onde exibe a porcentagem de auditorias aprovadas e as oportunidades encontradas, agrupadas por categoria.
 
 Para entender os resultados de visualização e identificar oportunidades de otimização, consulte [Resultados de auditoria em Comprovação](./audit-results.md).
 
@@ -41,5 +42,4 @@ A comprovação rastreia a execução mais recente separadamente para cada pági
 
 Quando você recarregar uma execução anterior, o cabeçalho mostrará há quanto tempo essa execução foi executada (por exemplo, *2 minutos atrás* ou *ontem*) para que você possa ter uma ideia geral da atualidade dos resultados. O rótulo é atualizado conforme o tempo passa e permanece visível à medida que você se move entre o painel de preparação e as páginas de detalhes de auditoria.
 
-Quando as auditorias terminarem e os resultados forem exibidos, selecione **Reanalisar** em **Mais ações** (**...**) na barra de ferramentas para descartar os resultados e executar cada auditoria novamente. Consulte [Resultados de auditoria em Comprovação](./audit-results.md#toolbar).
-
+Quando as auditorias terminarem e os resultados forem exibidos, selecione **Reanalisar** na barra de ferramentas para descartar os resultados e executar cada auditoria novamente. Consulte [Resultados de auditoria em Comprovação](./audit-results.md#toolbar).

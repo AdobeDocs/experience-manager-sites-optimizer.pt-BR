@@ -4,9 +4,9 @@ description: Saiba mais sobre a auditoria de Links internos em Comprovação par
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '889'
 ht-degree: 0%
 ---
 # Auditoria de Links internos
@@ -36,6 +36,28 @@ A auditoria verifica os links da sua sessão de criação, para que eles sejam e
 Os links que o verificador de links do AEM já marcou como inválidos são incluídos na auditoria, mesmo que o editor remova o link clicável da página. Eles são então verificados novamente, em vez de considerados confiáveis, para que um link que tenha começado a funcionar desde então não seja relatado.
 
 Uma oportunidade é relatada para cada local em que um link é exibido, portanto, um link incorreto usado em três pontos fornece três instâncias para correção, cada uma destacando seu próprio ponto na página. Quando um desses pontos tiver mais de um problema, o comando Comprovação os mostrará juntos em uma única placa.
+
+## Incluir links de navegação do site
+
+Por padrão, a auditoria de Links internos ignora os links de navegação do site. Esses links não estão verificados nem são relatados. Um link no corpo da página ainda será verificado, mesmo se o mesmo URL também aparecer em um menu.
+
+Um link conta como navegação se o próprio link ou qualquer ancestral for um elemento `<nav>` ou tiver um atributo `role="navigation"`.
+
+Para incluir links de navegação na próxima execução de auditoria:
+
+1. Antes de iniciar uma auditoria ou depois que uma execução terminar, abra **Configurações** (o ícone de engrenagem) no cabeçalho Comprovação. Se o ícone de engrenagem não estiver visível, abra **Mais ações** (**...**) e selecione **Configurações**.
+1. Selecione **Mostrar links de navegação do site**.
+1. Selecione **Analisar página** para iniciar uma execução ou **Reanalisar** se os resultados já estiverem exibidos.
+
+![O menu Configurações de Comprovação com a opção Mostrar links de navegação do site](./assets/internal-links/settings-menu.png){align="center"}
+
+**Mostrar links de navegação do site** controla quais links são verificados pela auditoria, e não apenas quais resultados são exibidos (somente Links Internos no momento).
+
+A alteração da configuração não inicia uma auditoria nem altera os resultados já exibidos na tela. Quando esses resultados usarem uma configuração diferente, um ponto aparecerá em **Reanalyze**, com o rótulo **Reanalyze para aplicar as novas configurações**. Execute as auditorias novamente para aplicar a alteração ou restaure a configuração anterior para limpar o ponto.
+
+A comprovação salva a configuração no navegador e a retém depois que você sai. Guias no mesmo site compartilham a configuração. Para ignorar os links de navegação novamente, desmarque **Mostrar links de navegação do site** antes da próxima execução.
+
+A configuração não está disponível enquanto auditorias estão em execução ou no Editor universal.
 
 ## Limitações conhecidas
 

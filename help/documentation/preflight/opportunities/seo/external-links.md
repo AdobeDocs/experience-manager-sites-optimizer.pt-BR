@@ -4,9 +4,9 @@ description: Saiba mais sobre a auditoria de Links externos em Comprovação par
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 13bc34bf4c3d31e730dbe597b84fd6d594df6fea
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '753'
 ht-degree: 0%
 ---
 # Auditoria de Links Externos
@@ -23,7 +23,7 @@ A auditoria relata uma oportunidade para cada link externo que tenha um dos segu
 
 * **Link corrompido:** o link retorna `Status 404` ou `Status 410`, ou seu site não pode ser acessado, por exemplo, porque o domínio não existe mais. Um link que atinge o erro após um redirecionamento é relatado da mesma forma.
 * **Link não seguro:** o link usa `http://` e o site não o redireciona para `https://`. Um link que começa como `http://`, mas é redirecionado para uma página `https://` segura, não está sinalizado. Atualize o link para usar `https://`.
-* **Link não verificado:** A comprovação não pôde confirmar se o link funciona, por exemplo, porque o site requer entrada, bloqueia verificações automatizadas, continua retornando um erro de servidor, não responde a tempo ou redireciona muitas vezes. Algumas redes sociais, como LinkedIn e Instagram, relatam páginas que existem como ausentes para cheques automatizados, de modo que os erros de página ausente desses sites também são relatados como não verificados. Esses links provavelmente funcionam em um navegador, portanto, a Comprovação não os relata como corrompidos. Em vez disso, ele solicita que você abra o link e confirme-o, além de relatá-lo com baixo impacto.
+* **Link não verificado:** A comprovação não pôde confirmar se o link funciona, por exemplo, porque o site requer entrada, bloqueia verificações automatizadas, continua retornando um erro de servidor, não responde a tempo ou redireciona muitas vezes. Algumas redes sociais, como LinkedIn e Instagram, relatam páginas que existem como ausentes para cheques automatizados, de modo que os erros de página ausente desses sites também são relatados como não verificados. Esses links provavelmente funcionam em um navegador, portanto, a Comprovação não os relata como corrompidos. Em vez disso, ele solicita que você abra o link e confirme você mesmo.
 
 Um link pode ser inseguro e quebrado, ou inseguro e não verificado, caso em que ambas as oportunidades são relatadas. Um link que é resolvido com sucesso não é sinalizado, mesmo quando tem redirecionamentos no caminho.
 
@@ -34,6 +34,18 @@ Todos os links externos na página são verificados. Um link externo é qualquer
 Cada link é relatado uma vez, mesmo que apareça várias vezes na página ou com âncoras diferentes, como `#pricing` e `#features`. A oportunidade destaca o primeiro lugar em que o link é exibido.
 
 Os links que o verificador de links do AEM já marcou como inválidos são incluídos na auditoria, mesmo que o editor remova o link clicável da página. Elas são verificadas novamente, em vez de assumidas como confiáveis, para que um link que começou a funcionar desde então não seja relatado.
+
+## Filtrar os resultados
+
+Na página de detalhes, use o filtro ao lado do cabeçalho **Instâncias** para mostrar apenas algumas das oportunidades:
+
+| Filtro | Oportunidades mostradas |
+|---|---|
+| **Todos** (padrão) | Todas as oportunidades |
+| **Quebrado** | Links quebrados |
+| **Precisa de verificação** | Links não verificados e links inseguros |
+
+Se um link tiver mais de uma oportunidade, como um link inseguro que também foi desfeito, cada oportunidade será exibida em seu próprio filtro. Para obter mais informações, consulte [Instâncias de filtro](../../audit-results.md#filter-instances).
 
 ## Limitações conhecidas
 

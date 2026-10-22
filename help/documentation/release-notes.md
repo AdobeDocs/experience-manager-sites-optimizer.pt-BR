@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: ae16300fdfd525dc5efead2f165d5a238b5ea6e1
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '2920'
+source-wordcount: '3026'
 ht-degree: 1%
 ---
 
@@ -18,6 +18,22 @@ ht-degree: 1%
 Esta página documenta as atualizações mais recentes, os novos recursos e as melhorias no Adobe Experience Manager Sites Optimizer.
 
 Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante solicitação — entre em contato com a equipe de sua conta ou o Engenheiro de sucesso do cliente para habilitá-los para sua organização.
+
+## 21-22 de outubro de 2026 {#october-21-22-2026}
+
+### Novos recursos
+
+- **Comprovação de Filtros de Instância** — Nas páginas de detalhes de Links Internos e Links Externos, filtre instâncias por **Quebradas** ou **Precisa de verificação**.
+
+### Aprimoramentos
+
+- **Tentativas de Links Internos de Comprovação** — A auditoria de Links Internos agora repete links que falham temporariamente, portanto, uma pequena interrupção tem menos probabilidade de ser relatada como um link quebrado.
+- **Indicadores de Progresso de Comprovação** — Os indicadores de processamento agora aparecem somente nas auditorias que ainda estão em execução, não em suas categorias.
+- **Detalhes da oportunidade de comprovação** — as oportunidades não mostram mais medalhas de severidade e as exportações de CSV e PDF não incluem mais a severidade.
+
+### Correções de erros
+
+- URLs longos nos detalhes de oportunidade de Comprovação agora envolvem, em vez de ampliar o cartão.
 
 ## 5 a 20 de outubro de 2026 {#october-5-20-2026}
 

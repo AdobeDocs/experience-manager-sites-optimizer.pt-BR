@@ -4,9 +4,9 @@ description: Saiba mais sobre a auditoria de Metatags em Comprovação para AEM 
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '801'
 ht-degree: 1%
 ---
 # Auditoria de metatags
@@ -34,12 +34,6 @@ Um valor com alguns caracteres acima do comprimento ideal é relatado como **aci
 | Título H1 | Até 70 caracteres | 71 a 75 caracteres | Mais de 75 caracteres |
 
 Esses intervalos são diretrizes recomendadas, não requisitos do mecanismo de pesquisa. A comprovação os usa para decidir quando relatar uma oportunidade.
-
-Cada oportunidade é relatada em um dos três níveis de impacto:
-
-* **Alta:** uma marca ausente ou vazia.
-* **Moderado:** um título de página ou uma metadescrição muito curta, uma metadescrição ou H1 muito longa ou uma página com mais de um H1.
-* **Baixo:** um valor acima do comprimento ideal, mas não muito longo, incluindo qualquer título de página com mais de 60 caracteres.
 
 ## Como os valores são lidos
 

@@ -4,9 +4,9 @@ description: Saiba mais sobre a auditoria de títulos em Comprovação para AEM 
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '649'
 ht-degree: 0%
 ---
 # Auditoria de títulos
@@ -23,8 +23,6 @@ A auditoria relata uma oportunidade para cada um dos seguintes problemas:
 
 * **Cabeçalho vazio:** um H2, H3, H4, H5 ou H6 que não tem texto. Um cabeçalho que contenha apenas espaços ou apenas uma imagem é contado como vazio.
 * **Nível de cabeçalho ignorado:** um cabeçalho com mais de um nível a mais do que o cabeçalho imediatamente antes dele, por exemplo, um H2 seguido de um H4 ou um H1 seguido de um H3. A oportunidade é relatada no cabeçalho mais profundo.
-
-Ambos são relatados com impacto moderado.
 
 Os cabeçalhos H1 são revisados pela auditoria [Metatags](./metatags.md), que verifica se há H1 ausente, vazio ou muito longo e mais de um H1 em uma página.
 

@@ -4,18 +4,18 @@ description: Saiba mais sobre as auditorias de SEO que a Comprovação executa e
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 913fd85808a08eb8f6ba7de8207d53ee7b68409e
+source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 ---
 # Auditorias de SEO
 
-![Auditorias de SEO no painel de preparação de Comprovação](./assets/seo/hero.png){align="center"}
+![Auditorias de SEO no painel de resultados de Comprovação](./assets/seo/hero.png){align="center"}
 
 A categoria **SEO** em Comprovação agrupa as auditorias que avaliam como uma página é otimizada para mecanismos de pesquisa. Quando você executa uma auditoria de Comprovação, essas auditorias avaliam os metadados da página, a estrutura do cabeçalho, os links e o conteúdo, além das oportunidades de superfície que você pode revisar e resolver antes de publicar.
 
-No painel de preparação, expanda a categoria **SEO** para ver cada auditoria, se ela foi aprovada e o número de oportunidades encontradas. Selecione uma auditoria para abrir sua página de detalhes e trabalhar pelas oportunidades. Para saber como interpretar resultados e resolver oportunidades, consulte [Resultados de auditoria em Comprovação](../audit-results.md).
+No painel de resultados, expanda a categoria **SEO** para ver cada auditoria, se ela foi aprovada e o número de oportunidades encontradas. Selecione uma auditoria para abrir sua página de detalhes e trabalhar pelas oportunidades. Para saber como interpretar resultados e resolver oportunidades, consulte [Resultados de auditoria em Comprovação](../audit-results.md).
 
 A categoria de SEO inclui as seguintes auditorias:
 

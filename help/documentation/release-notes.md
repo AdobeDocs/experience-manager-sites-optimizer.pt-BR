@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 733056458d3e34a9ef2e285adfc810a98159002b
 workflow-type: tm+mt
-source-wordcount: '3026'
+source-wordcount: '3666'
 ht-degree: 1%
 ---
 
@@ -19,38 +19,77 @@ Esta página documenta as atualizações mais recentes, os novos recursos e as m
 
 Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante solicitação — entre em contato com a equipe de sua conta ou o Engenheiro de sucesso do cliente para habilitá-los para sua organização.
 
-## 21-22 de outubro de 2026 {#october-21-22-2026}
+## 26-28 de outubro de 2026 {#october-26-28-2026}
 
 ### Novos recursos
 
+- **Cobertura de auditoria em Configurações** — As configurações agora incluem uma seção **Cobertura de auditoria** que lista as auditorias em execução para o seu site, agrupadas por categoria, como SEO, Acessibilidade, Segurança, Conversão e envolvimento.
+- **Valor Estimado (Acesso Antecipado)** — Core Web Vitals, Texto Alternativo, acessibilidade, Contraste de Cores, Acessibilidade de Formulários e oportunidades de segurança agora mostram um valor estimado, como mão de obra salva ou risco evitado, para ajudá-lo a priorizar correções. O trabalho salvo para correções de acessibilidade e segurança é mostrado como um valor único, e as oportunidades Mapa do site e Hreflang mostram quantos problemas foram sinalizados.
+
+### Aprimoramentos
+
+- **Tíquetes Jira para Texto Alternativo (Acesso Antecipado)** — Crie tíquetes Jira para um ou mais problemas de Texto Alternativo, com o URL da página, URL da imagem e texto alternativo sugerido incluído em cada tíquete.
+
+## 19-25 de outubro de 2026 {#october-19-25-2026}
+
+### Novos recursos
+
+- **Relatório de acessibilidade unificado (acesso antecipado)** — O relatório de acessibilidade agora reúne todas as descobertas em um único relatório, com uma visão geral dos problemas e um detalhamento por tipo de problema, grupo de páginas e página. Abra um painel lateral para obter orientação sobre correções no nível do elemento e exporte o relatório como um arquivo CSV.
+- **Configuração de Links de Navegação do Site de Comprovação** — Escolha se a auditoria de Links Internos verifica os links dentro dos menus de navegação do site. A configuração está desativada por padrão, portanto, as auditorias são concluídas mais rapidamente e a opção **Reanalisar** mostra quando uma configuração alterada ainda não foi aplicada.
 - **Comprovação de Filtros de Instância** — Nas páginas de detalhes de Links Internos e Links Externos, filtre instâncias por **Quebradas** ou **Precisa de verificação**.
 
 ### Aprimoramentos
 
+- **Redirecionamentos de Dispatcher de Backlinks Quebrados (Acesso Antecipado)** — Em sites do AEM as a Cloud Service em que o Sites Optimizer implanta redirecionamentos por meio do Dispatcher, as correções de backlink quebradas agora são rotuladas como implantadas no Dispatcher em vez de no AEM Author, e você pode reverter um redirecionamento implantado.
+- **Status de Auditoria do Monitor de Integridade do Site** — As pontuações de integridade agora refletem as auditorias habilitadas para o site. Auditorias desativadas são ocultas, auditorias que precisam de configuração são mostradas com uma explicação e não são contadas para pontuações de categoria.
+- **Nenhuma CTA Acima das Propostas de Dobra** — Nenhuma sugestão de CTA Acima da Dobra agora mostra uma proposta estruturada do call-to-action com capturas de tela lado a lado do **Controle** e da **Proposta**, e as oportunidades aparecem apenas quando ambas as capturas de tela estão disponíveis.
+- **Permissões de grupo (acesso antecipado)** — Conceda acesso ao site a grupos de usuários em sua organização, não apenas a pessoas individuais, e veja um selo de **Usuário inativo** para membros que não estão mais no diretório de sua organização.
+- **Ignoras de Dados Estruturados Restauráveis** — Os problemas de Dados Estruturados Ignorados agora aparecem em uma guia **Ignorados**, onde você pode restaurá-los.
+- **Sugestões de Dados Estruturados de Perguntas Frequentes** — as sugestões de perguntas frequentes agora mostram exatamente os pares de perguntas e respostas que serão implantados. Pares individuais não podem mais ser excluídos da tabela.
+- **Progresso da Auditoria de Comprovação** — O medidor de disponibilidade agora mostra a porcentagem de auditorias que passaram, e cada categoria mostra quando suas auditorias ainda estão em execução, com uma contagem &quot;aprovada até agora&quot; até que seus resultados sejam finais.
+- **Cobertura de Links Internos de Comprovação** — A auditoria de Links Internos agora verifica todos os links de mesmo host qualificados na página, incluindo links em componentes repetidos, como listas de cartões. Os links de navegação do site são incluídos somente quando **Mostrar links de navegação do site** é selecionado. Os links fora da navegação do site são listados primeiro e a Comprovação relata claramente quando uma página tem muitos links para check-in a tempo.
+- As **Ações do Cabeçalho de Comprovação** — **Reanalisar** e **Fechar** sempre permanecem visíveis no cabeçalho de Comprovação, e as **Exportar** e **Configurações** são movidas para o menu **Mais ações** quando o espaço é limitado.
 - **Tentativas de Links Internos de Comprovação** — A auditoria de Links Internos agora repete links que falham temporariamente, portanto, uma pequena interrupção tem menos probabilidade de ser relatada como um link quebrado.
 - **Indicadores de Progresso de Comprovação** — Os indicadores de processamento agora aparecem somente nas auditorias que ainda estão em execução, não em suas categorias.
 - **Detalhes da oportunidade de comprovação** — as oportunidades não mostram mais medalhas de severidade e as exportações de CSV e PDF não incluem mais a severidade.
 
 ### Correções de erros
 
+- A pesquisa de oportunidade agora retorna resultados consistentes independentemente de letras maiúsculas e minúsculas, acentos, traços ou espaços extras, inclusive quando você cola um nome de oportunidade.
+- O Site Health Monitor não lista mais os documentos do PDF como páginas.
+- **Saiba mais** links na caixa de diálogo Conectar-se ao AEM Sites, rótulos de severidade compostos e cartões de métrica de avaliação da Página inicial agora são exibidos corretamente em todos os idiomas com suporte.
 - URLs longos nos detalhes de oportunidade de Comprovação agora envolvem, em vez de ampliar o cartão.
 
-## 5 a 20 de outubro de 2026 {#october-5-20-2026}
-
-### Novos recursos
-
-- **Configuração de Links de Navegação do Site de Comprovação** — Escolha se a auditoria de Links Internos verifica os links dentro dos menus de navegação do site. A configuração está desativada por padrão, portanto, as auditorias são concluídas mais rapidamente e a opção **Reanalisar** mostra quando uma configuração alterada ainda não foi aplicada.
+## 12-18 de outubro de 2026 {#october-12-18-2026}
 
 ### Aprimoramentos
 
-- **Progresso da Auditoria de Comprovação** — O medidor de disponibilidade agora mostra a porcentagem de auditorias que passaram, e cada categoria mostra quando suas auditorias ainda estão em execução, com uma contagem &quot;aprovada até agora&quot; até que seus resultados sejam finais.
-- **Cobertura de Links Internos de Comprovação** — A auditoria de Links Internos agora verifica todos os links de mesmo host qualificados na página, incluindo links em componentes repetidos, como listas de cartões. Os links de navegação do site são incluídos somente quando **Mostrar links de navegação do site** é selecionado. Os links fora da navegação do site são listados primeiro e a Comprovação relata claramente quando uma página tem muitos links para check-in a tempo.
-- **Detalhes do Link de Comprovação** — Os links corrompidos sinalizados pelo verificador de links da AEM agora mostram o texto visível do link em vez de um seletor CSS.
-- As **Ações do Cabeçalho de Comprovação** — **Reanalisar** e **Fechar** sempre permanecem visíveis no cabeçalho de Comprovação, e as **Exportar** e **Configurações** são movidas para o menu **Mais ações** quando o espaço é limitado.
+- **Tíquetes Jira em Massa para Acessibilidade (Acesso Antecipado)** — Selecione vários problemas de Acessibilidade, Contraste de Cores e Acessibilidade de Formulário e crie um tíquete Jira com um título agrupado e um único anexo de correção de código combinado.
+- **Métricas do Site Health Monitor** — O Site Health Monitor não usa mais a métrica de taxa de cliques (CTR) desativada em sua lógica de integridade ou painel.
 - **Comprovação de Correspondência de Site** — Quando uma página corresponde a mais de um site integrado, a Comprovação explica o problema e permite que você continue com um dos sites correspondentes.
 - **Sugestões de Texto Alternativo de Comprovação** — as oportunidades de Texto Alternativo mostram o texto alternativo sugerido como uma sugestão pronta para uso, seguido pelo motivo da sugestão quando ela estiver disponível.
 - **Detalhes do Ipsum de Lorem de Comprovação** — Quando um texto de espaço reservado é encontrado em um atributo, como o texto alternativo de uma imagem, a oportunidade mostra qual atributo correspondeu.
+
+### Correções de erros
+
+- Oportunidades com sugestões desatualizadas agora mostram um status consistente na lista de oportunidades e nas páginas de detalhes.
+
+## 5 a 11 de outubro de 2026 {#october-5-11-2026}
+
+### Novos recursos
+
+- **Exibição da Implantação de Dados Estruturados de Perguntas Frequentes (Acesso Antecipado)** — Uma exibição **Implantada** lista as correções de dados estruturados de perguntas frequentes implantadas, mostrando a página em que cada correção foi aplicada com um link para abri-la no AEM.
+
+### Aprimoramentos
+
+- **Alertas do Site e Core Web Vitals (Acesso Antecipado)** — Mova entre Alertas do Site e sugestões do Core Web Vitals com um único clique. Os incidentes de alerta são vinculados às correções disponíveis, e as linhas do Core Web Vitals mostram um símbolo de **Alerta** quando a página tem um alerta de site.
 - **Comprovação no Editor Universal** — As auditorias no Editor Universal agora usam o conteúdo renderizado da página, tornando-o mais rápido e confiável.
+- **Detalhes do Link de Comprovação** — Os links corrompidos sinalizados pelo verificador de links da AEM agora mostram o texto visível do link em vez de um seletor CSS.
+
+### Correções de erros
+
+- A conexão de uma conta do Google Ads a partir da Experience Cloud agora é concluída com confiança, o seletor de contas não é mais reaberto depois que você salva sua seleção e o cartão de conexão é atualizado depois que você se desconecta.
+- **Implantar** em uma linha de dados estruturados de Perguntas frequentes individuais agora abre a caixa de diálogo Gerenciador de Vários Sites para que você possa escolher se deseja atualizar a página de origem ou somente a página local.
 
 ## 28 de setembro a 4 de outubro de 2026 {#september-28-october-4-2026}
 

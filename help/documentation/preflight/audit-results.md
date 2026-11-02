@@ -4,10 +4,10 @@ description: Saiba como interpretar os resultados da auditoria de Comprovação,
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
+source-git-commit: 00dbc1a9033cf327da68df99c9604b50f45b43ee
 workflow-type: tm+mt
-source-wordcount: '1616'
-ht-degree: 1%
+source-wordcount: '1653'
+ht-degree: 0%
 ---
 
 # Resultados de auditoria na simulação
@@ -92,15 +92,15 @@ O filtro não altera as contagens de oportunidades no painel de resultados ou no
 
 Após a conclusão das auditorias, é possível localizar e entender rapidamente uma oportunidade, destacando-a diretamente na página.
 
-A comprovação destaca o elemento afetado no contexto, conectando o resultado no painel ao local exato no seu conteúdo. Isso facilita a análise e a resolução de oportunidades sem pesquisar manualmente pela página.
+A comprovação destaca o elemento afetado no contexto, conectando o resultado no painel à sua localização no conteúdo. No Editor universal, a comprovação usa o contorno de seleção do editor. Em outros ambientes de criação, o destaque usa anéis de contorno contrastantes para permanecer visível no plano de fundo da página.
 
 1. Abra o painel Comprovação no contexto da página para auditar e selecione **Analisar página** para executar as auditorias.
 1. Selecione uma auditoria no painel de resultados e, em seguida, selecione uma oportunidade para revisar.
-1. Selecione **Destaque na página**. A visualização rola automaticamente para a área relevante e realça o elemento correspondente, para que você possa identificar e otimizar facilmente a oportunidade no contexto.
+1. Selecione **Destaque na página**. A visualização rola automaticamente para a área relevante e realça o elemento correspondente, para que você possa identificar e otimizar facilmente a oportunidade no contexto. Selecione **Realçar na página** novamente para remover o realce sem sair da oportunidade.
 
 O realce não é possível para todas as oportunidades — por exemplo, quando uma oportunidade não está vinculada a um elemento específico, o elemento é oculto ou não está mais na página. Nesses casos, o botão **Realçar na página** está esmaecido; passe o mouse sobre ele para ver o motivo.
 
-No Editor Universal, o realce ainda não é suportado para as oportunidades de **Acessibilidade**; o botão **Realçar na página** fica esmaecido e você pode passar o mouse sobre ele para ver o motivo.
+No Editor Universal, o realce é suportado para oportunidades **SEO** e **texto alternativo** na categoria **Acessibilidade**. Outras oportunidades de **Acessibilidade** ainda não são permitidas. Nesses casos, o botão **Realçar na página** está esmaecido; passe o mouse sobre ele para ver o motivo.
 
 No Editor universal, a simulação só pode realçar o conteúdo editável. Se o elemento afetado não fizer parte do conteúdo editável, o botão **Realçar na página** ficará esmaecido; passe o mouse sobre ele para ver o motivo. Se o elemento em si não for diretamente editável, mas o bloco editável mais próximo for, o Preflight realçará esse bloco e adicionará uma nota explicando o porquê.
 

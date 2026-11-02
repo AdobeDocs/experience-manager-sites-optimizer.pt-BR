@@ -5,23 +5,18 @@ TQID: https://experienceleague.adobe.com/GfLmEEBoSP2481ZZUjRyyfMjExGgI0l9yMAqTF8
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9edf940bffa7407ca58ea9f504ea8afe4bdd7a50
+source-git-commit: 00dbc1a9033cf327da68df99c9604b50f45b43ee
 workflow-type: tm+mt
-source-wordcount: 896
-ht-degree: 47%
-
+source-wordcount: '877'
+ht-degree: 49%
 ---
-
 # Configurações de simulação
 
 A execução da comprovação exige a sua configuração no ambiente de criação. Você pode configurar a Comprovação para o Editor universal, Criação baseada em documento, Editor de páginas do AEM Sites ou Adobe Managed Services, de modo que possa executar auditorias de Comprovação em suas páginas antes que elas sejam publicadas.
 
 ## Habilitar acesso do usuário
 
-Para usar a Comprovação, verifique se o usuário está atribuído a pelo menos um dos seguintes perfis de produto do AEM Sites Optimizer no [Adobe Admin Console](https://adminconsole.adobe.com):
-
-* AEM Sites Optimizer: sugerir usuário automaticamente
-* AEM Sites Optimizer: otimizar usuário automaticamente
+Para usar a Comprovação, o produto **Adobe Experience Manager Sites Optimizer** no [Adobe Admin Console](https://adminconsole.adobe.com) deve ser atribuído aos usuários.
 
 ## Ativar simulação
 

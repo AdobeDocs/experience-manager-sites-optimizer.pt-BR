@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
+source-git-commit: 7a1c63e47cd778635fd18113bc2b08c83447fe35
 workflow-type: tm+mt
-source-wordcount: '3815'
+source-wordcount: '3973'
 ht-degree: 1%
 ---
 
@@ -19,20 +19,28 @@ Esta página documenta as atualizações mais recentes, os novos recursos e as m
 
 Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante solicitação — entre em contato com a equipe de sua conta ou o Engenheiro de sucesso do cliente para habilitá-los para sua organização.
 
-## 26-28 de outubro de 2026 {#october-26-28-2026}
+## 26 de outubro-1 de novembro de 2026 {#october-26-november-1-2026}
 
 ### Novos recursos
 
-- **Cobertura de auditoria em Configurações** — As configurações agora incluem uma seção **Cobertura de auditoria** que lista as auditorias em execução para o seu site, agrupadas por categoria, como SEO, Acessibilidade, Segurança, Conversão e envolvimento.
+- **Cobertura de auditoria em Configurações** — As configurações agora incluem uma seção **Cobertura de auditoria** que lista as auditorias em execução para seu site, agrupadas por categoria, como SEO, Acessibilidade, Segurança, Conversão e envolvimento, incluindo verificações habilitadas para páginas de erro 404, script entre sites e consentimento de cookies.
 - **Valor Estimado (Acesso Antecipado)** — Core Web Vitals, Texto Alternativo, acessibilidade, Contraste de Cores, Acessibilidade de Formulários e oportunidades de segurança agora mostram um valor estimado, como mão de obra salva ou risco evitado, para ajudá-lo a priorizar correções. O trabalho salvo para correções de acessibilidade e segurança é mostrado como um valor único, e as oportunidades Mapa do site e Hreflang mostram quantos problemas foram sinalizados.
 
 ### Aprimoramentos
 
 - **Tíquetes Jira para Texto Alternativo (Acesso Antecipado)** — Crie tíquetes Jira para um ou mais problemas de Texto Alternativo, com o URL da página, URL da imagem e texto alternativo sugerido incluído em cada tíquete.
+- **Detalhes da Correção do Contraste de Cores** — Em sites com suporte, revise uma linha separada para cada página e causa raiz, com uma correção compartilhada para os elementos afetados e uma explicação do impacto de cada elemento sobre o usuário.
+- **Contexto de Implantação do Cloud Manager** — A linha do tempo de Alertas de Site agora identifica **Implantações do Cloud Manager** e explica quais implantações de produção aparecem.
+- **Implantação de Marca do Meta** — Quando as informações de relação da página estão disponíveis, a caixa de diálogo de implantação é aberta sem uma conexão adicional com o Autor do AEM, tornando mais confiável escolher se deseja corrigir a página de origem ou uma cópia local no Gerenciador de Vários Sites do AEM.
 - **Auditorias de Comprovação Que Não Puderam Ser Concluídas** — Uma auditoria que não pôde ser concluída agora mostra seu motivo em vez de aparecer como aprovado. Conta como não transmitido no **% transmitido** valor, e as exportações de CSV e PDF sempre o listam.
 - **Progresso do Texto Alternativo de Comprovação** — Enquanto a verificação da IA para uma imagem ainda estiver em execução, sua oportunidade de Texto Alternativo será exibida com um indicador **Gerando sugestão**. A visualização de detalhes da oportunidade também permanece na oportunidade que você está visualizando quando os resultados são alterados.
 - **Motivos de Links Externos de Comprovação** — A auditoria de Links Externos agora explica mais tipos de falha, incluindo erros de servidor, loops de redirecionamento, links que exigem entrada e links indisponíveis por motivos legais. Os links que atingem o tempo limite ou bloqueiam verificações automatizadas agora solicitam sua confirmação manualmente.
 - **Captura de página de comprovação** — A comprovação agora aguarda até 30 segundos para que uma página seja carregada lentamente antes de analisar a página, fora do Editor Universal.
+
+### Correções de erros
+
+- O histórico de eventos Alertas do site agora exibe a métrica correta do Core Web Vitals e o valor para cada incidente, as quedas de desempenho são rotuladas como **Degradação** de forma consistente nos Alertas do site, e os links de sugestão abrem uma sugestão disponível, em vez de uma desatualizada.
+- Correção de um problema que poderia impedir a reversão de correções de oportunidades implantadas.
 
 ## 19-25 de outubro de 2026 {#october-19-25-2026}
 

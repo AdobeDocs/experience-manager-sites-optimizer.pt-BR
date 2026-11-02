@@ -4,10 +4,10 @@ description: Saiba como interpretar os resultados da auditoria de Comprovação,
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
 workflow-type: tm+mt
-source-wordcount: '1468'
-ht-degree: 2%
+source-wordcount: '1616'
+ht-degree: 1%
 ---
 
 # Resultados de auditoria na simulação
@@ -28,6 +28,8 @@ Ao exportar, você também pode escolher o que incluir:
 
 * **Incluir tabela de metadados** - Adicione uma tabela de detalhes de execução, como o host, o caminho de conteúdo e os detalhes de geração.
 * **Incluir auditorias aprovadas** - Inclua as auditorias aprovadas que não tiveram oportunidades, não apenas as oportunidades encontradas.
+
+Auditorias que não puderam ser concluídas são sempre incluídas, qualquer que seja a sua escolha. Para obter mais informações, consulte [Auditorias que não puderam ser concluídas](#audits-that-could-not-be-completed).
 
 >[!NOTE]
 >
@@ -50,6 +52,15 @@ Comprove auditorias relacionadas a grupos em categorias, como **SEO** e **Acessi
 Expanda uma categoria para ver suas auditorias individuais. Cada auditoria mostra se passou ou encontrou oportunidades, uma breve descrição e uma contagem das oportunidades encontradas. Selecione uma auditoria que encontrou oportunidades para abrir sua página de detalhes.
 
 Uma categoria pode mostrar resultados enquanto algumas de suas auditorias ainda estão em execução. Seu status diz, por exemplo, **3/3 auditorias aprovadas até agora**. Essa contagem inclui apenas as auditorias que retornaram resultados, portanto, pode ser alterada à medida que mais resultados chegam. Expanda a categoria para ver quais auditorias ainda estão em execução. Uma categoria sem oportunidades mostra a marca de seleção totalmente limpa somente após a conclusão do trabalho pendente.
+
+### Auditorias que não puderam ser concluídas
+
+Ocasionalmente, uma auditoria não pode ser concluída para uma página, por exemplo, porque a verificação não pôde avaliar a página ou ocorreu um erro. A comprovação não mostra essa auditoria como aprovada. Em vez disso:
+
+* A linha da auditoria mostra um ícone neutro e o motivo pelo qual a auditoria não pôde ser concluída, no lugar de sua descrição normal. Quando o motivo sugerir, execute a Comprovação novamente para tentar novamente.
+* A auditoria conta como não aprovada no **% aprovado** valor e na contagem de auditorias de sua categoria aprovada.
+* Sua categoria não mostra a marca de seleção totalmente limpa.
+* O relatório exportado sempre lista a auditoria e seu motivo, mesmo quando **Incluir auditorias aprovadas** não está selecionado. O resumo do relatório nunca diz que todas as verificações foram aprovadas.
 
 Para obter a lista completa das categorias de auditoria e das auditorias em cada uma, consulte [Categorias de auditoria de comprovação](./overview.md#preflight-audit-categories).
 

@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 733056458d3e34a9ef2e285adfc810a98159002b
+source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
 workflow-type: tm+mt
-source-wordcount: '3666'
+source-wordcount: '3815'
 ht-degree: 1%
 ---
 
@@ -29,6 +29,10 @@ Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante s
 ### Aprimoramentos
 
 - **Tíquetes Jira para Texto Alternativo (Acesso Antecipado)** — Crie tíquetes Jira para um ou mais problemas de Texto Alternativo, com o URL da página, URL da imagem e texto alternativo sugerido incluído em cada tíquete.
+- **Auditorias de Comprovação Que Não Puderam Ser Concluídas** — Uma auditoria que não pôde ser concluída agora mostra seu motivo em vez de aparecer como aprovado. Conta como não transmitido no **% transmitido** valor, e as exportações de CSV e PDF sempre o listam.
+- **Progresso do Texto Alternativo de Comprovação** — Enquanto a verificação da IA para uma imagem ainda estiver em execução, sua oportunidade de Texto Alternativo será exibida com um indicador **Gerando sugestão**. A visualização de detalhes da oportunidade também permanece na oportunidade que você está visualizando quando os resultados são alterados.
+- **Motivos de Links Externos de Comprovação** — A auditoria de Links Externos agora explica mais tipos de falha, incluindo erros de servidor, loops de redirecionamento, links que exigem entrada e links indisponíveis por motivos legais. Os links que atingem o tempo limite ou bloqueiam verificações automatizadas agora solicitam sua confirmação manualmente.
+- **Captura de página de comprovação** — A comprovação agora aguarda até 30 segundos para que uma página seja carregada lentamente antes de analisar a página, fora do Editor Universal.
 
 ## 19-25 de outubro de 2026 {#october-19-25-2026}
 

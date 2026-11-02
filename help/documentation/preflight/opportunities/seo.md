@@ -4,9 +4,9 @@ description: Saiba mais sobre as auditorias de SEO que a Comprovação executa e
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 7c362d99632758d1aba0af2bdccaa75c48abd2ec
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '201'
 ht-degree: 0%
 ---
 # Auditorias de SEO
@@ -23,7 +23,6 @@ A categoria de SEO inclui as seguintes auditorias:
 * [Cabeçalhos](./seo/headings.md) - Examina a estrutura e a ordem do cabeçalho da página.
 * [Links internos](./seo/internal-links.md) - Examina os links na página que apontam para seu próprio site.
 * [Links Externos](./seo/external-links.md) - Examina os links na página que apontam para outros sites.
-* [Legibilidade](./seo/readability.md) - Analisa a facilidade de leitura do conteúdo da página.
 * [Canônico](./seo/canonical.md) - Revisa o link canônico da página.
 * [Tamanho do corpo](./seo/body-size.md) - Revisa a quantidade de conteúdo do corpo na página.
 * [Lorem ipsum](./seo/lorem-ipsum.md) - Detecta o texto de espaço reservado deixado no conteúdo.

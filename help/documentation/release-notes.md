@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 7a1c63e47cd778635fd18113bc2b08c83447fe35
+source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
 workflow-type: tm+mt
-source-wordcount: '3973'
+source-wordcount: '3999'
 ht-degree: 1%
 ---
 
@@ -35,6 +35,7 @@ Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante s
 - **Auditorias de Comprovação Que Não Puderam Ser Concluídas** — Uma auditoria que não pôde ser concluída agora mostra seu motivo em vez de aparecer como aprovado. Conta como não transmitido no **% transmitido** valor, e as exportações de CSV e PDF sempre o listam.
 - **Progresso do Texto Alternativo de Comprovação** — Enquanto a verificação da IA para uma imagem ainda estiver em execução, sua oportunidade de Texto Alternativo será exibida com um indicador **Gerando sugestão**. A visualização de detalhes da oportunidade também permanece na oportunidade que você está visualizando quando os resultados são alterados.
 - **Motivos de Links Externos de Comprovação** — A auditoria de Links Externos agora explica mais tipos de falha, incluindo erros de servidor, loops de redirecionamento, links que exigem entrada e links indisponíveis por motivos legais. Os links que atingem o tempo limite ou bloqueiam verificações automatizadas agora solicitam sua confirmação manualmente.
+- **Detalhes do Lorem Ipsum de Comprovação** — as descobertas do Lorem Ipsum agora identificam onde o texto do espaço reservado é exibido, explicam como corrigi-lo e mostram o texto dentro da marca HTML.
 - **Captura de página de comprovação** — A comprovação agora aguarda até 30 segundos para que uma página seja carregada lentamente antes de analisar a página, fora do Editor Universal.
 
 ### Correções de erros

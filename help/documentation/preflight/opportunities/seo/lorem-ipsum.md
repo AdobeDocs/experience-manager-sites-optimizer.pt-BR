@@ -4,9 +4,9 @@ description: Saiba mais sobre a auditoria Lorem ipsum em Comprovação para AEM 
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 587aec4eb905a2b1ced746590ca25b8ed97b16c1
+source-git-commit: 64709247e9a900f505b47235bf303984ce918faa
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '370'
 ht-degree: 1%
 ---
 # Auditoria Lorem ipsum
@@ -37,8 +37,12 @@ A auditoria procura a frase &quot;lorem ipsum&quot; em qualquer combinação de 
 ## Limitações conhecidas
 
 * **Somente &quot;lorem ipsum&quot;:** outro texto de espaço reservado, como &quot;TBD&quot; ou outras palavras de preenchimento latinas sem &quot;lorem ipsum&quot;, não foi detectado.
-* **Destaque na página:** não está disponível para o título ou os metadados da página, pois eles não aparecem na página. Use o texto mostrado na oportunidade para encontrá-los.
+* **Destaque na página:** não está disponível para o título ou os metadados da página, pois eles não aparecem na página. Use **Detalhes** e a caixa **Elemento** para localizar o texto.
 
 ## Como resolver
 
-Quando a auditoria encontra oportunidades, cada uma identifica onde o texto do espaço reservado aparece. Onde estiver disponível, use **Realçar na página** para ir para o texto em seu conteúdo. Substitua o espaço reservado por conteúdo real ou remova-o. Para rótulos de texto alternativo e acessibilidade, escreva uma descrição da imagem ou do controle. Para saber como revisar e resolver oportunidades, consulte [Resultados de auditoria em Comprovação](../../audit-results.md).
+Verifique **Detalhes** para o local do texto, como um título de página, texto alternativo ou cabeçalho. **Recomendação** explica como corrigi-la, e a caixa **Elemento** mostra o texto dentro de sua marca.
+
+Use **Realce na página** onde disponível. Um elemento oculto pode aparecer em outros tamanhos de tela ou em um menu ou caixa de diálogo.
+
+Substitua ou remova o texto do espaço reservado. Para rótulos de texto alternativo e acessibilidade, descreva a imagem ou o controle. Consulte [Resultados da auditoria em Comprovação](../../audit-results.md) para obter mais orientações.

@@ -4,9 +4,9 @@ description: Saiba como interpretar os resultados da auditoria de Comprovação,
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 00dbc1a9033cf327da68df99c9604b50f45b43ee
+source-git-commit: b17260f7dbb82fd26120fd90c1d21a22d33949b1
 workflow-type: tm+mt
-source-wordcount: '1653'
+source-wordcount: '1703'
 ht-degree: 0%
 ---
 
@@ -77,7 +77,13 @@ Quando mais de uma oportunidade afeta o mesmo item (por exemplo, vários problem
 Cada oportunidade inclui:
 
 * Detalhes sobre a oportunidade, como uma descrição do problema, uma recomendação e, para acessibilidade, a regra WCAG relacionada e o nível de conformidade.
-* Uma seção **Elemento** que identifica o elemento afetado na página, com um botão **Realce na página**. Quando o elemento tem texto legível, a seção é denominada **Elemento: Texto** e mostra esse texto; caso contrário, ela é denominada **Elemento: Seletor** e mostra o seletor de CSS do elemento. Para oportunidades de **Links Internos** e **Canônico**, uma seção **URL Atual** também mostra a URL envolvida. Selecione **Copiar URL** para copiá-la para a área de transferência ou **Abrir em nova guia** para abri-la.
+* Uma seção **Element** que identifica o elemento afetado. Seu título mostra o que ele exibe:
+  * **Elemento: Texto** - o texto do elemento ou o endereço ao qual ele está vinculado.
+  * **Elemento: Imagem** - uma miniatura da imagem, por exemplo, em **Texto alternativo** e outras oportunidades de **Acessibilidade**.
+  * **Elemento: Seletor** - o seletor de CSS do elemento, quando nenhum texto ou imagem está disponível.
+
+  Para copiar, passe o mouse sobre ou focalize a seção. **Elemento: Texto** mostra **Mais ações** (**...**) menu com **Copiar texto** e **Copiar seletor**. **Elemento: Imagem** e **Elemento: Seletor** mostram um ícone de cópia que copia o seletor de CSS. Uma mensagem de confirmação é exibida quando a cópia é bem-sucedida.
+* Para oportunidades de **Links Internos** e **Canônico**, uma seção **URL Atual** que mostra a URL envolvida. Selecione **Copiar URL** para copiá-la ou **Abrir em nova guia** para abri-la.
 * Uma seção **Sugestão** com uma correção recomendada. Quando a sugestão é gerada pela IA, ela é marcada como uma sugestão gerada pela IA e pode incluir um breve raciocínio explicando a correção sugerida.
 
 ### Filtrar instâncias

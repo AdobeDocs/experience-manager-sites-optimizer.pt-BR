@@ -1,15 +1,16 @@
 ---
 title: Auditoria de links internos de comprovação
 description: Saiba mais sobre a auditoria de Links internos em Comprovação para AEM Sites Optimizer.
+badgePreflightSEO: label="Comprovação - SEO" type="Caution" url="../seo.md" tooltip="Comprovação - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1043'
 ht-degree: 0%
 ---
-# Auditoria de Links internos
+# Comprovação - Auditoria de links internos
 
 A auditoria de **Links internos** analisa os links na sua página que apontam para o seu próprio site. A auditoria verifica cada link interno da página que você está editando e sinaliza aqueles que estão quebrados, inseguros ou apontados para algum lugar que um visitante não pode seguir.
 

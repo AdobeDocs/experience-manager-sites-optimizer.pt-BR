@@ -1,15 +1,16 @@
 ---
 title: Comprovação de auditoria canônica
 description: Saiba mais sobre a auditoria canônica em Comprovação para AEM Sites Optimizer.
+badgePreflightSEO: label="Comprovação - SEO" type="Caution" url="../seo.md" tooltip="Comprovação - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 5c97431c2029e117339877219c2d6e4e30902a70
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 0%
 ---
-# Auditoria canônica
+# Comprovação - Auditoria canônica
 
 A auditoria **Canônica** revisa o link canônico na sua página. O link canônico é uma tag `<link rel="canonical">` no `<head>` da página que nomeia a URL preferencial para o conteúdo da página. A auditoria sinaliza links canônicos que estão ausentes, configurados incorretamente ou que apontam para outro lugar que não a própria página.
 
@@ -25,7 +26,7 @@ A auditoria verifica a existência de problemas em três domínios:
 
 * **Se a página tem um link canônico:** o link canônico está ausente ou a página tem mais de um. Vários links canônicos que apontam para URLs diferentes são relatados separadamente, porque os mecanismos de pesquisa podem ignorar todos eles.
 * **Se a marca está configurada corretamente:** a marca está fora de `<head>`, não tem atributo `href` ou vazio, ou carrega um atributo como `hreflang`, `media` ou `type` que pode fazer com que os mecanismos de pesquisa a ignorem.
-* **Se a URL está correta:** a URL canônica é relativa em vez de absoluta, contém letras maiúsculas no caminho ou na cadeia de caracteres de consulta, usa um protocolo diferente (`http://` ou `https://`) da página ou aponta para uma página diferente daquela que você está editando.
+* **Se a URL está correta:** a URL canônica é relativa em vez de absoluta, contém letras maiúsculas no caminho ou na cadeia de caracteres de consulta, usa `http://` em vez de `https://` ou aponta para uma página diferente da que você está editando.
 
 ## Como o URL canônico é comparado
 
@@ -38,4 +39,4 @@ A simulação é executada nas páginas de visualização, cujo host geralmente 
 
 ## Como resolver
 
-Quando a auditoria encontra oportunidades, cada uma descreve o problema e a alteração recomendada. Na maioria dos casos, a página deve ter exatamente um link canônico, no `<head>`, com uma URL absoluta com um caminho em minúsculas que aponte para a própria página. Se a página apontar intencionalmente para outra página como sua versão canônica, por exemplo, uma cópia duplicada ou amigável para impressora, você pode deixá-la como está. A auditoria continuará a informá-lo. Para saber como revisar e resolver oportunidades, consulte [Resultados de auditoria em Comprovação](../../audit-results.md).
+Quando a auditoria encontra oportunidades, cada uma descreve o problema e a alteração recomendada. Na maioria dos casos, a página deve ter exatamente um link canônico, no `<head>`, com uma URL `https://` absoluta com um caminho em minúsculas que aponte para a própria página. Se a página apontar intencionalmente para outra página como sua versão canônica, por exemplo, uma cópia duplicada ou amigável para impressora, você pode deixá-la como está. A auditoria continuará a informá-lo. Para saber como revisar e resolver oportunidades, consulte [Resultados de auditoria em Comprovação](../../audit-results.md).

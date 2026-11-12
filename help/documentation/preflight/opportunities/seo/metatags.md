@@ -1,15 +1,16 @@
 ---
 title: Auditoria de metatags de comprovação
 description: Saiba mais sobre a auditoria de Metatags em Comprovação para AEM Sites Optimizer.
+badgePreflightSEO: label="Comprovação - SEO" type="Caution" url="../seo.md" tooltip="Comprovação - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 59c097682899889aa2a5d76333f80cc58e28ff1e
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '806'
 ht-degree: 1%
 ---
-# Auditoria de metatags
+# Comprovação - Auditoria de metatags
 
 A auditoria **Metatags** revisa o título da página, a meta descrição e o cabeçalho principal (H1). Ele sinaliza qualquer um deles que está ausente, vazio ou fora do comprimento recomendado e sinaliza páginas com mais de um cabeçalho H1.
 

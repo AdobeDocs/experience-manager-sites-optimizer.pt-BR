@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: b17260f7dbb82fd26120fd90c1d21a22d33949b1
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '4035'
+source-wordcount: '4063'
 ht-degree: 1%
 ---
 
@@ -24,6 +24,7 @@ Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante s
 ### Aprimoramentos
 
 - **Painel de Elementos de Comprovação** — A seção **Elemento** agora mostra uma miniatura de imagem ou um texto legível, em vez de um seletor CSS, quando possível, e permite copiar o texto do elemento ou o seletor CSS.
+- **Comprovação de HTTPS Canônico** — A auditoria Canônica agora sinaliza uma URL canônica que usa `http://` em vez de `https://`, em vez de sinalizar uma URL canônica cujo protocolo difere do da página.
 
 ## 26 de outubro-1 de novembro de 2026 {#october-26-november-1-2026}
 

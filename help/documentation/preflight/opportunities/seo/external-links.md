@@ -1,15 +1,16 @@
 ---
 title: Auditoria de Links Externos de Comprovação
 description: Saiba mais sobre a auditoria de Links externos em Comprovação para AEM Sites Optimizer.
+badgePreflightSEO: label="Comprovação - SEO" type="Caution" url="../seo.md" tooltip="Comprovação - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 12279cd1468a3442709cb73a8691922598a33dab
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1117'
 ht-degree: 0%
 ---
-# Auditoria de Links Externos
+# Comprovação - Auditoria de links externos
 
 A auditoria de **Links Externos** analisa os links na sua página que apontam para outros sites. A auditoria verifica cada link externo da página que você está editando e sinaliza os que estão corrompidos, inseguros ou que não puderam ser verificados automaticamente.
 

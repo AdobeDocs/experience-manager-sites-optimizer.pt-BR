@@ -1,15 +1,16 @@
 ---
 title: Auditoria de Tamanho de Corpo de Comprovação
 description: Saiba mais sobre a auditoria de tamanho de corpo em Comprovação para AEM Sites Optimizer.
+badgePreflightSEO: label="Comprovação - SEO" type="Caution" url="../seo.md" tooltip="Comprovação - SEO"
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
-source-git-commit: 9fd898e905bf843b4d39891c5875497a01569791
+source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '697'
 ht-degree: 0%
 ---
-# Auditoria de tamanho do corpo
+# Comprovação - Auditoria de tamanho do corpo
 
 A auditoria **Tamanho do corpo** revisa a quantidade de conteúdo do corpo na sua página. Páginas com pouco conteúdo podem ser menos úteis para os leitores e podem ser mal classificadas nos resultados de pesquisa. As páginas de sinalizadores de auditoria parecem ter muito pouco texto.
 

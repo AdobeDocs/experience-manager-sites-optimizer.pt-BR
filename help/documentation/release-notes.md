@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 659419fa2eb570b4e1fedf87c35c5c60c46ffc8a
+source-git-commit: e522ca835da67851faebe486165ba8f7fc850998
 workflow-type: tm+mt
-source-wordcount: '4063'
+source-wordcount: '4702'
 ht-degree: 1%
 ---
 
@@ -19,12 +19,54 @@ Esta página documenta as atualizações mais recentes, os novos recursos e as m
 
 Os recursos marcados como **(Acesso antecipado)** estão disponíveis mediante solicitação — entre em contato com a equipe de sua conta ou o Engenheiro de sucesso do cliente para habilitá-los para sua organização.
 
-## 11 de novembro de 2026 {#november-11-2026}
+## 9-12 de novembro de 2026 {#november-9-12-2026}
+
+### Novos recursos
+
+- **Oportunidades adicionais de acessibilidade (acesso antecipado)** — encontre acesso ao teclado, idioma e título da página, tabela de dados, mídia e movimento, e problemas de espaçamento e tamanho de destino como oportunidades de acessibilidade separadas, cada uma com sua própria página de detalhes.
 
 ### Aprimoramentos
 
 - **Painel de Elementos de Comprovação** — A seção **Elemento** agora mostra uma miniatura de imagem ou um texto legível, em vez de um seletor CSS, quando possível, e permite copiar o texto do elemento ou o seletor CSS.
 - **Comprovação de HTTPS Canônico** — A auditoria Canônica agora sinaliza uma URL canônica que usa `http://` em vez de `https://`, em vez de sinalizar uma URL canônica cujo protocolo difere do da página.
+- **Priorização de correção do Core Web Vitals** — A guia **Atual** agora lista os problemas do Core Web Vitals com os patches de código mais testados primeiro, para que você possa começar com as correções mais confiáveis.
+
+### Correções de erros
+
+- Correção de um problema que poderia ocultar uma oportunidade das guias **Atual** e **Implantado**.
+- O link Diretrizes de usuário da IA na divulgação da IA agora é aberto no idioma selecionado.
+- Os anúncios de Novidades agora são exibidos em chinês simplificado e tradicional em vez de inglês.
+
+## 2-8 de novembro de 2026 {#november-2-8-2026}
+
+### Novos recursos
+
+- **Correções de código de rótulo ARIA (Acesso antecipado)** — Revise e baixe patches de código no nível do componente para problemas de rótulo ARIA compatíveis, veja quais rótulos exigem uma alteração de código primeiro e identifique problemas que precisam de um desenvolvedor.
+- **Oportunidades de agente (Acesso antecipado)** — Veja como seu site atende os agentes de IA que navegam em nome dos visitantes, com oportunidades para ferramentas de agente, acessibilidade legível por agente e estabilidade e descoberta do site.
+
+### Aprimoramentos
+
+- **Cobertura de Valor Estimado (Acesso Antecipado)** — O valor estimado agora está disponível para Backlinks Quebrados, Links Internos Quebrados, Dados Estruturados Canônicos, Marcas do Meta, Consentimento de Cookies e oportunidades de conversão de formulários quando os dados de suporte estão disponíveis. As oportunidades de Hreflang também podem mostrar poupanças de mão de obra únicas estimadas.
+- **Detalhes do Valor Estimado (Acesso Antecipado)** — Os cartões de oportunidade e as páginas de detalhes agora mostram uma única estimativa de título, com intervalos e explicações mais claras no detalhamento. As economias de mão de obra da Core Web Vitals são identificadas como economias únicas em vez de economias mensais.
+- **Tíquetes Jira para Core Web Vitals (Acesso antecipado)** — crie tíquetes Jira para páginas selecionadas com problemas de desktop e dispositivos móveis, recomendações e patches de código disponíveis, mesmo quando uma página não tiver um patch implantável.
+- **Tíquetes Jira para Usuários de Avaliação** — Os usuários de Avaliação podem conectar o Jira e criar tíquetes para Texto Alternativo, Backlinks Quebrados, Links Internos Quebrados, Core Web Vitals, Acessibilidade, Contraste de Cores e Problemas de Acessibilidade de Formulário.
+- **Imagem-Primeira Revisão de Texto Alternativo** — A guia Texto Alternativo **Atual** agora lista sugestões por imagem, mostra cada página afetada e adiciona um painel de detalhes para edição e implantação. Para sites do AEM Multi-Site Manager, escolha se deseja aplicar uma correção na origem ou localmente no mesmo fluxo de implantação.
+- **Confirmação de Implantação de Correção de Código (Acesso Antecipado)** — Confirme se sua alteração implantada está ativa a partir de um cartão de correção de código de rótulo ARIA.
+- **Estados de oportunidade de avaliação** — Texto alternativo, Backlinks quebrados e cartões Core Web Vitals permanecem disponíveis quando nenhum problema atual é encontrado, e suas páginas de detalhes distinguem uma lista de problemas vazia de uma cota de otimização mensal concluída.
+- **Sugestões de acessibilidade** — as sugestões com patches de código baixáveis aparecem primeiro, facilitando a localização de correções prontas para uso.
+- **Diretrizes de Implantação de Formulários de Terceiros** — Exibições de Formulários Altos, Oportunidades de Conversões Baixas agora explicam quando um formulário não é criado no AEM e não pode ser implantado automaticamente, e desabilitam a implantação desses formulários.
+- **Recomendações de formulário focadas** — as oportunidades de formulário não mostram mais recomendações incompletas, como aquelas sem uma variação utilizável ou correção implantável, ou suas variações de teste vinculadas.
+
+### Correções de erros
+
+- Os relatórios de acessibilidade móvel agora usam as descobertas da verificação móvel em vez de correções do desktop nos detalhes do problema e nas exportações de CSV. Os relatórios unificados também não são mais vinculados a um relatório detalhado substituído.
+- Correção de um problema que podia ocultar as recomendações do Core Web Vitals para páginas de tráfego pago.
+- A Velocidade do site e os cartões de tempo médio de carregamento no Monitor de integridade de site e na página inicial agora exibem a unidade de segundos no idioma selecionado.
+- Erros genéricos ao adicionar membros em Permissões agora são exibidos no idioma selecionado.
+- Os cartões de oportunidade Hreflang não exibem mais um rótulo de subtipo redundante.
+- A integração de avaliação agora explica por que um domínio não pode ser adicionado em vez de mostrar um erro genérico.
+- As oportunidades de Texto alternativo não listam mais as imagens identificadas como decorativas.
+- O espaço reservado &quot;NA&quot; na página inicial agora é exibido no idioma selecionado.
 
 ## 26 de outubro-1 de novembro de 2026 {#october-26-november-1-2026}
 
